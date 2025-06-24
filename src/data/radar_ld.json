@@ -1,0 +1,1877 @@
+[
+  {
+    "Jugador": "R. Gonz\u00e1lez",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.767,
+      "Interceptaciones/90": 0.745,
+      "Centros desde la banda derecha/90": 0.722,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.394,
+      "Carreras en progresi\u00f3n/90": 0.518,
+      "Pases progresivos/90": 0.768,
+      "Aceleraciones/90": 0.424,
+      "Duelos defensivos ganados %": 1.0,
+      "Jugadas claves/90": 0.894
+    }
+  },
+  {
+    "Jugador": "J. C\u00e1ceres",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.704,
+      "Interceptaciones/90": 0.82,
+      "Centros desde la banda derecha/90": 0.591,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.371,
+      "Carreras en progresi\u00f3n/90": 0.453,
+      "Pases progresivos/90": 1.0,
+      "Aceleraciones/90": 0.254,
+      "Duelos defensivos ganados %": 0.765,
+      "Jugadas claves/90": 0.545
+    }
+  },
+  {
+    "Jugador": "A. Lagos",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Interceptaciones/90": 0.716,
+      "Centros desde la banda derecha/90": 0.531,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.29,
+      "Carreras en progresi\u00f3n/90": 0.322,
+      "Pases progresivos/90": 0.861,
+      "Aceleraciones/90": 0.22,
+      "Duelos defensivos ganados %": 0.822,
+      "Jugadas claves/90": 0.652
+    }
+  },
+  {
+    "Jugador": "L. Vargas",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.448,
+      "Interceptaciones/90": 0.358,
+      "Centros desde la banda derecha/90": 0.921,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.414,
+      "Carreras en progresi\u00f3n/90": 0.857,
+      "Pases progresivos/90": 0.567,
+      "Aceleraciones/90": 0.263,
+      "Duelos defensivos ganados %": 0.704,
+      "Jugadas claves/90": 0.636
+    }
+  },
+  {
+    "Jugador": "Y. Abon\u00eda",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.259,
+      "Interceptaciones/90": 0.092,
+      "Centros desde la banda derecha/90": 0.614,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.409,
+      "Carreras en progresi\u00f3n/90": 0.829,
+      "Pases progresivos/90": 0.222,
+      "Aceleraciones/90": 1.0,
+      "Duelos defensivos ganados %": 0.899,
+      "Jugadas claves/90": 0.788
+    }
+  },
+  {
+    "Jugador": "\u00c9. Ocampo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.219,
+      "Interceptaciones/90": 0.108,
+      "Centros desde la banda derecha/90": 0.557,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.464,
+      "Carreras en progresi\u00f3n/90": 0.812,
+      "Pases progresivos/90": 0.152,
+      "Aceleraciones/90": 0.915,
+      "Duelos defensivos ganados %": 0.803,
+      "Jugadas claves/90": 1.0
+    }
+  },
+  {
+    "Jugador": "R. Di Luciano",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.554,
+      "Interceptaciones/90": 0.629,
+      "Centros desde la banda derecha/90": 0.6,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.532,
+      "Carreras en progresi\u00f3n/90": 0.841,
+      "Pases progresivos/90": 0.391,
+      "Aceleraciones/90": 0.305,
+      "Duelos defensivos ganados %": 0.672,
+      "Jugadas claves/90": 0.485
+    }
+  },
+  {
+    "Jugador": "L. Morales",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.541,
+      "Interceptaciones/90": 0.545,
+      "Centros desde la banda derecha/90": 0.572,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.219,
+      "Carreras en progresi\u00f3n/90": 0.502,
+      "Pases progresivos/90": 0.598,
+      "Aceleraciones/90": 0.373,
+      "Duelos defensivos ganados %": 0.943,
+      "Jugadas claves/90": 0.712
+    }
+  },
+  {
+    "Jugador": "E. Ancheta",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.592,
+      "Interceptaciones/90": 0.633,
+      "Centros desde la banda derecha/90": 0.443,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.268,
+      "Carreras en progresi\u00f3n/90": 0.727,
+      "Pases progresivos/90": 0.651,
+      "Aceleraciones/90": 0.28,
+      "Duelos defensivos ganados %": 0.823,
+      "Jugadas claves/90": 0.561
+    }
+  },
+  {
+    "Jugador": "J. Barinaga",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.452,
+      "Interceptaciones/90": 0.446,
+      "Centros desde la banda derecha/90": 0.747,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.27,
+      "Carreras en progresi\u00f3n/90": 0.592,
+      "Pases progresivos/90": 0.404,
+      "Aceleraciones/90": 0.534,
+      "Duelos defensivos ganados %": 0.842,
+      "Jugadas claves/90": 0.667
+    }
+  },
+  {
+    "Jugador": "Claudinho",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.441,
+      "Interceptaciones/90": 0.523,
+      "Centros desde la banda derecha/90": 0.45,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.552,
+      "Carreras en progresi\u00f3n/90": 0.82,
+      "Pases progresivos/90": 0.632,
+      "Aceleraciones/90": 0.364,
+      "Duelos defensivos ganados %": 0.503,
+      "Jugadas claves/90": 0.652
+    }
+  },
+  {
+    "Jugador": "Nathan Mendes",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.378,
+      "Interceptaciones/90": 0.305,
+      "Centros desde la banda derecha/90": 0.274,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.659,
+      "Carreras en progresi\u00f3n/90": 0.608,
+      "Pases progresivos/90": 0.673,
+      "Aceleraciones/90": 0.661,
+      "Duelos defensivos ganados %": 0.795,
+      "Jugadas claves/90": 0.53
+    }
+  },
+  {
+    "Jugador": "D. Escobar",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.485,
+      "Interceptaciones/90": 0.42,
+      "Centros desde la banda derecha/90": 0.493,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.43,
+      "Carreras en progresi\u00f3n/90": 0.731,
+      "Pases progresivos/90": 0.515,
+      "Aceleraciones/90": 0.441,
+      "Duelos defensivos ganados %": 0.728,
+      "Jugadas claves/90": 0.591
+    }
+  },
+  {
+    "Jugador": "A. Schott",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.417,
+      "Interceptaciones/90": 0.51,
+      "Centros desde la banda derecha/90": 0.33,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.519,
+      "Carreras en progresi\u00f3n/90": 0.714,
+      "Pases progresivos/90": 0.526,
+      "Aceleraciones/90": 0.441,
+      "Duelos defensivos ganados %": 0.885,
+      "Jugadas claves/90": 0.394
+    }
+  },
+  {
+    "Jugador": "F. Gerometta",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.361,
+      "Interceptaciones/90": 0.207,
+      "Centros desde la banda derecha/90": 0.889,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.511,
+      "Carreras en progresi\u00f3n/90": 0.873,
+      "Pases progresivos/90": 0.534,
+      "Aceleraciones/90": 0.407,
+      "Duelos defensivos ganados %": 0.083,
+      "Jugadas claves/90": 0.848
+    }
+  },
+  {
+    "Jugador": "M. Garay",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.477,
+      "Interceptaciones/90": 0.422,
+      "Centros desde la banda derecha/90": 0.415,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.54,
+      "Carreras en progresi\u00f3n/90": 0.706,
+      "Pases progresivos/90": 0.8,
+      "Aceleraciones/90": 0.178,
+      "Duelos defensivos ganados %": 0.625,
+      "Jugadas claves/90": 0.53
+    }
+  },
+  {
+    "Jugador": "S. Figueredo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.464,
+      "Interceptaciones/90": 0.332,
+      "Centros desde la banda derecha/90": 0.7,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.35,
+      "Carreras en progresi\u00f3n/90": 0.498,
+      "Pases progresivos/90": 0.665,
+      "Aceleraciones/90": 0.322,
+      "Duelos defensivos ganados %": 0.703,
+      "Jugadas claves/90": 0.636
+    }
+  },
+  {
+    "Jugador": "Wesley",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.533,
+      "Interceptaciones/90": 0.402,
+      "Centros desde la banda derecha/90": 0.578,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.421,
+      "Carreras en progresi\u00f3n/90": 0.812,
+      "Pases progresivos/90": 0.294,
+      "Aceleraciones/90": 0.331,
+      "Duelos defensivos ganados %": 0.789,
+      "Jugadas claves/90": 0.455
+    }
+  },
+  {
+    "Jugador": "Railan",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.458,
+      "Interceptaciones/90": 0.501,
+      "Centros desde la banda derecha/90": 0.463,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.358,
+      "Carreras en progresi\u00f3n/90": 0.718,
+      "Pases progresivos/90": 0.513,
+      "Aceleraciones/90": 0.5,
+      "Duelos defensivos ganados %": 0.848,
+      "Jugadas claves/90": 0.197
+    }
+  },
+  {
+    "Jugador": "A. Garc\u00eda",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.665,
+      "Interceptaciones/90": 0.723,
+      "Centros desde la banda derecha/90": 0.263,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.526,
+      "Carreras en progresi\u00f3n/90": 0.31,
+      "Pases progresivos/90": 0.543,
+      "Aceleraciones/90": 0.119,
+      "Duelos defensivos ganados %": 0.812,
+      "Jugadas claves/90": 0.515
+    }
+  },
+  {
+    "Jugador": "F. Salinas",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.556,
+      "Interceptaciones/90": 0.624,
+      "Centros desde la banda derecha/90": 0.418,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.588,
+      "Carreras en progresi\u00f3n/90": 0.433,
+      "Pases progresivos/90": 0.486,
+      "Aceleraciones/90": 0.059,
+      "Duelos defensivos ganados %": 0.638,
+      "Jugadas claves/90": 0.636
+    }
+  },
+  {
+    "Jugador": "T. Santamar\u00eda",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.672,
+      "Interceptaciones/90": 0.387,
+      "Centros desde la banda derecha/90": 0.657,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.189,
+      "Carreras en progresi\u00f3n/90": 0.518,
+      "Pases progresivos/90": 0.713,
+      "Aceleraciones/90": 0.305,
+      "Duelos defensivos ganados %": 0.759,
+      "Jugadas claves/90": 0.227
+    }
+  },
+  {
+    "Jugador": "M. Arg\u00fcello",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.584,
+      "Interceptaciones/90": 0.352,
+      "Centros desde la banda derecha/90": 0.341,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.48,
+      "Carreras en progresi\u00f3n/90": 0.49,
+      "Pases progresivos/90": 0.702,
+      "Aceleraciones/90": 0.119,
+      "Duelos defensivos ganados %": 0.975,
+      "Jugadas claves/90": 0.318
+    }
+  },
+  {
+    "Jugador": "M. Ortega",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.371,
+      "Interceptaciones/90": 0.231,
+      "Centros desde la banda derecha/90": 1.0,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.409,
+      "Carreras en progresi\u00f3n/90": 0.478,
+      "Pases progresivos/90": 0.606,
+      "Aceleraciones/90": 0.136,
+      "Duelos defensivos ganados %": 0.697,
+      "Jugadas claves/90": 0.424
+    }
+  },
+  {
+    "Jugador": "J. Quintana",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.336,
+      "Interceptaciones/90": 0.105,
+      "Centros desde la banda derecha/90": 0.66,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.384,
+      "Carreras en progresi\u00f3n/90": 0.551,
+      "Pases progresivos/90": 0.453,
+      "Aceleraciones/90": 0.475,
+      "Duelos defensivos ganados %": 0.754,
+      "Jugadas claves/90": 0.606
+    }
+  },
+  {
+    "Jugador": "E. \u00c1lvarez",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.574,
+      "Interceptaciones/90": 0.552,
+      "Centros desde la banda derecha/90": 0.473,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.202,
+      "Carreras en progresi\u00f3n/90": 0.51,
+      "Pases progresivos/90": 0.507,
+      "Aceleraciones/90": 0.492,
+      "Duelos defensivos ganados %": 0.829,
+      "Jugadas claves/90": 0.182
+    }
+  },
+  {
+    "Jugador": "Bruno Gomes",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.626,
+      "Interceptaciones/90": 0.629,
+      "Centros desde la banda derecha/90": 0.338,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.307,
+      "Carreras en progresi\u00f3n/90": 0.588,
+      "Pases progresivos/90": 0.658,
+      "Aceleraciones/90": 0.034,
+      "Duelos defensivos ganados %": 0.818,
+      "Jugadas claves/90": 0.273
+    }
+  },
+  {
+    "Jugador": "L. Femia",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.542,
+      "Interceptaciones/90": 0.503,
+      "Centros desde la banda derecha/90": 0.24,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.474,
+      "Carreras en progresi\u00f3n/90": 0.645,
+      "Pases progresivos/90": 0.44,
+      "Aceleraciones/90": 0.356,
+      "Duelos defensivos ganados %": 0.557,
+      "Jugadas claves/90": 0.485
+    }
+  },
+  {
+    "Jugador": "G. Martirena",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.379,
+      "Interceptaciones/90": 0.457,
+      "Centros desde la banda derecha/90": 0.67,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.319,
+      "Carreras en progresi\u00f3n/90": 0.584,
+      "Pases progresivos/90": 0.53,
+      "Aceleraciones/90": 0.178,
+      "Duelos defensivos ganados %": 0.303,
+      "Jugadas claves/90": 0.818
+    }
+  },
+  {
+    "Jugador": "F. Perdomo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.486,
+      "Interceptaciones/90": 0.571,
+      "Centros desde la banda derecha/90": 0.443,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.18,
+      "Carreras en progresi\u00f3n/90": 0.522,
+      "Pases progresivos/90": 0.837,
+      "Aceleraciones/90": 0.153,
+      "Duelos defensivos ganados %": 0.572,
+      "Jugadas claves/90": 0.424
+    }
+  },
+  {
+    "Jugador": "J. Hurtado",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.441,
+      "Interceptaciones/90": 0.484,
+      "Centros desde la banda derecha/90": 0.623,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.358,
+      "Carreras en progresi\u00f3n/90": 0.563,
+      "Pases progresivos/90": 0.517,
+      "Aceleraciones/90": 0.11,
+      "Duelos defensivos ganados %": 0.498,
+      "Jugadas claves/90": 0.515
+    }
+  },
+  {
+    "Jugador": "T. Rubio",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.446,
+      "Interceptaciones/90": 0.367,
+      "Centros desde la banda derecha/90": 0.565,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.468,
+      "Carreras en progresi\u00f3n/90": 0.498,
+      "Pases progresivos/90": 0.39,
+      "Aceleraciones/90": 0.153,
+      "Duelos defensivos ganados %": 0.841,
+      "Jugadas claves/90": 0.273
+    }
+  },
+  {
+    "Jugador": "K. Amaro",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.219,
+      "Interceptaciones/90": 0.112,
+      "Centros desde la banda derecha/90": 0.638,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.558,
+      "Carreras en progresi\u00f3n/90": 0.608,
+      "Pases progresivos/90": 0.258,
+      "Aceleraciones/90": 0.178,
+      "Duelos defensivos ganados %": 0.573,
+      "Jugadas claves/90": 0.833
+    }
+  },
+  {
+    "Jugador": "E. Cannavo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.577,
+      "Interceptaciones/90": 0.609,
+      "Centros desde la banda derecha/90": 0.24,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.361,
+      "Carreras en progresi\u00f3n/90": 0.584,
+      "Pases progresivos/90": 0.289,
+      "Aceleraciones/90": 0.263,
+      "Duelos defensivos ganados %": 0.832,
+      "Jugadas claves/90": 0.152
+    }
+  },
+  {
+    "Jugador": "K. Prieto",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.316,
+      "Interceptaciones/90": 0.057,
+      "Centros desde la banda derecha/90": 0.655,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.457,
+      "Carreras en progresi\u00f3n/90": 0.955,
+      "Pases progresivos/90": 0.303,
+      "Aceleraciones/90": 0.144,
+      "Duelos defensivos ganados %": 0.515,
+      "Jugadas claves/90": 0.5
+    }
+  },
+  {
+    "Jugador": "Vitinho",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.357,
+      "Interceptaciones/90": 0.341,
+      "Centros desde la banda derecha/90": 0.664,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.512,
+      "Carreras en progresi\u00f3n/90": 0.376,
+      "Pases progresivos/90": 0.42,
+      "Aceleraciones/90": 0.127,
+      "Duelos defensivos ganados %": 0.478,
+      "Jugadas claves/90": 0.606
+    }
+  },
+  {
+    "Jugador": "G. Trasante",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.522,
+      "Interceptaciones/90": 0.396,
+      "Centros desde la banda derecha/90": 0.402,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.0,
+      "Carreras en progresi\u00f3n/90": 0.743,
+      "Pases progresivos/90": 0.507,
+      "Aceleraciones/90": 0.729,
+      "Duelos defensivos ganados %": 0.438,
+      "Jugadas claves/90": 0.136
+    }
+  },
+  {
+    "Jugador": "S. Sim\u00f3n",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.375,
+      "Interceptaciones/90": 0.248,
+      "Centros desde la banda derecha/90": 0.486,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.439,
+      "Carreras en progresi\u00f3n/90": 0.384,
+      "Pases progresivos/90": 0.812,
+      "Aceleraciones/90": 0.136,
+      "Duelos defensivos ganados %": 0.721,
+      "Jugadas claves/90": 0.242
+    }
+  },
+  {
+    "Jugador": "Y. Moreno",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.394,
+      "Interceptaciones/90": 0.541,
+      "Centros desde la banda derecha/90": 0.606,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.457,
+      "Carreras en progresi\u00f3n/90": 0.229,
+      "Pases progresivos/90": 0.423,
+      "Aceleraciones/90": 0.102,
+      "Duelos defensivos ganados %": 0.632,
+      "Jugadas claves/90": 0.455
+    }
+  },
+  {
+    "Jugador": "Y. Rosales",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.448,
+      "Interceptaciones/90": 0.393,
+      "Centros desde la banda derecha/90": 0.272,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.606,
+      "Carreras en progresi\u00f3n/90": 0.392,
+      "Pases progresivos/90": 0.445,
+      "Aceleraciones/90": 0.331,
+      "Duelos defensivos ganados %": 0.744,
+      "Jugadas claves/90": 0.197
+    }
+  },
+  {
+    "Jugador": "H. Palacios",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.431,
+      "Interceptaciones/90": 0.497,
+      "Centros desde la banda derecha/90": 0.291,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.445,
+      "Carreras en progresi\u00f3n/90": 0.498,
+      "Pases progresivos/90": 0.22,
+      "Aceleraciones/90": 0.195,
+      "Duelos defensivos ganados %": 0.818,
+      "Jugadas claves/90": 0.409
+    }
+  },
+  {
+    "Jugador": "Mateo Ponte",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.389,
+      "Interceptaciones/90": 0.18,
+      "Centros desde la banda derecha/90": 0.508,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.68,
+      "Carreras en progresi\u00f3n/90": 0.424,
+      "Pases progresivos/90": 0.346,
+      "Aceleraciones/90": 0.068,
+      "Duelos defensivos ganados %": 0.841,
+      "Jugadas claves/90": 0.364
+    }
+  },
+  {
+    "Jugador": "E. Busquets",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.661,
+      "Interceptaciones/90": 0.657,
+      "Centros desde la banda derecha/90": 0.18,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.123,
+      "Carreras en progresi\u00f3n/90": 0.233,
+      "Pases progresivos/90": 0.428,
+      "Aceleraciones/90": 0.136,
+      "Duelos defensivos ganados %": 0.877,
+      "Jugadas claves/90": 0.5
+    }
+  },
+  {
+    "Jugador": "J. Garc\u00eda",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.378,
+      "Interceptaciones/90": 0.237,
+      "Centros desde la banda derecha/90": 0.368,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.341,
+      "Carreras en progresi\u00f3n/90": 0.551,
+      "Pases progresivos/90": 0.644,
+      "Aceleraciones/90": 0.178,
+      "Duelos defensivos ganados %": 0.712,
+      "Jugadas claves/90": 0.318
+    }
+  },
+  {
+    "Jugador": "P. Milans",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.386,
+      "Interceptaciones/90": 0.266,
+      "Centros desde la banda derecha/90": 0.439,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.618,
+      "Carreras en progresi\u00f3n/90": 0.233,
+      "Pases progresivos/90": 0.398,
+      "Aceleraciones/90": 0.119,
+      "Duelos defensivos ganados %": 0.82,
+      "Jugadas claves/90": 0.439
+    }
+  },
+  {
+    "Jugador": "J. Espejo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.34,
+      "Interceptaciones/90": 0.444,
+      "Centros desde la banda derecha/90": 0.347,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.666,
+      "Carreras en progresi\u00f3n/90": 0.314,
+      "Pases progresivos/90": 0.385,
+      "Aceleraciones/90": 0.144,
+      "Duelos defensivos ganados %": 0.566,
+      "Jugadas claves/90": 0.5
+    }
+  },
+  {
+    "Jugador": "D. Alfonzo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.482,
+      "Interceptaciones/90": 0.325,
+      "Centros desde la banda derecha/90": 0.426,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.677,
+      "Carreras en progresi\u00f3n/90": 0.253,
+      "Pases progresivos/90": 0.355,
+      "Aceleraciones/90": 0.093,
+      "Duelos defensivos ganados %": 0.771,
+      "Jugadas claves/90": 0.318
+    }
+  },
+  {
+    "Jugador": "Matheuzinho",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.37,
+      "Interceptaciones/90": 0.36,
+      "Centros desde la banda derecha/90": 0.345,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.57,
+      "Carreras en progresi\u00f3n/90": 0.469,
+      "Pases progresivos/90": 0.476,
+      "Aceleraciones/90": 0.254,
+      "Duelos defensivos ganados %": 0.528,
+      "Jugadas claves/90": 0.318
+    }
+  },
+  {
+    "Jugador": "J. Rojas",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.512,
+      "Interceptaciones/90": 0.521,
+      "Centros desde la banda derecha/90": 0.24,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.508,
+      "Carreras en progresi\u00f3n/90": 0.563,
+      "Pases progresivos/90": 0.391,
+      "Aceleraciones/90": 0.136,
+      "Duelos defensivos ganados %": 0.519,
+      "Jugadas claves/90": 0.242
+    }
+  },
+  {
+    "Jugador": "N. Fern\u00e1ndez",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.349,
+      "Interceptaciones/90": 0.27,
+      "Centros desde la banda derecha/90": 0.645,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.44,
+      "Carreras en progresi\u00f3n/90": 0.412,
+      "Pases progresivos/90": 0.481,
+      "Aceleraciones/90": 0.229,
+      "Duelos defensivos ganados %": 0.635,
+      "Jugadas claves/90": 0.167
+    }
+  },
+  {
+    "Jugador": "P. Joly",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.974,
+      "Interceptaciones/90": 0.82,
+      "Centros desde la banda derecha/90": 0.939,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.374,
+      "Carreras en progresi\u00f3n/90": 0.47,
+      "Pases progresivos/90": 1.0,
+      "Aceleraciones/90": 0.086,
+      "Duelos defensivos ganados %": 0.582,
+      "Jugadas claves/90": 0.653
+    }
+  },
+  {
+    "Jugador": "K. Hoever",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.549,
+      "Interceptaciones/90": 0.629,
+      "Centros desde la banda derecha/90": 0.595,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.457,
+      "Carreras en progresi\u00f3n/90": 0.542,
+      "Pases progresivos/90": 0.768,
+      "Aceleraciones/90": 0.138,
+      "Duelos defensivos ganados %": 0.499,
+      "Jugadas claves/90": 0.653
+    }
+  },
+  {
+    "Jugador": "Tiago Santos",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.195,
+      "Interceptaciones/90": 0.014,
+      "Centros desde la banda derecha/90": 0.839,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.458,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Pases progresivos/90": 0.418,
+      "Aceleraciones/90": 0.763,
+      "Duelos defensivos ganados %": 0.531,
+      "Jugadas claves/90": 0.583
+    }
+  },
+  {
+    "Jugador": "Marvin Park",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.765,
+      "Interceptaciones/90": 0.559,
+      "Centros desde la banda derecha/90": 0.88,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.388,
+      "Carreras en progresi\u00f3n/90": 0.435,
+      "Pases progresivos/90": 0.381,
+      "Aceleraciones/90": 0.329,
+      "Duelos defensivos ganados %": 0.559,
+      "Jugadas claves/90": 0.417
+    }
+  },
+  {
+    "Jugador": "L. Assignon",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.439,
+      "Interceptaciones/90": 0.377,
+      "Centros desde la banda derecha/90": 0.575,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.433,
+      "Carreras en progresi\u00f3n/90": 0.896,
+      "Pases progresivos/90": 0.523,
+      "Aceleraciones/90": 0.526,
+      "Duelos defensivos ganados %": 0.143,
+      "Jugadas claves/90": 0.681
+    }
+  },
+  {
+    "Jugador": "A. Seidu",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.765,
+      "Interceptaciones/90": 0.725,
+      "Centros desde la banda derecha/90": 0.054,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.267,
+      "Carreras en progresi\u00f3n/90": 0.681,
+      "Pases progresivos/90": 0.36,
+      "Aceleraciones/90": 0.5,
+      "Duelos defensivos ganados %": 0.891,
+      "Jugadas claves/90": 0.222
+    }
+  },
+  {
+    "Jugador": "E. Tchato",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.655,
+      "Interceptaciones/90": 0.423,
+      "Centros desde la banda derecha/90": 0.702,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.462,
+      "Carreras en progresi\u00f3n/90": 0.501,
+      "Pases progresivos/90": 0.532,
+      "Aceleraciones/90": 0.204,
+      "Duelos defensivos ganados %": 0.738,
+      "Jugadas claves/90": 0.236
+    }
+  },
+  {
+    "Jugador": "A. Hainaut",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.718,
+      "Interceptaciones/90": 1.0,
+      "Centros desde la banda derecha/90": 0.397,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.736,
+      "Carreras en progresi\u00f3n/90": 0.377,
+      "Pases progresivos/90": 0.282,
+      "Aceleraciones/90": 0.382,
+      "Duelos defensivos ganados %": 0.258,
+      "Jugadas claves/90": 0.194
+    }
+  },
+  {
+    "Jugador": "V. Gendrey",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.434,
+      "Interceptaciones/90": 0.429,
+      "Centros desde la banda derecha/90": 0.549,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.388,
+      "Carreras en progresi\u00f3n/90": 0.304,
+      "Pases progresivos/90": 0.521,
+      "Aceleraciones/90": 0.072,
+      "Duelos defensivos ganados %": 1.0,
+      "Jugadas claves/90": 0.597
+    }
+  },
+  {
+    "Jugador": "G. Zappa",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.375,
+      "Interceptaciones/90": 0.194,
+      "Centros desde la banda derecha/90": 0.427,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.606,
+      "Carreras en progresi\u00f3n/90": 0.403,
+      "Pases progresivos/90": 0.928,
+      "Aceleraciones/90": 0.23,
+      "Duelos defensivos ganados %": 0.461,
+      "Jugadas claves/90": 0.611
+    }
+  },
+  {
+    "Jugador": "D. Spence",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.56,
+      "Interceptaciones/90": 0.583,
+      "Centros desde la banda derecha/90": 0.028,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.667,
+      "Carreras en progresi\u00f3n/90": 0.736,
+      "Pases progresivos/90": 0.369,
+      "Aceleraciones/90": 0.368,
+      "Duelos defensivos ganados %": 0.587,
+      "Jugadas claves/90": 0.319
+    }
+  },
+  {
+    "Jugador": "Jes\u00fas Areso",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.197,
+      "Interceptaciones/90": 0.087,
+      "Centros desde la banda derecha/90": 1.0,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.417,
+      "Carreras en progresi\u00f3n/90": 0.51,
+      "Pases progresivos/90": 0.428,
+      "Aceleraciones/90": 0.388,
+      "Duelos defensivos ganados %": 0.694,
+      "Jugadas claves/90": 0.486
+    }
+  },
+  {
+    "Jugador": "Alejandro Franc\u00e9s",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.82,
+      "Interceptaciones/90": 0.678,
+      "Centros desde la banda derecha/90": 0.381,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.296,
+      "Carreras en progresi\u00f3n/90": 0.272,
+      "Pases progresivos/90": 0.867,
+      "Aceleraciones/90": 0.211,
+      "Duelos defensivos ganados %": 0.469,
+      "Jugadas claves/90": 0.194
+    }
+  },
+  {
+    "Jugador": "\u00c1lex Jim\u00e9nez",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.632,
+      "Interceptaciones/90": 0.507,
+      "Centros desde la banda derecha/90": 0.418,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.387,
+      "Carreras en progresi\u00f3n/90": 0.948,
+      "Pases progresivos/90": 0.242,
+      "Aceleraciones/90": 0.329,
+      "Duelos defensivos ganados %": 0.528,
+      "Jugadas claves/90": 0.181
+    }
+  },
+  {
+    "Jugador": "G. Dou\u00e9",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.648,
+      "Interceptaciones/90": 0.797,
+      "Centros desde la banda derecha/90": 0.261,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.385,
+      "Carreras en progresi\u00f3n/90": 0.325,
+      "Pases progresivos/90": 0.85,
+      "Aceleraciones/90": 0.237,
+      "Duelos defensivos ganados %": 0.445,
+      "Jugadas claves/90": 0.208
+    }
+  },
+  {
+    "Jugador": "Jon Aramburu",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Interceptaciones/90": 0.643,
+      "Centros desde la banda derecha/90": 0.307,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.406,
+      "Carreras en progresi\u00f3n/90": 0.122,
+      "Pases progresivos/90": 0.605,
+      "Aceleraciones/90": 0.138,
+      "Duelos defensivos ganados %": 0.578,
+      "Jugadas claves/90": 0.333
+    }
+  },
+  {
+    "Jugador": "L. Stergiou",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.646,
+      "Interceptaciones/90": 0.493,
+      "Centros desde la banda derecha/90": 0.414,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.533,
+      "Carreras en progresi\u00f3n/90": 0.188,
+      "Pases progresivos/90": 0.483,
+      "Aceleraciones/90": 0.033,
+      "Duelos defensivos ganados %": 0.917,
+      "Jugadas claves/90": 0.347
+    }
+  },
+  {
+    "Jugador": "F. Agu",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.299,
+      "Interceptaciones/90": 0.365,
+      "Centros desde la banda derecha/90": 0.033,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.889,
+      "Carreras en progresi\u00f3n/90": 0.414,
+      "Pases progresivos/90": 0.386,
+      "Aceleraciones/90": 0.329,
+      "Duelos defensivos ganados %": 0.661,
+      "Jugadas claves/90": 0.667
+    }
+  },
+  {
+    "Jugador": "M. Roerslev",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.326,
+      "Interceptaciones/90": 0.087,
+      "Centros desde la banda derecha/90": 0.547,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.5,
+      "Carreras en progresi\u00f3n/90": 0.264,
+      "Pases progresivos/90": 0.521,
+      "Aceleraciones/90": 0.125,
+      "Duelos defensivos ganados %": 0.575,
+      "Jugadas claves/90": 1.0
+    }
+  },
+  {
+    "Jugador": "P. Katseris",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.435,
+      "Interceptaciones/90": 0.232,
+      "Centros desde la banda derecha/90": 0.895,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.103,
+      "Carreras en progresi\u00f3n/90": 0.568,
+      "Pases progresivos/90": 0.0,
+      "Aceleraciones/90": 1.0,
+      "Duelos defensivos ganados %": 0.326,
+      "Jugadas claves/90": 0.347
+    }
+  },
+  {
+    "Jugador": "Y. Mosquera",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.715,
+      "Interceptaciones/90": 0.93,
+      "Centros desde la banda derecha/90": 0.065,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.667,
+      "Carreras en progresi\u00f3n/90": 0.116,
+      "Pases progresivos/90": 0.37,
+      "Aceleraciones/90": 0.086,
+      "Duelos defensivos ganados %": 0.796,
+      "Jugadas claves/90": 0.153
+    }
+  },
+  {
+    "Jugador": "Jos\u00e9 \u00c1ngel Carmona",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.788,
+      "Interceptaciones/90": 0.623,
+      "Centros desde la banda derecha/90": 0.237,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.515,
+      "Carreras en progresi\u00f3n/90": 0.293,
+      "Pases progresivos/90": 0.472,
+      "Aceleraciones/90": 0.217,
+      "Duelos defensivos ganados %": 0.459,
+      "Jugadas claves/90": 0.236
+    }
+  },
+  {
+    "Jugador": "K. Fischer",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.658,
+      "Interceptaciones/90": 0.6,
+      "Centros desde la banda derecha/90": 0.364,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.359,
+      "Carreras en progresi\u00f3n/90": 0.472,
+      "Pases progresivos/90": 0.494,
+      "Aceleraciones/90": 0.23,
+      "Duelos defensivos ganados %": 0.402,
+      "Jugadas claves/90": 0.236
+    }
+  },
+  {
+    "Jugador": "S. Mouri\u00f1o",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.516,
+      "Interceptaciones/90": 0.53,
+      "Centros desde la banda derecha/90": 0.009,
+      "Precisi\u00f3n centros desde la banda derecha %": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.22,
+      "Pases progresivos/90": 0.339,
+      "Aceleraciones/90": 0.151,
+      "Duelos defensivos ganados %": 0.874,
+      "Jugadas claves/90": 0.125
+    }
+  },
+  {
+    "Jugador": "Jo\u00e3o Neves",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.56,
+      "Interceptaciones/90": 0.316,
+      "Centros desde la banda derecha/90": 0.037,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.0,
+      "Carreras en progresi\u00f3n/90": 0.394,
+      "Pases progresivos/90": 0.422,
+      "Aceleraciones/90": 0.125,
+      "Duelos defensivos ganados %": 0.902,
+      "Jugadas claves/90": 1.0
+    }
+  },
+  {
+    "Jugador": "L. Raolisoa",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.406,
+      "Interceptaciones/90": 0.301,
+      "Centros desde la banda derecha/90": 0.608,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.548,
+      "Pases progresivos/90": 0.388,
+      "Aceleraciones/90": 0.138,
+      "Duelos defensivos ganados %": 0.197,
+      "Jugadas claves/90": 0.597
+    }
+  },
+  {
+    "Jugador": "J. Scally",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.444,
+      "Interceptaciones/90": 0.299,
+      "Centros desde la banda derecha/90": 0.379,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.357,
+      "Carreras en progresi\u00f3n/90": 0.414,
+      "Pases progresivos/90": 0.64,
+      "Aceleraciones/90": 0.309,
+      "Duelos defensivos ganados %": 0.577,
+      "Jugadas claves/90": 0.097
+    }
+  },
+  {
+    "Jugador": "W. Coulibaly",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.484,
+      "Interceptaciones/90": 0.499,
+      "Centros desde la banda derecha/90": 0.031,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.748,
+      "Pases progresivos/90": 0.35,
+      "Aceleraciones/90": 0.572,
+      "Duelos defensivos ganados %": 0.276,
+      "Jugadas claves/90": 0.194
+    }
+  },
+  {
+    "Jugador": "J. Thielmann",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.135,
+      "Interceptaciones/90": 0.157,
+      "Centros desde la banda derecha/90": 0.497,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.476,
+      "Carreras en progresi\u00f3n/90": 0.545,
+      "Pases progresivos/90": 0.24,
+      "Aceleraciones/90": 0.586,
+      "Duelos defensivos ganados %": 0.283,
+      "Jugadas claves/90": 0.556
+    }
+  },
+  {
+    "Jugador": "O. El Hilali",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.774,
+      "Interceptaciones/90": 0.58,
+      "Centros desde la banda derecha/90": 0.303,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.452,
+      "Carreras en progresi\u00f3n/90": 0.116,
+      "Pases progresivos/90": 0.6,
+      "Aceleraciones/90": 0.132,
+      "Duelos defensivos ganados %": 0.247,
+      "Jugadas claves/90": 0.222
+    }
+  },
+  {
+    "Jugador": "M. Pedersen",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.214,
+      "Interceptaciones/90": 0.116,
+      "Centros desde la banda derecha/90": 0.786,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.344,
+      "Carreras en progresi\u00f3n/90": 0.629,
+      "Pases progresivos/90": 0.082,
+      "Aceleraciones/90": 0.539,
+      "Duelos defensivos ganados %": 0.336,
+      "Jugadas claves/90": 0.333
+    }
+  },
+  {
+    "Jugador": "A. Candela",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.23,
+      "Interceptaciones/90": 0.368,
+      "Centros desde la banda derecha/90": 0.379,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.496,
+      "Carreras en progresi\u00f3n/90": 0.397,
+      "Pases progresivos/90": 0.494,
+      "Aceleraciones/90": 0.355,
+      "Duelos defensivos ganados %": 0.116,
+      "Jugadas claves/90": 0.542
+    }
+  },
+  {
+    "Jugador": "J. Vagnoman",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.32,
+      "Interceptaciones/90": 0.238,
+      "Centros desde la banda derecha/90": 0.438,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.528,
+      "Carreras en progresi\u00f3n/90": 0.304,
+      "Pases progresivos/90": 0.277,
+      "Aceleraciones/90": 0.125,
+      "Duelos defensivos ganados %": 0.614,
+      "Jugadas claves/90": 0.5
+    }
+  },
+  {
+    "Jugador": "S. Birindelli",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.003,
+      "Interceptaciones/90": 0.22,
+      "Centros desde la banda derecha/90": 0.808,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.458,
+      "Carreras en progresi\u00f3n/90": 0.412,
+      "Pases progresivos/90": 0.328,
+      "Aceleraciones/90": 0.283,
+      "Duelos defensivos ganados %": 0.0,
+      "Jugadas claves/90": 0.792
+    }
+  },
+  {
+    "Jugador": "M. Rosenfelder",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.57,
+      "Interceptaciones/90": 0.591,
+      "Centros desde la banda derecha/90": 0.113,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.0,
+      "Carreras en progresi\u00f3n/90": 0.403,
+      "Pases progresivos/90": 0.271,
+      "Aceleraciones/90": 0.283,
+      "Duelos defensivos ganados %": 0.957,
+      "Jugadas claves/90": 0.097
+    }
+  },
+  {
+    "Jugador": "T. Oermann",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.691,
+      "Interceptaciones/90": 0.325,
+      "Centros desde la banda derecha/90": 0.129,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.6,
+      "Carreras en progresi\u00f3n/90": 0.191,
+      "Pases progresivos/90": 0.247,
+      "Aceleraciones/90": 0.079,
+      "Duelos defensivos ganados %": 0.966,
+      "Jugadas claves/90": 0.056
+    }
+  },
+  {
+    "Jugador": "J. Tchatchoua",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.0,
+      "Interceptaciones/90": 0.0,
+      "Centros desde la banda derecha/90": 0.647,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.456,
+      "Carreras en progresi\u00f3n/90": 0.475,
+      "Pases progresivos/90": 0.155,
+      "Aceleraciones/90": 0.276,
+      "Duelos defensivos ganados %": 0.522,
+      "Jugadas claves/90": 0.736
+    }
+  },
+  {
+    "Jugador": "Sergio Carreira",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.181,
+      "Interceptaciones/90": 0.11,
+      "Centros desde la banda derecha/90": 0.519,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.497,
+      "Carreras en progresi\u00f3n/90": 0.4,
+      "Pases progresivos/90": 0.606,
+      "Aceleraciones/90": 0.079,
+      "Duelos defensivos ganados %": 0.262,
+      "Jugadas claves/90": 0.611
+    }
+  },
+  {
+    "Jugador": "S. Walukiewicz",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.549,
+      "Interceptaciones/90": 0.388,
+      "Centros desde la banda derecha/90": 0.209,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.5,
+      "Carreras en progresi\u00f3n/90": 0.284,
+      "Pases progresivos/90": 0.607,
+      "Aceleraciones/90": 0.039,
+      "Duelos defensivos ganados %": 0.393,
+      "Jugadas claves/90": 0.125
+    }
+  },
+  {
+    "Jugador": "L. Rosenboom",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.527,
+      "Interceptaciones/90": 0.672,
+      "Centros desde la banda derecha/90": 0.157,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.667,
+      "Carreras en progresi\u00f3n/90": 0.067,
+      "Pases progresivos/90": 0.137,
+      "Aceleraciones/90": 0.046,
+      "Duelos defensivos ganados %": 0.28,
+      "Jugadas claves/90": 0.458
+    }
+  },
+  {
+    "Jugador": "T. Pemb\u00e9l\u00e9",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.475,
+      "Interceptaciones/90": 0.328,
+      "Centros desde la banda derecha/90": 0.355,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.16,
+      "Carreras en progresi\u00f3n/90": 0.461,
+      "Pases progresivos/90": 0.263,
+      "Aceleraciones/90": 0.309,
+      "Duelos defensivos ganados %": 0.646,
+      "Jugadas claves/90": 0.0
+    }
+  },
+  {
+    "Jugador": "J. Bogle",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.544,
+      "Interceptaciones/90": 0.533,
+      "Centros desde la banda derecha/90": 0.24,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.29,
+      "Carreras en progresi\u00f3n/90": 0.333,
+      "Pases progresivos/90": 0.109,
+      "Aceleraciones/90": 0.441,
+      "Duelos defensivos ganados %": 0.155,
+      "Jugadas claves/90": 0.222
+    }
+  },
+  {
+    "Jugador": "W. Zaire-Emery",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.392,
+      "Interceptaciones/90": 0.275,
+      "Centros desde la banda derecha/90": 0.065,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.242,
+      "Carreras en progresi\u00f3n/90": 0.591,
+      "Pases progresivos/90": 0.299,
+      "Aceleraciones/90": 0.164,
+      "Duelos defensivos ganados %": 0.418,
+      "Jugadas claves/90": 0.389
+    }
+  },
+  {
+    "Jugador": "N. Collins",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.458,
+      "Interceptaciones/90": 0.475,
+      "Centros desde la banda derecha/90": 0.22,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.317,
+      "Carreras en progresi\u00f3n/90": 0.403,
+      "Pases progresivos/90": 0.428,
+      "Aceleraciones/90": 0.053,
+      "Duelos defensivos ganados %": 0.466,
+      "Jugadas claves/90": 0.0
+    }
+  },
+  {
+    "Jugador": "E. Del Prato",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.518,
+      "Interceptaciones/90": 0.69,
+      "Centros desde la banda derecha/90": 0.074,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.314,
+      "Carreras en progresi\u00f3n/90": 0.0,
+      "Pases progresivos/90": 0.343,
+      "Aceleraciones/90": 0.0,
+      "Duelos defensivos ganados %": 0.733,
+      "Jugadas claves/90": 0.111
+    }
+  },
+  {
+    "Jugador": "F. Daniliuc",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.584,
+      "Interceptaciones/90": 0.159,
+      "Centros desde la banda derecha/90": 0.078,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.667,
+      "Carreras en progresi\u00f3n/90": 0.099,
+      "Pases progresivos/90": 0.377,
+      "Aceleraciones/90": 0.033,
+      "Duelos defensivos ganados %": 0.661,
+      "Jugadas claves/90": 0.0
+    }
+  },
+  {
+    "Jugador": "T. Kristensen",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.292,
+      "Interceptaciones/90": 0.249,
+      "Centros desde la banda derecha/90": 0.072,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.4,
+      "Carreras en progresi\u00f3n/90": 0.214,
+      "Pases progresivos/90": 0.61,
+      "Aceleraciones/90": 0.072,
+      "Duelos defensivos ganados %": 0.517,
+      "Jugadas claves/90": 0.194
+    }
+  },
+  {
+    "Jugador": "I. Van der Brempt",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.33,
+      "Interceptaciones/90": 0.064,
+      "Centros desde la banda derecha/90": 0.288,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.303,
+      "Carreras en progresi\u00f3n/90": 0.33,
+      "Pases progresivos/90": 0.427,
+      "Aceleraciones/90": 0.112,
+      "Duelos defensivos ganados %": 0.441,
+      "Jugadas claves/90": 0.278
+    }
+  },
+  {
+    "Jugador": "B. Johnson",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.677,
+      "Interceptaciones/90": 0.438,
+      "Centros desde la banda derecha/90": 0.266,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.348,
+      "Carreras en progresi\u00f3n/90": 0.014,
+      "Pases progresivos/90": 0.151,
+      "Aceleraciones/90": 0.099,
+      "Duelos defensivos ganados %": 0.182,
+      "Jugadas claves/90": 0.333
+    }
+  },
+  {
+    "Jugador": "Arnau Mart\u00ednez",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.23,
+      "Interceptaciones/90": 0.226,
+      "Centros desde la banda derecha/90": 0.427,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.338,
+      "Carreras en progresi\u00f3n/90": 0.319,
+      "Pases progresivos/90": 0.513,
+      "Aceleraciones/90": 0.039,
+      "Duelos defensivos ganados %": 0.152,
+      "Jugadas claves/90": 0.264
+    }
+  },
+  {
+    "Jugador": "L. Kolbe",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.328,
+      "Interceptaciones/90": 0.525,
+      "Centros desde la banda derecha/90": 1.0,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.349,
+      "Carreras en progresi\u00f3n/90": 0.911,
+      "Pases progresivos/90": 0.246,
+      "Aceleraciones/90": 1.0,
+      "Duelos defensivos ganados %": 0.369,
+      "Jugadas claves/90": 1.0
+    }
+  },
+  {
+    "Jugador": "Carlos Torrado",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.378,
+      "Interceptaciones/90": 0.446,
+      "Centros desde la banda derecha/90": 0.941,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.313,
+      "Carreras en progresi\u00f3n/90": 0.572,
+      "Pases progresivos/90": 0.359,
+      "Aceleraciones/90": 0.984,
+      "Duelos defensivos ganados %": 0.388,
+      "Jugadas claves/90": 0.714
+    }
+  },
+  {
+    "Jugador": "David Bonito",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.441,
+      "Interceptaciones/90": 0.486,
+      "Centros desde la banda derecha/90": 0.634,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.268,
+      "Carreras en progresi\u00f3n/90": 0.563,
+      "Pases progresivos/90": 0.496,
+      "Aceleraciones/90": 0.943,
+      "Duelos defensivos ganados %": 0.486,
+      "Jugadas claves/90": 0.655
+    }
+  },
+  {
+    "Jugador": "T. Sang",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.572,
+      "Interceptaciones/90": 0.851,
+      "Centros desde la banda derecha/90": 0.775,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.402,
+      "Carreras en progresi\u00f3n/90": 0.291,
+      "Pases progresivos/90": 0.726,
+      "Aceleraciones/90": 0.236,
+      "Duelos defensivos ganados %": 0.548,
+      "Jugadas claves/90": 0.488
+    }
+  },
+  {
+    "Jugador": "M. Tandara",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.6,
+      "Interceptaciones/90": 0.442,
+      "Centros desde la banda derecha/90": 0.717,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.374,
+      "Carreras en progresi\u00f3n/90": 0.489,
+      "Pases progresivos/90": 0.618,
+      "Aceleraciones/90": 0.602,
+      "Duelos defensivos ganados %": 0.608,
+      "Jugadas claves/90": 0.417
+    }
+  },
+  {
+    "Jugador": "N. Mickelson",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.186,
+      "Interceptaciones/90": 0.188,
+      "Centros desde la banda derecha/90": 0.279,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.509,
+      "Carreras en progresi\u00f3n/90": 0.996,
+      "Pases progresivos/90": 0.408,
+      "Aceleraciones/90": 0.748,
+      "Duelos defensivos ganados %": 0.482,
+      "Jugadas claves/90": 1.0
+    }
+  },
+  {
+    "Jugador": "A. Ja\u0161i\u0107",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.591,
+      "Interceptaciones/90": 0.675,
+      "Centros desde la banda derecha/90": 0.517,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.304,
+      "Carreras en progresi\u00f3n/90": 0.454,
+      "Pases progresivos/90": 0.777,
+      "Aceleraciones/90": 0.203,
+      "Duelos defensivos ganados %": 0.601,
+      "Jugadas claves/90": 0.667
+    }
+  },
+  {
+    "Jugador": "V. Popov",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.721,
+      "Interceptaciones/90": 0.833,
+      "Centros desde la banda derecha/90": 0.405,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.434,
+      "Carreras en progresi\u00f3n/90": 0.335,
+      "Pases progresivos/90": 1.0,
+      "Aceleraciones/90": 0.13,
+      "Duelos defensivos ganados %": 0.43,
+      "Jugadas claves/90": 0.488
+    }
+  },
+  {
+    "Jugador": "R. Frosinini",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.769,
+      "Interceptaciones/90": 0.83,
+      "Centros desde la banda derecha/90": 0.589,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.338,
+      "Carreras en progresi\u00f3n/90": 0.407,
+      "Pases progresivos/90": 0.551,
+      "Aceleraciones/90": 0.187,
+      "Duelos defensivos ganados %": 0.592,
+      "Jugadas claves/90": 0.5
+    }
+  },
+  {
+    "Jugador": "F. Posavac",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.402,
+      "Interceptaciones/90": 0.484,
+      "Centros desde la banda derecha/90": 0.688,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.383,
+      "Carreras en progresi\u00f3n/90": 0.476,
+      "Pases progresivos/90": 0.598,
+      "Aceleraciones/90": 0.748,
+      "Duelos defensivos ganados %": 0.447,
+      "Jugadas claves/90": 0.512
+    }
+  },
+  {
+    "Jugador": "E. Parente",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.533,
+      "Interceptaciones/90": 0.454,
+      "Centros desde la banda derecha/90": 0.296,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.409,
+      "Carreras en progresi\u00f3n/90": 0.648,
+      "Pases progresivos/90": 0.768,
+      "Aceleraciones/90": 0.35,
+      "Duelos defensivos ganados %": 0.86,
+      "Jugadas claves/90": 0.345
+    }
+  },
+  {
+    "Jugador": "A. Nsakala",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.41,
+      "Interceptaciones/90": 0.372,
+      "Centros desde la banda derecha/90": 0.537,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.256,
+      "Carreras en progresi\u00f3n/90": 0.659,
+      "Pases progresivos/90": 0.442,
+      "Aceleraciones/90": 0.984,
+      "Duelos defensivos ganados %": 0.62,
+      "Jugadas claves/90": 0.357
+    }
+  },
+  {
+    "Jugador": "K. Wilson",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.361,
+      "Interceptaciones/90": 0.468,
+      "Centros desde la banda derecha/90": 0.796,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.73,
+      "Pases progresivos/90": 0.191,
+      "Aceleraciones/90": 0.675,
+      "Duelos defensivos ganados %": 0.476,
+      "Jugadas claves/90": 0.595
+    }
+  },
+  {
+    "Jugador": "J. van Kaam",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.508,
+      "Interceptaciones/90": 0.523,
+      "Centros desde la banda derecha/90": 0.69,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.254,
+      "Carreras en progresi\u00f3n/90": 0.685,
+      "Pases progresivos/90": 0.338,
+      "Aceleraciones/90": 0.911,
+      "Duelos defensivos ganados %": 0.295,
+      "Jugadas claves/90": 0.417
+    }
+  },
+  {
+    "Jugador": "S. Su\u013ea",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.387,
+      "Interceptaciones/90": 0.514,
+      "Centros desde la banda derecha/90": 0.595,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.441,
+      "Carreras en progresi\u00f3n/90": 0.354,
+      "Pases progresivos/90": 0.782,
+      "Aceleraciones/90": 0.447,
+      "Duelos defensivos ganados %": 0.5,
+      "Jugadas claves/90": 0.571
+    }
+  },
+  {
+    "Jugador": "S. Ali\u0107",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.597,
+      "Interceptaciones/90": 0.693,
+      "Centros desde la banda derecha/90": 0.593,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.355,
+      "Carreras en progresi\u00f3n/90": 0.507,
+      "Pases progresivos/90": 0.393,
+      "Aceleraciones/90": 0.333,
+      "Duelos defensivos ganados %": 0.646,
+      "Jugadas claves/90": 0.429
+    }
+  },
+  {
+    "Jugador": "O. Schulz",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.615,
+      "Interceptaciones/90": 0.695,
+      "Centros desde la banda derecha/90": 0.493,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.375,
+      "Carreras en progresi\u00f3n/90": 0.413,
+      "Pases progresivos/90": 0.93,
+      "Aceleraciones/90": 0.163,
+      "Duelos defensivos ganados %": 0.463,
+      "Jugadas claves/90": 0.393
+    }
+  },
+  {
+    "Jugador": "L. Bortoli",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.481,
+      "Interceptaciones/90": 0.514,
+      "Centros desde la banda derecha/90": 0.68,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.385,
+      "Carreras en progresi\u00f3n/90": 0.498,
+      "Pases progresivos/90": 0.53,
+      "Aceleraciones/90": 0.358,
+      "Duelos defensivos ganados %": 0.323,
+      "Jugadas claves/90": 0.631
+    }
+  },
+  {
+    "Jugador": "M. Sponsel",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.686,
+      "Interceptaciones/90": 0.791,
+      "Centros desde la banda derecha/90": 0.346,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.439,
+      "Carreras en progresi\u00f3n/90": 0.404,
+      "Pases progresivos/90": 0.574,
+      "Aceleraciones/90": 0.187,
+      "Duelos defensivos ganados %": 0.643,
+      "Jugadas claves/90": 0.321
+    }
+  },
+  {
+    "Jugador": "D. Domr\u00f6se",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.292,
+      "Interceptaciones/90": 0.305,
+      "Centros desde la banda derecha/90": 0.587,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.308,
+      "Carreras en progresi\u00f3n/90": 0.443,
+      "Pases progresivos/90": 0.266,
+      "Aceleraciones/90": 0.691,
+      "Duelos defensivos ganados %": 0.583,
+      "Jugadas claves/90": 0.869
+    }
+  },
+  {
+    "Jugador": "R. Martimbianco",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.62,
+      "Interceptaciones/90": 0.584,
+      "Centros desde la banda derecha/90": 0.459,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.405,
+      "Carreras en progresi\u00f3n/90": 0.489,
+      "Pases progresivos/90": 0.809,
+      "Aceleraciones/90": 0.106,
+      "Duelos defensivos ganados %": 0.714,
+      "Jugadas claves/90": 0.155
+    }
+  },
+  {
+    "Jugador": "\u00c1lex Ibarrondo",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.26,
+      "Interceptaciones/90": 0.453,
+      "Centros desde la banda derecha/90": 0.807,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.3,
+      "Carreras en progresi\u00f3n/90": 0.459,
+      "Pases progresivos/90": 0.63,
+      "Aceleraciones/90": 0.252,
+      "Duelos defensivos ganados %": 0.518,
+      "Jugadas claves/90": 0.631
+    }
+  },
+  {
+    "Jugador": "L. Penchini",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Interceptaciones/90": 0.842,
+      "Centros desde la banda derecha/90": 0.097,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.5,
+      "Carreras en progresi\u00f3n/90": 0.417,
+      "Pases progresivos/90": 0.516,
+      "Aceleraciones/90": 0.211,
+      "Duelos defensivos ganados %": 0.553,
+      "Jugadas claves/90": 0.155
+    }
+  },
+  {
+    "Jugador": "T. Toure",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.452,
+      "Interceptaciones/90": 0.316,
+      "Centros desde la banda derecha/90": 0.634,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.426,
+      "Carreras en progresi\u00f3n/90": 0.576,
+      "Pases progresivos/90": 0.247,
+      "Aceleraciones/90": 0.634,
+      "Duelos defensivos ganados %": 0.67,
+      "Jugadas claves/90": 0.333
+    }
+  },
+  {
+    "Jugador": "Andr\u00e9 Ferreira",
+    "Perfil": "LD",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.398,
+      "Interceptaciones/90": 0.526,
+      "Centros desde la banda derecha/90": 0.721,
+      "Precisi\u00f3n centros desde la banda derecha %": 0.373,
+      "Carreras en progresi\u00f3n/90": 0.183,
+      "Pases progresivos/90": 0.448,
+      "Aceleraciones/90": 0.211,
+      "Duelos defensivos ganados %": 0.545,
+      "Jugadas claves/90": 0.857
+    }
+  }
+]

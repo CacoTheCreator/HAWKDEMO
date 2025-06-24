@@ -1,0 +1,103 @@
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
+
+@layer base {
+  :root {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 224 71% 8%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 224 71% 8%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 142 76% 36%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 142 76% 36%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+    min-height: 100vh;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/50 backdrop-blur-lg border border-white/10 rounded-xl shadow-2xl;
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-football-green to-football-gold bg-clip-text text-transparent;
+  }
+  
+  .hover-lift {
+    @apply transition-all duration-300 hover:scale-105 hover:shadow-2xl;
+  }
+  
+  .glow-effect {
+    @apply shadow-lg shadow-football-green/20;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-muted/20;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-football-green/50 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-football-green/70;
+}

@@ -1,0 +1,1877 @@
+[
+  {
+    "Jugador": "A. Alfaro",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.818,
+      "Jugadas claves/90": 0.52,
+      "Pases en el \u00faltimo tercio/90": 0.747,
+      "Pases progresivos/90": 0.74,
+      "Carreras en progresi\u00f3n/90": 0.559,
+      "Centros desde el \u00faltimo tercio/90": 0.653,
+      "Asistencias/90": 0.853,
+      "Pases al \u00e1rea de penalti/90": 1.0,
+      "Ataque en profundidad/90": 0.751
+    }
+  },
+  {
+    "Jugador": "E. Hoyos",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.816,
+      "Pases en el \u00faltimo tercio/90": 0.844,
+      "Pases progresivos/90": 0.766,
+      "Carreras en progresi\u00f3n/90": 0.451,
+      "Centros desde el \u00faltimo tercio/90": 0.694,
+      "Asistencias/90": 0.794,
+      "Pases al \u00e1rea de penalti/90": 0.621,
+      "Ataque en profundidad/90": 0.503
+    }
+  },
+  {
+    "Jugador": "F. Mastantuono",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 1.0,
+      "Jugadas claves/90": 0.551,
+      "Pases en el \u00faltimo tercio/90": 0.418,
+      "Pases progresivos/90": 0.413,
+      "Carreras en progresi\u00f3n/90": 0.853,
+      "Centros desde el \u00faltimo tercio/90": 0.444,
+      "Asistencias/90": 0.529,
+      "Pases al \u00e1rea de penalti/90": 0.622,
+      "Ataque en profundidad/90": 0.942
+    }
+  },
+  {
+    "Jugador": "C. Palacios",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.864,
+      "Jugadas claves/90": 0.561,
+      "Pases en el \u00faltimo tercio/90": 0.77,
+      "Pases progresivos/90": 0.69,
+      "Carreras en progresi\u00f3n/90": 0.694,
+      "Centros desde el \u00faltimo tercio/90": 0.125,
+      "Asistencias/90": 0.529,
+      "Pases al \u00e1rea de penalti/90": 0.433,
+      "Ataque en profundidad/90": 1.0
+    }
+  },
+  {
+    "Jugador": "L. Cepeda",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 1.0,
+      "Jugadas claves/90": 0.612,
+      "Pases en el \u00faltimo tercio/90": 0.323,
+      "Pases progresivos/90": 0.43,
+      "Carreras en progresi\u00f3n/90": 0.853,
+      "Centros desde el \u00faltimo tercio/90": 0.646,
+      "Asistencias/90": 0.559,
+      "Pases al \u00e1rea de penalti/90": 0.494,
+      "Ataque en profundidad/90": 0.723
+    }
+  },
+  {
+    "Jugador": "R. Peralta",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.49,
+      "Pases en el \u00faltimo tercio/90": 0.476,
+      "Pases progresivos/90": 0.55,
+      "Carreras en progresi\u00f3n/90": 0.508,
+      "Centros desde el \u00faltimo tercio/90": 0.556,
+      "Asistencias/90": 0.941,
+      "Pases al \u00e1rea de penalti/90": 0.562,
+      "Ataque en profundidad/90": 0.688
+    }
+  },
+  {
+    "Jugador": "Gabriel Menino",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.773,
+      "Jugadas claves/90": 1.0,
+      "Pases en el \u00faltimo tercio/90": 0.607,
+      "Pases progresivos/90": 0.606,
+      "Carreras en progresi\u00f3n/90": 0.428,
+      "Centros desde el \u00faltimo tercio/90": 0.576,
+      "Asistencias/90": 0.235,
+      "Pases al \u00e1rea de penalti/90": 0.626,
+      "Ataque en profundidad/90": 0.52
+    }
+  },
+  {
+    "Jugador": "Jhon Jhon",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.909,
+      "Jugadas claves/90": 0.622,
+      "Pases en el \u00faltimo tercio/90": 0.443,
+      "Pases progresivos/90": 0.455,
+      "Carreras en progresi\u00f3n/90": 0.614,
+      "Centros desde el \u00faltimo tercio/90": 0.5,
+      "Asistencias/90": 0.441,
+      "Pases al \u00e1rea de penalti/90": 0.471,
+      "Ataque en profundidad/90": 0.879
+    }
+  },
+  {
+    "Jugador": "B. Zapelli",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.818,
+      "Jugadas claves/90": 0.459,
+      "Pases en el \u00faltimo tercio/90": 0.343,
+      "Pases progresivos/90": 0.43,
+      "Carreras en progresi\u00f3n/90": 0.29,
+      "Centros desde el \u00faltimo tercio/90": 0.556,
+      "Asistencias/90": 0.824,
+      "Pases al \u00e1rea de penalti/90": 0.711,
+      "Ataque en profundidad/90": 0.884
+    }
+  },
+  {
+    "Jugador": "T. Palacios",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.773,
+      "Jugadas claves/90": 0.694,
+      "Pases en el \u00faltimo tercio/90": 0.388,
+      "Pases progresivos/90": 0.421,
+      "Carreras en progresi\u00f3n/90": 0.655,
+      "Centros desde el \u00faltimo tercio/90": 0.618,
+      "Asistencias/90": 0.441,
+      "Pases al \u00e1rea de penalti/90": 0.541,
+      "Ataque en profundidad/90": 0.763
+    }
+  },
+  {
+    "Jugador": "J. Valiente",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.818,
+      "Jugadas claves/90": 0.449,
+      "Pases en el \u00faltimo tercio/90": 0.371,
+      "Pases progresivos/90": 0.399,
+      "Carreras en progresi\u00f3n/90": 0.584,
+      "Centros desde el \u00faltimo tercio/90": 0.396,
+      "Asistencias/90": 0.912,
+      "Pases al \u00e1rea de penalti/90": 0.468,
+      "Ataque en profundidad/90": 0.688
+    }
+  },
+  {
+    "Jugador": "C. Echeverri",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.582,
+      "Pases en el \u00faltimo tercio/90": 0.528,
+      "Pases progresivos/90": 0.439,
+      "Carreras en progresi\u00f3n/90": 0.779,
+      "Centros desde el \u00faltimo tercio/90": 0.347,
+      "Asistencias/90": 0.206,
+      "Pases al \u00e1rea de penalti/90": 0.656,
+      "Ataque en profundidad/90": 0.827
+    }
+  },
+  {
+    "Jugador": "N. Rodr\u00edguez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.682,
+      "Jugadas claves/90": 0.296,
+      "Pases en el \u00faltimo tercio/90": 0.406,
+      "Pases progresivos/90": 0.442,
+      "Carreras en progresi\u00f3n/90": 0.529,
+      "Centros desde el \u00faltimo tercio/90": 0.729,
+      "Asistencias/90": 0.441,
+      "Pases al \u00e1rea de penalti/90": 0.582,
+      "Ataque en profundidad/90": 0.671
+    }
+  },
+  {
+    "Jugador": "H. Quintana",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.455,
+      "Jugadas claves/90": 0.327,
+      "Pases en el \u00faltimo tercio/90": 0.64,
+      "Pases progresivos/90": 0.499,
+      "Carreras en progresi\u00f3n/90": 0.743,
+      "Centros desde el \u00faltimo tercio/90": 0.549,
+      "Asistencias/90": 0.324,
+      "Pases al \u00e1rea de penalti/90": 0.554,
+      "Ataque en profundidad/90": 0.538
+    }
+  },
+  {
+    "Jugador": "A. Canales",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.273,
+      "Jugadas claves/90": 0.398,
+      "Pases en el \u00faltimo tercio/90": 0.992,
+      "Pases progresivos/90": 0.87,
+      "Carreras en progresi\u00f3n/90": 0.28,
+      "Centros desde el \u00faltimo tercio/90": 0.271,
+      "Asistencias/90": 0.441,
+      "Pases al \u00e1rea de penalti/90": 0.403,
+      "Ataque en profundidad/90": 0.491
+    }
+  },
+  {
+    "Jugador": "A. Molinas",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.276,
+      "Pases en el \u00faltimo tercio/90": 0.592,
+      "Pases progresivos/90": 0.543,
+      "Carreras en progresi\u00f3n/90": 0.434,
+      "Centros desde el \u00faltimo tercio/90": 0.382,
+      "Asistencias/90": 0.412,
+      "Pases al \u00e1rea de penalti/90": 0.49,
+      "Ataque en profundidad/90": 0.636
+    }
+  },
+  {
+    "Jugador": "S. Sim\u00f3n",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.182,
+      "Jugadas claves/90": 0.163,
+      "Pases en el \u00faltimo tercio/90": 0.978,
+      "Pases progresivos/90": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.269,
+      "Centros desde el \u00faltimo tercio/90": 0.576,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.656,
+      "Ataque en profundidad/90": 0.572
+    }
+  },
+  {
+    "Jugador": "L. Sequeira",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.591,
+      "Jugadas claves/90": 0.378,
+      "Pases en el \u00faltimo tercio/90": 0.818,
+      "Pases progresivos/90": 0.677,
+      "Carreras en progresi\u00f3n/90": 0.54,
+      "Centros desde el \u00faltimo tercio/90": 0.229,
+      "Asistencias/90": 0.235,
+      "Pases al \u00e1rea de penalti/90": 0.383,
+      "Ataque en profundidad/90": 0.543
+    }
+  },
+  {
+    "Jugador": "N. Villarreal",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.633,
+      "Pases en el \u00faltimo tercio/90": 0.125,
+      "Pases progresivos/90": 0.126,
+      "Carreras en progresi\u00f3n/90": 0.766,
+      "Centros desde el \u00faltimo tercio/90": 0.382,
+      "Asistencias/90": 0.676,
+      "Pases al \u00e1rea de penalti/90": 0.32,
+      "Ataque en profundidad/90": 0.63
+    }
+  },
+  {
+    "Jugador": "K. Zen\u00f3n",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.469,
+      "Pases en el \u00faltimo tercio/90": 0.506,
+      "Pases progresivos/90": 0.436,
+      "Carreras en progresi\u00f3n/90": 0.508,
+      "Centros desde el \u00faltimo tercio/90": 0.417,
+      "Asistencias/90": 0.118,
+      "Pases al \u00e1rea de penalti/90": 0.554,
+      "Ataque en profundidad/90": 0.555
+    }
+  },
+  {
+    "Jugador": "L. Gonz\u00e1lez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.48,
+      "Pases en el \u00faltimo tercio/90": 0.328,
+      "Pases progresivos/90": 0.273,
+      "Carreras en progresi\u00f3n/90": 0.336,
+      "Centros desde el \u00faltimo tercio/90": 0.424,
+      "Asistencias/90": 1.0,
+      "Pases al \u00e1rea de penalti/90": 0.333,
+      "Ataque en profundidad/90": 0.353
+    }
+  },
+  {
+    "Jugador": "S. Cartagena",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.364,
+      "Jugadas claves/90": 0.143,
+      "Pases en el \u00faltimo tercio/90": 0.995,
+      "Pases progresivos/90": 0.976,
+      "Carreras en progresi\u00f3n/90": 0.234,
+      "Centros desde el \u00faltimo tercio/90": 0.326,
+      "Asistencias/90": 0.265,
+      "Pases al \u00e1rea de penalti/90": 0.471,
+      "Ataque en profundidad/90": 0.376
+    }
+  },
+  {
+    "Jugador": "N. Fern\u00e1ndez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.409,
+      "Jugadas claves/90": 0.276,
+      "Pases en el \u00faltimo tercio/90": 0.44,
+      "Pases progresivos/90": 0.537,
+      "Carreras en progresi\u00f3n/90": 0.616,
+      "Centros desde el \u00faltimo tercio/90": 0.639,
+      "Asistencias/90": 0.176,
+      "Pases al \u00e1rea de penalti/90": 0.525,
+      "Ataque en profundidad/90": 0.514
+    }
+  },
+  {
+    "Jugador": "M. Miljevic",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.367,
+      "Pases en el \u00faltimo tercio/90": 0.682,
+      "Pases progresivos/90": 0.624,
+      "Carreras en progresi\u00f3n/90": 0.609,
+      "Centros desde el \u00faltimo tercio/90": 0.299,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.387,
+      "Ataque en profundidad/90": 0.434
+    }
+  },
+  {
+    "Jugador": "F. Chaverra",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.337,
+      "Pases en el \u00faltimo tercio/90": 0.366,
+      "Pases progresivos/90": 0.462,
+      "Carreras en progresi\u00f3n/90": 0.315,
+      "Centros desde el \u00faltimo tercio/90": 0.722,
+      "Asistencias/90": 0.382,
+      "Pases al \u00e1rea de penalti/90": 0.567,
+      "Ataque en profundidad/90": 0.306
+    }
+  },
+  {
+    "Jugador": "C. Villanueva",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.5,
+      "Jugadas claves/90": 0.306,
+      "Pases en el \u00faltimo tercio/90": 0.447,
+      "Pases progresivos/90": 0.444,
+      "Carreras en progresi\u00f3n/90": 0.52,
+      "Centros desde el \u00faltimo tercio/90": 0.451,
+      "Asistencias/90": 0.147,
+      "Pases al \u00e1rea de penalti/90": 0.556,
+      "Ataque en profundidad/90": 0.723
+    }
+  },
+  {
+    "Jugador": "R. Hinojosa",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.318,
+      "Jugadas claves/90": 0.52,
+      "Pases en el \u00faltimo tercio/90": 0.439,
+      "Pases progresivos/90": 0.375,
+      "Carreras en progresi\u00f3n/90": 0.26,
+      "Centros desde el \u00faltimo tercio/90": 0.25,
+      "Asistencias/90": 0.206,
+      "Pases al \u00e1rea de penalti/90": 0.737,
+      "Ataque en profundidad/90": 0.925
+    }
+  },
+  {
+    "Jugador": "J. Qui\u00f1\u00f3nes",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.318,
+      "Jugadas claves/90": 0.612,
+      "Pases en el \u00faltimo tercio/90": 0.333,
+      "Pases progresivos/90": 0.279,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Centros desde el \u00faltimo tercio/90": 0.16,
+      "Asistencias/90": 0.441,
+      "Pases al \u00e1rea de penalti/90": 0.182,
+      "Ataque en profundidad/90": 0.699
+    }
+  },
+  {
+    "Jugador": "R. Chagas",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.418,
+      "Pases en el \u00faltimo tercio/90": 0.333,
+      "Pases progresivos/90": 0.488,
+      "Carreras en progresi\u00f3n/90": 0.402,
+      "Centros desde el \u00faltimo tercio/90": 0.382,
+      "Asistencias/90": 0.206,
+      "Pases al \u00e1rea de penalti/90": 0.389,
+      "Ataque en profundidad/90": 0.676
+    }
+  },
+  {
+    "Jugador": "A. Sor\u00eda",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.636,
+      "Jugadas claves/90": 0.316,
+      "Pases en el \u00faltimo tercio/90": 0.499,
+      "Pases progresivos/90": 0.636,
+      "Carreras en progresi\u00f3n/90": 0.398,
+      "Centros desde el \u00faltimo tercio/90": 0.549,
+      "Asistencias/90": 0.265,
+      "Pases al \u00e1rea de penalti/90": 0.352,
+      "Ataque en profundidad/90": 0.353
+    }
+  },
+  {
+    "Jugador": "J. Castilla",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.364,
+      "Jugadas claves/90": 0.48,
+      "Pases en el \u00faltimo tercio/90": 0.495,
+      "Pases progresivos/90": 0.481,
+      "Carreras en progresi\u00f3n/90": 0.182,
+      "Centros desde el \u00faltimo tercio/90": 0.618,
+      "Asistencias/90": 0.706,
+      "Pases al \u00e1rea de penalti/90": 0.414,
+      "Ataque en profundidad/90": 0.22
+    }
+  },
+  {
+    "Jugador": "V. Amoroso",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.545,
+      "Jugadas claves/90": 0.347,
+      "Pases en el \u00faltimo tercio/90": 0.333,
+      "Pases progresivos/90": 0.447,
+      "Carreras en progresi\u00f3n/90": 0.372,
+      "Centros desde el \u00faltimo tercio/90": 1.0,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.554,
+      "Ataque en profundidad/90": 0.237
+    }
+  },
+  {
+    "Jugador": "T. Adoryan",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.545,
+      "Jugadas claves/90": 0.388,
+      "Pases en el \u00faltimo tercio/90": 0.671,
+      "Pases progresivos/90": 0.553,
+      "Carreras en progresi\u00f3n/90": 0.345,
+      "Centros desde el \u00faltimo tercio/90": 0.347,
+      "Asistencias/90": 0.118,
+      "Pases al \u00e1rea de penalti/90": 0.516,
+      "Ataque en profundidad/90": 0.353
+    }
+  },
+  {
+    "Jugador": "K. L\u00f3pez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.682,
+      "Jugadas claves/90": 0.296,
+      "Pases en el \u00faltimo tercio/90": 0.666,
+      "Pases progresivos/90": 0.669,
+      "Carreras en progresi\u00f3n/90": 0.434,
+      "Centros desde el \u00faltimo tercio/90": 0.285,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.324,
+      "Ataque en profundidad/90": 0.474
+    }
+  },
+  {
+    "Jugador": "R. R\u00edos",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.455,
+      "Jugadas claves/90": 0.459,
+      "Pases en el \u00faltimo tercio/90": 0.516,
+      "Pases progresivos/90": 0.427,
+      "Carreras en progresi\u00f3n/90": 0.34,
+      "Centros desde el \u00faltimo tercio/90": 0.451,
+      "Asistencias/90": 0.471,
+      "Pases al \u00e1rea de penalti/90": 0.372,
+      "Ataque en profundidad/90": 0.329
+    }
+  },
+  {
+    "Jugador": "D. Ram\u00edrez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.409,
+      "Jugadas claves/90": 0.378,
+      "Pases en el \u00faltimo tercio/90": 0.248,
+      "Pases progresivos/90": 0.215,
+      "Carreras en progresi\u00f3n/90": 0.526,
+      "Centros desde el \u00faltimo tercio/90": 0.465,
+      "Asistencias/90": 0.647,
+      "Pases al \u00e1rea de penalti/90": 0.387,
+      "Ataque en profundidad/90": 0.474
+    }
+  },
+  {
+    "Jugador": "E. Almendra",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.364,
+      "Jugadas claves/90": 0.357,
+      "Pases en el \u00faltimo tercio/90": 0.823,
+      "Pases progresivos/90": 0.708,
+      "Carreras en progresi\u00f3n/90": 0.097,
+      "Centros desde el \u00faltimo tercio/90": 0.215,
+      "Asistencias/90": 0.118,
+      "Pases al \u00e1rea de penalti/90": 0.389,
+      "Ataque en profundidad/90": 0.653
+    }
+  },
+  {
+    "Jugador": "A. Lescano",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.409,
+      "Jugadas claves/90": 0.286,
+      "Pases en el \u00faltimo tercio/90": 0.527,
+      "Pases progresivos/90": 0.374,
+      "Carreras en progresi\u00f3n/90": 0.313,
+      "Centros desde el \u00faltimo tercio/90": 0.25,
+      "Asistencias/90": 0.235,
+      "Pases al \u00e1rea de penalti/90": 0.46,
+      "Ataque en profundidad/90": 0.844
+    }
+  },
+  {
+    "Jugador": "B. Larregui",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.633,
+      "Pases en el \u00faltimo tercio/90": 0.0,
+      "Pases progresivos/90": 0.0,
+      "Carreras en progresi\u00f3n/90": 0.246,
+      "Centros desde el \u00faltimo tercio/90": 0.146,
+      "Asistencias/90": 1.0,
+      "Pases al \u00e1rea de penalti/90": 0.149,
+      "Ataque en profundidad/90": 0.792
+    }
+  },
+  {
+    "Jugador": "\u00c1. Barreal",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.591,
+      "Jugadas claves/90": 0.429,
+      "Pases en el \u00faltimo tercio/90": 0.393,
+      "Pases progresivos/90": 0.429,
+      "Carreras en progresi\u00f3n/90": 0.237,
+      "Centros desde el \u00faltimo tercio/90": 0.521,
+      "Asistencias/90": 0.265,
+      "Pases al \u00e1rea de penalti/90": 0.381,
+      "Ataque en profundidad/90": 0.434
+    }
+  },
+  {
+    "Jugador": "M. Peralta",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.409,
+      "Jugadas claves/90": 0.306,
+      "Pases en el \u00faltimo tercio/90": 0.77,
+      "Pases progresivos/90": 0.666,
+      "Carreras en progresi\u00f3n/90": 0.297,
+      "Centros desde el \u00faltimo tercio/90": 0.451,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.368,
+      "Ataque en profundidad/90": 0.405
+    }
+  },
+  {
+    "Jugador": "J. Alvarado",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.091,
+      "Jugadas claves/90": 0.112,
+      "Pases en el \u00faltimo tercio/90": 1.0,
+      "Pases progresivos/90": 0.963,
+      "Carreras en progresi\u00f3n/90": 0.133,
+      "Centros desde el \u00faltimo tercio/90": 0.222,
+      "Asistencias/90": 0.118,
+      "Pases al \u00e1rea de penalti/90": 0.396,
+      "Ataque en profundidad/90": 0.601
+    }
+  },
+  {
+    "Jugador": "S. Mayo",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.773,
+      "Jugadas claves/90": 0.327,
+      "Pases en el \u00faltimo tercio/90": 0.457,
+      "Pases progresivos/90": 0.398,
+      "Carreras en progresi\u00f3n/90": 0.43,
+      "Centros desde el \u00faltimo tercio/90": 0.528,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.298,
+      "Ataque en profundidad/90": 0.405
+    }
+  },
+  {
+    "Jugador": "S. Navarro",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.591,
+      "Jugadas claves/90": 0.418,
+      "Pases en el \u00faltimo tercio/90": 0.564,
+      "Pases progresivos/90": 0.506,
+      "Carreras en progresi\u00f3n/90": 0.177,
+      "Centros desde el \u00faltimo tercio/90": 0.264,
+      "Asistencias/90": 0.412,
+      "Pases al \u00e1rea de penalti/90": 0.208,
+      "Ataque en profundidad/90": 0.468
+    }
+  },
+  {
+    "Jugador": "L. Mill\u00e1n",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.5,
+      "Jugadas claves/90": 0.316,
+      "Pases en el \u00faltimo tercio/90": 0.28,
+      "Pases progresivos/90": 0.316,
+      "Carreras en progresi\u00f3n/90": 0.333,
+      "Centros desde el \u00faltimo tercio/90": 0.347,
+      "Asistencias/90": 0.176,
+      "Pases al \u00e1rea de penalti/90": 0.425,
+      "Ataque en profundidad/90": 0.896
+    }
+  },
+  {
+    "Jugador": "S. Rivero",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.265,
+      "Pases en el \u00faltimo tercio/90": 0.407,
+      "Pases progresivos/90": 0.389,
+      "Carreras en progresi\u00f3n/90": 0.343,
+      "Centros desde el \u00faltimo tercio/90": 0.319,
+      "Asistencias/90": 0.147,
+      "Pases al \u00e1rea de penalti/90": 0.381,
+      "Ataque en profundidad/90": 0.566
+    }
+  },
+  {
+    "Jugador": "E. Cabrera",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.682,
+      "Jugadas claves/90": 0.347,
+      "Pases en el \u00faltimo tercio/90": 0.562,
+      "Pases progresivos/90": 0.447,
+      "Carreras en progresi\u00f3n/90": 0.278,
+      "Centros desde el \u00faltimo tercio/90": 0.09,
+      "Asistencias/90": 0.382,
+      "Pases al \u00e1rea de penalti/90": 0.289,
+      "Ataque en profundidad/90": 0.462
+    }
+  },
+  {
+    "Jugador": "J. \u00c1revalo",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.409,
+      "Jugadas claves/90": 0.204,
+      "Pases en el \u00faltimo tercio/90": 0.766,
+      "Pases progresivos/90": 0.64,
+      "Carreras en progresi\u00f3n/90": 0.343,
+      "Centros desde el \u00faltimo tercio/90": 0.049,
+      "Asistencias/90": 0.206,
+      "Pases al \u00e1rea de penalti/90": 0.263,
+      "Ataque en profundidad/90": 0.647
+    }
+  },
+  {
+    "Jugador": "L. S\u00e1nchez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.273,
+      "Jugadas claves/90": 0.163,
+      "Pases en el \u00faltimo tercio/90": 0.585,
+      "Pases progresivos/90": 0.478,
+      "Carreras en progresi\u00f3n/90": 0.476,
+      "Centros desde el \u00faltimo tercio/90": 0.188,
+      "Asistencias/90": 0.147,
+      "Pases al \u00e1rea de penalti/90": 0.466,
+      "Ataque en profundidad/90": 0.723
+    }
+  },
+  {
+    "Jugador": "F. Nicola",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.318,
+      "Jugadas claves/90": 0.541,
+      "Pases en el \u00faltimo tercio/90": 0.198,
+      "Pases progresivos/90": 0.327,
+      "Carreras en progresi\u00f3n/90": 0.361,
+      "Centros desde el \u00faltimo tercio/90": 0.931,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.486,
+      "Ataque en profundidad/90": 0.329
+    }
+  },
+  {
+    "Jugador": "D. Dou\u00e9",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 1.0,
+      "Jugadas claves/90": 1.0,
+      "Pases en el \u00faltimo tercio/90": 0.381,
+      "Pases progresivos/90": 0.542,
+      "Carreras en progresi\u00f3n/90": 0.875,
+      "Centros desde el \u00faltimo tercio/90": 0.816,
+      "Asistencias/90": 0.806,
+      "Pases al \u00e1rea de penalti/90": 0.823,
+      "Ataque en profundidad/90": 1.0
+    }
+  },
+  {
+    "Jugador": "R. Schmid",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.704,
+      "Jugadas claves/90": 0.543,
+      "Pases en el \u00faltimo tercio/90": 0.52,
+      "Pases progresivos/90": 0.859,
+      "Carreras en progresi\u00f3n/90": 0.634,
+      "Centros desde el \u00faltimo tercio/90": 0.809,
+      "Asistencias/90": 0.333,
+      "Pases al \u00e1rea de penalti/90": 1.0,
+      "Ataque en profundidad/90": 0.848
+    }
+  },
+  {
+    "Jugador": "M. Damsgaard",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.704,
+      "Jugadas claves/90": 0.558,
+      "Pases en el \u00faltimo tercio/90": 0.51,
+      "Pases progresivos/90": 0.767,
+      "Carreras en progresi\u00f3n/90": 0.348,
+      "Centros desde el \u00faltimo tercio/90": 0.695,
+      "Asistencias/90": 0.722,
+      "Pases al \u00e1rea de penalti/90": 0.901,
+      "Ataque en profundidad/90": 0.671
+    }
+  },
+  {
+    "Jugador": "A. Stiller",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.741,
+      "Jugadas claves/90": 0.419,
+      "Pases en el \u00faltimo tercio/90": 0.852,
+      "Pases progresivos/90": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.216,
+      "Centros desde el \u00faltimo tercio/90": 0.447,
+      "Asistencias/90": 0.417,
+      "Pases al \u00e1rea de penalti/90": 0.603,
+      "Ataque en profundidad/90": 0.623
+    }
+  },
+  {
+    "Jugador": "A. Zaroury",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.667,
+      "Jugadas claves/90": 0.457,
+      "Pases en el \u00faltimo tercio/90": 0.263,
+      "Pases progresivos/90": 0.588,
+      "Carreras en progresi\u00f3n/90": 0.459,
+      "Centros desde el \u00faltimo tercio/90": 0.915,
+      "Asistencias/90": 0.333,
+      "Pases al \u00e1rea de penalti/90": 1.0,
+      "Ataque en profundidad/90": 0.494
+    }
+  },
+  {
+    "Jugador": "E. Ben Seghir",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.519,
+      "Jugadas claves/90": 0.357,
+      "Pases en el \u00faltimo tercio/90": 0.302,
+      "Pases progresivos/90": 0.47,
+      "Carreras en progresi\u00f3n/90": 0.987,
+      "Centros desde el \u00faltimo tercio/90": 0.199,
+      "Asistencias/90": 0.389,
+      "Pases al \u00e1rea de penalti/90": 0.641,
+      "Ataque en profundidad/90": 0.805
+    }
+  },
+  {
+    "Jugador": "Ferm\u00edn L\u00f3pez",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.667,
+      "Jugadas claves/90": 0.651,
+      "Pases en el \u00faltimo tercio/90": 0.335,
+      "Pases progresivos/90": 0.376,
+      "Carreras en progresi\u00f3n/90": 0.306,
+      "Centros desde el \u00faltimo tercio/90": 0.504,
+      "Asistencias/90": 0.528,
+      "Pases al \u00e1rea de penalti/90": 0.55,
+      "Ataque en profundidad/90": 0.55
+    }
+  },
+  {
+    "Jugador": "Jo\u00e3o Neves",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.407,
+      "Jugadas claves/90": 0.558,
+      "Pases en el \u00faltimo tercio/90": 0.545,
+      "Pases progresivos/90": 0.534,
+      "Carreras en progresi\u00f3n/90": 0.318,
+      "Centros desde el \u00faltimo tercio/90": 0.255,
+      "Asistencias/90": 1.0,
+      "Pases al \u00e1rea de penalti/90": 0.349,
+      "Ataque en profundidad/90": 0.446
+    }
+  },
+  {
+    "Jugador": "P. Nebel",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.556,
+      "Jugadas claves/90": 0.574,
+      "Pases en el \u00faltimo tercio/90": 0.188,
+      "Pases progresivos/90": 0.33,
+      "Carreras en progresi\u00f3n/90": 0.338,
+      "Centros desde el \u00faltimo tercio/90": 0.872,
+      "Asistencias/90": 0.389,
+      "Pases al \u00e1rea de penalti/90": 0.649,
+      "Ataque en profundidad/90": 0.355
+    }
+  },
+  {
+    "Jugador": "H. Haraldsson",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.593,
+      "Jugadas claves/90": 0.419,
+      "Pases en el \u00faltimo tercio/90": 0.28,
+      "Pases progresivos/90": 0.376,
+      "Carreras en progresi\u00f3n/90": 0.546,
+      "Centros desde el \u00faltimo tercio/90": 0.383,
+      "Asistencias/90": 0.25,
+      "Pases al \u00e1rea de penalti/90": 0.492,
+      "Ataque en profundidad/90": 0.857
+    }
+  },
+  {
+    "Jugador": "L. Camara",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.852,
+      "Jugadas claves/90": 0.155,
+      "Pases en el \u00faltimo tercio/90": 0.585,
+      "Pases progresivos/90": 0.664,
+      "Carreras en progresi\u00f3n/90": 0.075,
+      "Centros desde el \u00faltimo tercio/90": 0.17,
+      "Asistencias/90": 0.889,
+      "Pases al \u00e1rea de penalti/90": 0.377,
+      "Ataque en profundidad/90": 0.342
+    }
+  },
+  {
+    "Jugador": "Y. Gboho",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.426,
+      "Pases en el \u00faltimo tercio/90": 0.174,
+      "Pases progresivos/90": 0.17,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Centros desde el \u00faltimo tercio/90": 0.34,
+      "Asistencias/90": 0.389,
+      "Pases al \u00e1rea de penalti/90": 0.395,
+      "Ataque en profundidad/90": 0.602
+    }
+  },
+  {
+    "Jugador": "S. Babicka",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.574,
+      "Pases en el \u00faltimo tercio/90": 0.0,
+      "Pases progresivos/90": 0.198,
+      "Carreras en progresi\u00f3n/90": 0.469,
+      "Centros desde el \u00faltimo tercio/90": 1.0,
+      "Asistencias/90": 0.361,
+      "Pases al \u00e1rea de penalti/90": 0.53,
+      "Ataque en profundidad/90": 0.307
+    }
+  },
+  {
+    "Jugador": "H. Abdelli",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.271,
+      "Pases en el \u00faltimo tercio/90": 0.498,
+      "Pases progresivos/90": 0.601,
+      "Carreras en progresi\u00f3n/90": 0.729,
+      "Centros desde el \u00faltimo tercio/90": 0.348,
+      "Asistencias/90": 0.167,
+      "Pases al \u00e1rea de penalti/90": 0.466,
+      "Ataque en profundidad/90": 0.45
+    }
+  },
+  {
+    "Jugador": "B. Bouanani",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.37,
+      "Jugadas claves/90": 0.566,
+      "Pases en el \u00faltimo tercio/90": 0.128,
+      "Pases progresivos/90": 0.104,
+      "Carreras en progresi\u00f3n/90": 0.627,
+      "Centros desde el \u00faltimo tercio/90": 0.362,
+      "Asistencias/90": 0.611,
+      "Pases al \u00e1rea de penalti/90": 0.508,
+      "Ataque en profundidad/90": 0.498
+    }
+  },
+  {
+    "Jugador": "S. Nanasi",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.593,
+      "Jugadas claves/90": 0.403,
+      "Pases en el \u00faltimo tercio/90": 0.205,
+      "Pases progresivos/90": 0.265,
+      "Carreras en progresi\u00f3n/90": 0.326,
+      "Centros desde el \u00faltimo tercio/90": 0.227,
+      "Asistencias/90": 0.444,
+      "Pases al \u00e1rea de penalti/90": 0.423,
+      "Ataque en profundidad/90": 0.74
+    }
+  },
+  {
+    "Jugador": "G. Gaetano",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.63,
+      "Jugadas claves/90": 0.434,
+      "Pases en el \u00faltimo tercio/90": 0.276,
+      "Pases progresivos/90": 0.244,
+      "Carreras en progresi\u00f3n/90": 0.135,
+      "Centros desde el \u00faltimo tercio/90": 0.34,
+      "Asistencias/90": 0.667,
+      "Pases al \u00e1rea de penalti/90": 0.343,
+      "Ataque en profundidad/90": 0.55
+    }
+  },
+  {
+    "Jugador": "B. El Khannouss",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.444,
+      "Jugadas claves/90": 0.326,
+      "Pases en el \u00faltimo tercio/90": 0.323,
+      "Pases progresivos/90": 0.492,
+      "Carreras en progresi\u00f3n/90": 0.514,
+      "Centros desde el \u00faltimo tercio/90": 0.348,
+      "Asistencias/90": 0.306,
+      "Pases al \u00e1rea de penalti/90": 0.512,
+      "Ataque en profundidad/90": 0.307
+    }
+  },
+  {
+    "Jugador": "T. Anjorin",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.37,
+      "Jugadas claves/90": 0.527,
+      "Pases en el \u00faltimo tercio/90": 0.349,
+      "Pases progresivos/90": 0.534,
+      "Carreras en progresi\u00f3n/90": 0.484,
+      "Centros desde el \u00faltimo tercio/90": 0.106,
+      "Asistencias/90": 0.639,
+      "Pases al \u00e1rea de penalti/90": 0.23,
+      "Ataque en profundidad/90": 0.32
+    }
+  },
+  {
+    "Jugador": "Nico Paz",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.457,
+      "Pases en el \u00faltimo tercio/90": 0.304,
+      "Pases progresivos/90": 0.371,
+      "Carreras en progresi\u00f3n/90": 0.376,
+      "Centros desde el \u00faltimo tercio/90": 0.199,
+      "Asistencias/90": 0.444,
+      "Pases al \u00e1rea de penalti/90": 0.357,
+      "Ataque en profundidad/90": 0.541
+    }
+  },
+  {
+    "Jugador": "Y. Vertessen",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.852,
+      "Jugadas claves/90": 0.504,
+      "Pases en el \u00faltimo tercio/90": 0.085,
+      "Pases progresivos/90": 0.087,
+      "Carreras en progresi\u00f3n/90": 0.459,
+      "Centros desde el \u00faltimo tercio/90": 0.305,
+      "Asistencias/90": 0.389,
+      "Pases al \u00e1rea de penalti/90": 0.29,
+      "Ataque en profundidad/90": 0.524
+    }
+  },
+  {
+    "Jugador": "E. Anderson",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.264,
+      "Pases en el \u00faltimo tercio/90": 0.384,
+      "Pases progresivos/90": 0.585,
+      "Carreras en progresi\u00f3n/90": 0.243,
+      "Centros desde el \u00faltimo tercio/90": 0.411,
+      "Asistencias/90": 0.5,
+      "Pases al \u00e1rea de penalti/90": 0.313,
+      "Ataque en profundidad/90": 0.238
+    }
+  },
+  {
+    "Jugador": "S. Birindelli",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.37,
+      "Jugadas claves/90": 0.442,
+      "Pases en el \u00faltimo tercio/90": 0.142,
+      "Pases progresivos/90": 0.462,
+      "Carreras en progresi\u00f3n/90": 0.333,
+      "Centros desde el \u00faltimo tercio/90": 0.894,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.615,
+      "Ataque en profundidad/90": 0.134
+    }
+  },
+  {
+    "Jugador": "Jeong Woo-Yeong",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.407,
+      "Jugadas claves/90": 0.419,
+      "Pases en el \u00faltimo tercio/90": 0.184,
+      "Pases progresivos/90": 0.388,
+      "Carreras en progresi\u00f3n/90": 0.451,
+      "Centros desde el \u00faltimo tercio/90": 0.504,
+      "Asistencias/90": 0.167,
+      "Pases al \u00e1rea de penalti/90": 0.45,
+      "Ataque en profundidad/90": 0.398
+    }
+  },
+  {
+    "Jugador": "L. da Cunha",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.556,
+      "Jugadas claves/90": 0.178,
+      "Pases en el \u00faltimo tercio/90": 0.425,
+      "Pases progresivos/90": 0.534,
+      "Carreras en progresi\u00f3n/90": 0.351,
+      "Centros desde el \u00faltimo tercio/90": 0.504,
+      "Asistencias/90": 0.083,
+      "Pases al \u00e1rea de penalti/90": 0.385,
+      "Ataque en profundidad/90": 0.338
+    }
+  },
+  {
+    "Jugador": "N. Woltemade",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.558,
+      "Pases en el \u00faltimo tercio/90": 0.114,
+      "Pases progresivos/90": 0.07,
+      "Carreras en progresi\u00f3n/90": 0.313,
+      "Centros desde el \u00faltimo tercio/90": 0.135,
+      "Asistencias/90": 0.278,
+      "Pases al \u00e1rea de penalti/90": 0.312,
+      "Ataque en profundidad/90": 1.0
+    }
+  },
+  {
+    "Jugador": "J. Enciso",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.444,
+      "Jugadas claves/90": 0.209,
+      "Pases en el \u00faltimo tercio/90": 0.18,
+      "Pases progresivos/90": 0.222,
+      "Carreras en progresi\u00f3n/90": 0.777,
+      "Centros desde el \u00faltimo tercio/90": 0.284,
+      "Asistencias/90": 0.556,
+      "Pases al \u00e1rea de penalti/90": 0.306,
+      "Ataque en profundidad/90": 0.251
+    }
+  },
+  {
+    "Jugador": "A. Atta",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.31,
+      "Pases en el \u00faltimo tercio/90": 0.285,
+      "Pases progresivos/90": 0.359,
+      "Carreras en progresi\u00f3n/90": 0.697,
+      "Centros desde el \u00faltimo tercio/90": 0.376,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.351,
+      "Ataque en profundidad/90": 0.506
+    }
+  },
+  {
+    "Jugador": "T. Bischof",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.519,
+      "Jugadas claves/90": 0.233,
+      "Pases en el \u00faltimo tercio/90": 0.357,
+      "Pases progresivos/90": 0.546,
+      "Carreras en progresi\u00f3n/90": 0.203,
+      "Centros desde el \u00faltimo tercio/90": 0.305,
+      "Asistencias/90": 0.194,
+      "Pases al \u00e1rea de penalti/90": 0.389,
+      "Ataque en profundidad/90": 0.42
+    }
+  },
+  {
+    "Jugador": "L. Agoum\u00e9",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.185,
+      "Jugadas claves/90": 0.419,
+      "Pases en el \u00faltimo tercio/90": 0.462,
+      "Pases progresivos/90": 0.563,
+      "Carreras en progresi\u00f3n/90": 0.251,
+      "Centros desde el \u00faltimo tercio/90": 0.27,
+      "Asistencias/90": 0.306,
+      "Pases al \u00e1rea de penalti/90": 0.312,
+      "Ataque en profundidad/90": 0.394
+    }
+  },
+  {
+    "Jugador": "\u00de. Helgason",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.407,
+      "Jugadas claves/90": 0.388,
+      "Pases en el \u00faltimo tercio/90": 0.175,
+      "Pases progresivos/90": 0.226,
+      "Carreras en progresi\u00f3n/90": 0.221,
+      "Centros desde el \u00faltimo tercio/90": 0.355,
+      "Asistencias/90": 0.806,
+      "Pases al \u00e1rea de penalti/90": 0.331,
+      "Ataque en profundidad/90": 0.177
+    }
+  },
+  {
+    "Jugador": "O. Targhalline",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.185,
+      "Jugadas claves/90": 0.163,
+      "Pases en el \u00faltimo tercio/90": 0.483,
+      "Pases progresivos/90": 0.632,
+      "Carreras en progresi\u00f3n/90": 0.469,
+      "Centros desde el \u00faltimo tercio/90": 0.44,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.419,
+      "Ataque en profundidad/90": 0.273
+    }
+  },
+  {
+    "Jugador": "A. Diouf",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.233,
+      "Pases en el \u00faltimo tercio/90": 0.261,
+      "Pases progresivos/90": 0.237,
+      "Carreras en progresi\u00f3n/90": 0.852,
+      "Centros desde el \u00faltimo tercio/90": 0.078,
+      "Asistencias/90": 0.194,
+      "Pases al \u00e1rea de penalti/90": 0.345,
+      "Ataque en profundidad/90": 0.558
+    }
+  },
+  {
+    "Jugador": "G. Oristanio",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.341,
+      "Pases en el \u00faltimo tercio/90": 0.079,
+      "Pases progresivos/90": 0.139,
+      "Carreras en progresi\u00f3n/90": 0.559,
+      "Centros desde el \u00faltimo tercio/90": 0.546,
+      "Asistencias/90": 0.306,
+      "Pases al \u00e1rea de penalti/90": 0.361,
+      "Ataque en profundidad/90": 0.39
+    }
+  },
+  {
+    "Jugador": "O. Hutchinson",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.395,
+      "Pases en el \u00faltimo tercio/90": 0.121,
+      "Pases progresivos/90": 0.173,
+      "Carreras en progresi\u00f3n/90": 0.637,
+      "Centros desde el \u00faltimo tercio/90": 0.681,
+      "Asistencias/90": 0.167,
+      "Pases al \u00e1rea de penalti/90": 0.375,
+      "Ataque en profundidad/90": 0.156
+    }
+  },
+  {
+    "Jugador": "Gavi",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.481,
+      "Jugadas claves/90": 0.403,
+      "Pases en el \u00faltimo tercio/90": 0.398,
+      "Pases progresivos/90": 0.426,
+      "Carreras en progresi\u00f3n/90": 0.213,
+      "Centros desde el \u00faltimo tercio/90": 0.213,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.286,
+      "Ataque en profundidad/90": 0.576
+    }
+  },
+  {
+    "Jugador": "L. Mouton",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.333,
+      "Jugadas claves/90": 0.24,
+      "Pases en el \u00faltimo tercio/90": 0.297,
+      "Pases progresivos/90": 0.462,
+      "Carreras en progresi\u00f3n/90": 0.208,
+      "Centros desde el \u00faltimo tercio/90": 0.22,
+      "Asistencias/90": 0.222,
+      "Pases al \u00e1rea de penalti/90": 0.395,
+      "Ataque en profundidad/90": 0.502
+    }
+  },
+  {
+    "Jugador": "T. Krau\u00df",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.185,
+      "Jugadas claves/90": 0.116,
+      "Pases en el \u00faltimo tercio/90": 0.552,
+      "Pases progresivos/90": 0.756,
+      "Carreras en progresi\u00f3n/90": 0.221,
+      "Centros desde el \u00faltimo tercio/90": 0.22,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.401,
+      "Ataque en profundidad/90": 0.39
+    }
+  },
+  {
+    "Jugador": "W. Swedberg",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.407,
+      "Jugadas claves/90": 0.357,
+      "Pases en el \u00faltimo tercio/90": 0.082,
+      "Pases progresivos/90": 0.069,
+      "Carreras en progresi\u00f3n/90": 0.434,
+      "Centros desde el \u00faltimo tercio/90": 0.241,
+      "Asistencias/90": 0.639,
+      "Pases al \u00e1rea de penalti/90": 0.25,
+      "Ataque en profundidad/90": 0.359
+    }
+  },
+  {
+    "Jugador": "B. Hollerbach",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.31,
+      "Pases en el \u00faltimo tercio/90": 0.039,
+      "Pases progresivos/90": 0.108,
+      "Carreras en progresi\u00f3n/90": 0.697,
+      "Centros desde el \u00faltimo tercio/90": 0.468,
+      "Asistencias/90": 0.083,
+      "Pases al \u00e1rea de penalti/90": 0.478,
+      "Ataque en profundidad/90": 0.351
+    }
+  },
+  {
+    "Jugador": "R. Reitz",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.259,
+      "Jugadas claves/90": 0.372,
+      "Pases en el \u00faltimo tercio/90": 0.406,
+      "Pases progresivos/90": 0.627,
+      "Carreras en progresi\u00f3n/90": 0.108,
+      "Centros desde el \u00faltimo tercio/90": 0.312,
+      "Asistencias/90": 0.139,
+      "Pases al \u00e1rea de penalti/90": 0.323,
+      "Ataque en profundidad/90": 0.255
+    }
+  },
+  {
+    "Jugador": "J. Ponceau",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.333,
+      "Jugadas claves/90": 0.14,
+      "Pases en el \u00faltimo tercio/90": 0.214,
+      "Pases progresivos/90": 0.411,
+      "Carreras en progresi\u00f3n/90": 0.732,
+      "Centros desde el \u00faltimo tercio/90": 0.213,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.319,
+      "Ataque en profundidad/90": 0.424
+    }
+  },
+  {
+    "Jugador": "A. Pavlovi\u0107",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.185,
+      "Jugadas claves/90": 0.093,
+      "Pases en el \u00faltimo tercio/90": 1.0,
+      "Pases progresivos/90": 0.821,
+      "Carreras en progresi\u00f3n/90": 0.193,
+      "Centros desde el \u00faltimo tercio/90": 0.128,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.187,
+      "Ataque en profundidad/90": 0.139
+    }
+  },
+  {
+    "Jugador": "H. Boudaoui",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.333,
+      "Jugadas claves/90": 0.287,
+      "Pases en el \u00faltimo tercio/90": 0.283,
+      "Pases progresivos/90": 0.324,
+      "Carreras en progresi\u00f3n/90": 0.321,
+      "Centros desde el \u00faltimo tercio/90": 0.17,
+      "Asistencias/90": 0.194,
+      "Pases al \u00e1rea de penalti/90": 0.357,
+      "Ataque en profundidad/90": 0.455
+    }
+  },
+  {
+    "Jugador": "Pablo Barrios",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.185,
+      "Jugadas claves/90": 0.194,
+      "Pases en el \u00faltimo tercio/90": 0.496,
+      "Pases progresivos/90": 0.621,
+      "Carreras en progresi\u00f3n/90": 0.18,
+      "Centros desde el \u00faltimo tercio/90": 0.227,
+      "Asistencias/90": 0.306,
+      "Pases al \u00e1rea de penalti/90": 0.317,
+      "Ataque en profundidad/90": 0.19
+    }
+  },
+  {
+    "Jugador": "Marc Casad\u00f3",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.259,
+      "Jugadas claves/90": 0.116,
+      "Pases en el \u00faltimo tercio/90": 0.722,
+      "Pases progresivos/90": 0.525,
+      "Carreras en progresi\u00f3n/90": 0.043,
+      "Centros desde el \u00faltimo tercio/90": 0.071,
+      "Asistencias/90": 0.417,
+      "Pases al \u00e1rea de penalti/90": 0.155,
+      "Ataque en profundidad/90": 0.359
+    }
+  },
+  {
+    "Jugador": "F. Buonanotte",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.333,
+      "Jugadas claves/90": 0.248,
+      "Pases en el \u00faltimo tercio/90": 0.196,
+      "Pases progresivos/90": 0.202,
+      "Carreras en progresi\u00f3n/90": 0.454,
+      "Centros desde el \u00faltimo tercio/90": 0.227,
+      "Asistencias/90": 0.306,
+      "Pases al \u00e1rea de penalti/90": 0.274,
+      "Ataque en profundidad/90": 0.346
+    }
+  },
+  {
+    "Jugador": "S. Esposito",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.259,
+      "Jugadas claves/90": 0.171,
+      "Pases en el \u00faltimo tercio/90": 0.267,
+      "Pases progresivos/90": 0.319,
+      "Carreras en progresi\u00f3n/90": 0.18,
+      "Centros desde el \u00faltimo tercio/90": 0.411,
+      "Asistencias/90": 0.0,
+      "Pases al \u00e1rea de penalti/90": 0.581,
+      "Ataque en profundidad/90": 0.372
+    }
+  },
+  {
+    "Jugador": "V. Carboni",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.407,
+      "Jugadas claves/90": 0.341,
+      "Pases en el \u00faltimo tercio/90": 0.128,
+      "Pases progresivos/90": 0.213,
+      "Carreras en progresi\u00f3n/90": 0.571,
+      "Centros desde el \u00faltimo tercio/90": 0.312,
+      "Asistencias/90": 0.194,
+      "Pases al \u00e1rea de penalti/90": 0.147,
+      "Ataque en profundidad/90": 0.242
+    }
+  },
+  {
+    "Jugador": "Mateus Fernandes",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.296,
+      "Jugadas claves/90": 0.085,
+      "Pases en el \u00faltimo tercio/90": 0.239,
+      "Pases progresivos/90": 0.315,
+      "Carreras en progresi\u00f3n/90": 0.439,
+      "Centros desde el \u00faltimo tercio/90": 0.262,
+      "Asistencias/90": 0.222,
+      "Pases al \u00e1rea de penalti/90": 0.312,
+      "Ataque en profundidad/90": 0.351
+    }
+  },
+  {
+    "Jugador": "A. Oreli\u00e9n",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.818,
+      "Jugadas claves/90": 0.843,
+      "Pases en el \u00faltimo tercio/90": 0.24,
+      "Pases progresivos/90": 0.386,
+      "Carreras en progresi\u00f3n/90": 0.53,
+      "Centros desde el \u00faltimo tercio/90": 0.656,
+      "Asistencias/90": 0.958,
+      "Pases al \u00e1rea de penalti/90": 0.943,
+      "Ataque en profundidad/90": 0.75
+    }
+  },
+  {
+    "Jugador": "R. El Azrak",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.879,
+      "Jugadas claves/90": 0.98,
+      "Pases en el \u00faltimo tercio/90": 0.184,
+      "Pases progresivos/90": 0.276,
+      "Carreras en progresi\u00f3n/90": 0.998,
+      "Centros desde el \u00faltimo tercio/90": 0.712,
+      "Asistencias/90": 0.375,
+      "Pases al \u00e1rea de penalti/90": 0.824,
+      "Ataque en profundidad/90": 0.623
+    }
+  },
+  {
+    "Jugador": "A. El Bouchataoui",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.794,
+      "Pases en el \u00faltimo tercio/90": 0.394,
+      "Pases progresivos/90": 0.517,
+      "Carreras en progresi\u00f3n/90": 0.286,
+      "Centros desde el \u00faltimo tercio/90": 0.531,
+      "Asistencias/90": 0.875,
+      "Pases al \u00e1rea de penalti/90": 0.97,
+      "Ataque en profundidad/90": 0.714
+    }
+  },
+  {
+    "Jugador": "R. Schmid",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.606,
+      "Jugadas claves/90": 0.667,
+      "Pases en el \u00faltimo tercio/90": 0.325,
+      "Pases progresivos/90": 0.559,
+      "Carreras en progresi\u00f3n/90": 0.574,
+      "Centros desde el \u00faltimo tercio/90": 0.65,
+      "Asistencias/90": 0.312,
+      "Pases al \u00e1rea de penalti/90": 1.0,
+      "Ataque en profundidad/90": 0.982
+    }
+  },
+  {
+    "Jugador": "C. Urdl",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 1.0,
+      "Jugadas claves/90": 0.912,
+      "Pases en el \u00faltimo tercio/90": 0.188,
+      "Pases progresivos/90": 0.402,
+      "Carreras en progresi\u00f3n/90": 0.212,
+      "Centros desde el \u00faltimo tercio/90": 0.737,
+      "Asistencias/90": 0.521,
+      "Pases al \u00e1rea de penalti/90": 0.824,
+      "Ataque en profundidad/90": 0.677
+    }
+  },
+  {
+    "Jugador": "A. Terrazas",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.667,
+      "Jugadas claves/90": 0.529,
+      "Pases en el \u00faltimo tercio/90": 0.528,
+      "Pases progresivos/90": 0.631,
+      "Carreras en progresi\u00f3n/90": 0.456,
+      "Centros desde el \u00faltimo tercio/90": 0.612,
+      "Asistencias/90": 0.646,
+      "Pases al \u00e1rea de penalti/90": 0.769,
+      "Ataque en profundidad/90": 0.509
+    }
+  },
+  {
+    "Jugador": "H. Touati",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.545,
+      "Jugadas claves/90": 0.637,
+      "Pases en el \u00faltimo tercio/90": 0.204,
+      "Pases progresivos/90": 0.338,
+      "Carreras en progresi\u00f3n/90": 0.726,
+      "Centros desde el \u00faltimo tercio/90": 0.919,
+      "Asistencias/90": 0.458,
+      "Pases al \u00e1rea de penalti/90": 0.925,
+      "Ataque en profundidad/90": 0.568
+    }
+  },
+  {
+    "Jugador": "R. Capparella",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.667,
+      "Jugadas claves/90": 0.461,
+      "Pases en el \u00faltimo tercio/90": 0.391,
+      "Pases progresivos/90": 0.494,
+      "Carreras en progresi\u00f3n/90": 0.398,
+      "Centros desde el \u00faltimo tercio/90": 0.775,
+      "Asistencias/90": 0.542,
+      "Pases al \u00e1rea de penalti/90": 0.962,
+      "Ataque en profundidad/90": 0.586
+    }
+  },
+  {
+    "Jugador": "S. Shopov",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.727,
+      "Jugadas claves/90": 0.676,
+      "Pases en el \u00faltimo tercio/90": 0.416,
+      "Pases progresivos/90": 0.458,
+      "Carreras en progresi\u00f3n/90": 0.372,
+      "Centros desde el \u00faltimo tercio/90": 0.456,
+      "Asistencias/90": 0.563,
+      "Pases al \u00e1rea de penalti/90": 0.796,
+      "Ataque en profundidad/90": 0.7
+    }
+  },
+  {
+    "Jugador": "A. Klynge",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.515,
+      "Jugadas claves/90": 0.98,
+      "Pases en el \u00faltimo tercio/90": 0.302,
+      "Pases progresivos/90": 0.44,
+      "Carreras en progresi\u00f3n/90": 0.379,
+      "Centros desde el \u00faltimo tercio/90": 0.3,
+      "Asistencias/90": 1.0,
+      "Pases al \u00e1rea de penalti/90": 0.526,
+      "Ataque en profundidad/90": 0.718
+    }
+  },
+  {
+    "Jugador": "S. Panada",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.545,
+      "Jugadas claves/90": 0.353,
+      "Pases en el \u00faltimo tercio/90": 1.0,
+      "Pases progresivos/90": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.463,
+      "Centros desde el \u00faltimo tercio/90": 0.012,
+      "Asistencias/90": 0.25,
+      "Pases al \u00e1rea de penalti/90": 0.719,
+      "Ataque en profundidad/90": 0.782
+    }
+  },
+  {
+    "Jugador": "S. M\u00fcller",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.848,
+      "Jugadas claves/90": 0.735,
+      "Pases en el \u00faltimo tercio/90": 0.135,
+      "Pases progresivos/90": 0.266,
+      "Carreras en progresi\u00f3n/90": 0.405,
+      "Centros desde el \u00faltimo tercio/90": 0.85,
+      "Asistencias/90": 0.646,
+      "Pases al \u00e1rea de penalti/90": 0.547,
+      "Ataque en profundidad/90": 0.555
+    }
+  },
+  {
+    "Jugador": "L. Koji\u0107",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.515,
+      "Jugadas claves/90": 0.539,
+      "Pases en el \u00faltimo tercio/90": 0.432,
+      "Pases progresivos/90": 0.602,
+      "Carreras en progresi\u00f3n/90": 0.519,
+      "Centros desde el \u00faltimo tercio/90": 0.275,
+      "Asistencias/90": 0.917,
+      "Pases al \u00e1rea de penalti/90": 0.551,
+      "Ataque en profundidad/90": 0.586
+    }
+  },
+  {
+    "Jugador": "D. Glass",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.848,
+      "Jugadas claves/90": 0.637,
+      "Pases en el \u00faltimo tercio/90": 0.348,
+      "Pases progresivos/90": 0.384,
+      "Carreras en progresi\u00f3n/90": 0.544,
+      "Centros desde el \u00faltimo tercio/90": 0.369,
+      "Asistencias/90": 0.458,
+      "Pases al \u00e1rea de penalti/90": 0.688,
+      "Ataque en profundidad/90": 0.614
+    }
+  },
+  {
+    "Jugador": "A. Ja\u0161i\u0107",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.333,
+      "Jugadas claves/90": 0.549,
+      "Pases en el \u00faltimo tercio/90": 0.504,
+      "Pases progresivos/90": 0.855,
+      "Carreras en progresi\u00f3n/90": 0.486,
+      "Centros desde el \u00faltimo tercio/90": 0.506,
+      "Asistencias/90": 0.229,
+      "Pases al \u00e1rea de penalti/90": 0.812,
+      "Ataque en profundidad/90": 0.577
+    }
+  },
+  {
+    "Jugador": "V. Bichakhchyan",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.758,
+      "Jugadas claves/90": 0.471,
+      "Pases en el \u00faltimo tercio/90": 0.104,
+      "Pases progresivos/90": 0.244,
+      "Carreras en progresi\u00f3n/90": 0.635,
+      "Centros desde el \u00faltimo tercio/90": 0.663,
+      "Asistencias/90": 0.438,
+      "Pases al \u00e1rea de penalti/90": 0.692,
+      "Ataque en profundidad/90": 0.827
+    }
+  },
+  {
+    "Jugador": "S. Ben Seghir",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.606,
+      "Jugadas claves/90": 0.618,
+      "Pases en el \u00faltimo tercio/90": 0.211,
+      "Pases progresivos/90": 0.325,
+      "Carreras en progresi\u00f3n/90": 0.947,
+      "Centros desde el \u00faltimo tercio/90": 0.244,
+      "Asistencias/90": 0.333,
+      "Pases al \u00e1rea de penalti/90": 0.464,
+      "Ataque en profundidad/90": 1.0
+    }
+  },
+  {
+    "Jugador": "E. Saporiti",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.758,
+      "Jugadas claves/90": 0.529,
+      "Pases en el \u00faltimo tercio/90": 0.196,
+      "Pases progresivos/90": 0.34,
+      "Carreras en progresi\u00f3n/90": 0.4,
+      "Centros desde el \u00faltimo tercio/90": 0.75,
+      "Asistencias/90": 0.563,
+      "Pases al \u00e1rea de penalti/90": 0.749,
+      "Ataque en profundidad/90": 0.395
+    }
+  },
+  {
+    "Jugador": "R. Taniguchi",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.485,
+      "Jugadas claves/90": 0.716,
+      "Pases en el \u00faltimo tercio/90": 0.187,
+      "Pases progresivos/90": 0.257,
+      "Carreras en progresi\u00f3n/90": 0.456,
+      "Centros desde el \u00faltimo tercio/90": 0.4,
+      "Asistencias/90": 0.479,
+      "Pases al \u00e1rea de penalti/90": 0.715,
+      "Ataque en profundidad/90": 0.877
+    }
+  },
+  {
+    "Jugador": "W. Ta\u00efbi",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.394,
+      "Jugadas claves/90": 0.608,
+      "Pases en el \u00faltimo tercio/90": 0.18,
+      "Pases progresivos/90": 0.34,
+      "Carreras en progresi\u00f3n/90": 0.814,
+      "Centros desde el \u00faltimo tercio/90": 0.388,
+      "Asistencias/90": 0.312,
+      "Pases al \u00e1rea de penalti/90": 0.634,
+      "Ataque en profundidad/90": 0.877
+    }
+  },
+  {
+    "Jugador": "B. Cohen",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.667,
+      "Jugadas claves/90": 0.51,
+      "Pases en el \u00faltimo tercio/90": 0.258,
+      "Pases progresivos/90": 0.417,
+      "Carreras en progresi\u00f3n/90": 0.356,
+      "Centros desde el \u00faltimo tercio/90": 0.55,
+      "Asistencias/90": 0.458,
+      "Pases al \u00e1rea de penalti/90": 0.642,
+      "Ataque en profundidad/90": 0.636
+    }
+  },
+  {
+    "Jugador": "B. Bakti",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.697,
+      "Jugadas claves/90": 0.667,
+      "Pases en el \u00faltimo tercio/90": 0.335,
+      "Pases progresivos/90": 0.452,
+      "Carreras en progresi\u00f3n/90": 0.219,
+      "Centros desde el \u00faltimo tercio/90": 0.288,
+      "Asistencias/90": 0.354,
+      "Pases al \u00e1rea de penalti/90": 0.623,
+      "Ataque en profundidad/90": 0.777
+    }
+  },
+  {
+    "Jugador": "N. B\u00e4tzner",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.485,
+      "Jugadas claves/90": 0.608,
+      "Pases en el \u00faltimo tercio/90": 0.145,
+      "Pases progresivos/90": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.321,
+      "Centros desde el \u00faltimo tercio/90": 0.413,
+      "Asistencias/90": 0.688,
+      "Pases al \u00e1rea de penalti/90": 0.632,
+      "Ataque en profundidad/90": 0.786
+    }
+  },
+  {
+    "Jugador": "N. Anspach",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.758,
+      "Jugadas claves/90": 1.0,
+      "Pases en el \u00faltimo tercio/90": 0.103,
+      "Pases progresivos/90": 0.201,
+      "Carreras en progresi\u00f3n/90": 0.326,
+      "Centros desde el \u00faltimo tercio/90": 0.538,
+      "Asistencias/90": 0.333,
+      "Pases al \u00e1rea de penalti/90": 0.48,
+      "Ataque en profundidad/90": 0.609
+    }
+  },
+  {
+    "Jugador": "M. Rus",
+    "Perfil": "M",
+    "Valores": {
+      "xA/90": 0.364,
+      "Jugadas claves/90": 0.539,
+      "Pases en el \u00faltimo tercio/90": 0.233,
+      "Pases progresivos/90": 0.365,
+      "Carreras en progresi\u00f3n/90": 0.67,
+      "Centros desde el \u00faltimo tercio/90": 0.488,
+      "Asistencias/90": 0.479,
+      "Pases al \u00e1rea de penalti/90": 0.621,
+      "Ataque en profundidad/90": 0.518
+    }
+  }
+]

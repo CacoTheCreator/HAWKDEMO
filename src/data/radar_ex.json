@@ -1,0 +1,1877 @@
+[
+  {
+    "Jugador": "Estev\u00e3o",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.861,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Centros/90": 0.418,
+      "Duelos atacantes/90": 0.626,
+      "Duelos atacantes ganados %": 0.656,
+      "xA/90": 1.0,
+      "Regates/90": 1.0,
+      "Pases progresivos/90": 0.472,
+      "Toques en el \u00e1rea de penalti/90": 0.811
+    }
+  },
+  {
+    "Jugador": "N. Vallejo",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.704,
+      "Carreras en progresi\u00f3n/90": 0.664,
+      "Centros/90": 0.622,
+      "Duelos atacantes/90": 0.537,
+      "Duelos atacantes ganados %": 0.911,
+      "xA/90": 0.565,
+      "Regates/90": 0.643,
+      "Pases progresivos/90": 0.364,
+      "Toques en el \u00e1rea de penalti/90": 0.587
+    }
+  },
+  {
+    "Jugador": "H. Mosquera",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.972,
+      "Carreras en progresi\u00f3n/90": 0.871,
+      "Centros/90": 0.399,
+      "Duelos atacantes/90": 0.634,
+      "Duelos atacantes ganados %": 0.721,
+      "xA/90": 0.304,
+      "Regates/90": 0.824,
+      "Pases progresivos/90": 0.27,
+      "Toques en el \u00e1rea de penalti/90": 0.534
+    }
+  },
+  {
+    "Jugador": "A. Moreira",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.972,
+      "Carreras en progresi\u00f3n/90": 0.416,
+      "Centros/90": 0.598,
+      "Duelos atacantes/90": 0.573,
+      "Duelos atacantes ganados %": 0.684,
+      "xA/90": 0.304,
+      "Regates/90": 0.687,
+      "Pases progresivos/90": 0.34,
+      "Toques en el \u00e1rea de penalti/90": 0.697
+    }
+  },
+  {
+    "Jugador": "Wesley",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.759,
+      "Carreras en progresi\u00f3n/90": 0.753,
+      "Centros/90": 0.415,
+      "Duelos atacantes/90": 0.636,
+      "Duelos atacantes ganados %": 0.685,
+      "xA/90": 0.348,
+      "Regates/90": 0.864,
+      "Pases progresivos/90": 0.385,
+      "Toques en el \u00e1rea de penalti/90": 0.413
+    }
+  },
+  {
+    "Jugador": "P. Solari",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.25,
+      "Carreras en progresi\u00f3n/90": 0.339,
+      "Centros/90": 1.0,
+      "Duelos atacantes/90": 0.35,
+      "Duelos atacantes ganados %": 0.43,
+      "xA/90": 0.826,
+      "Regates/90": 0.556,
+      "Pases progresivos/90": 0.448,
+      "Toques en el \u00e1rea de penalti/90": 1.0
+    }
+  },
+  {
+    "Jugador": "F. Mastantuono",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.417,
+      "Carreras en progresi\u00f3n/90": 0.615,
+      "Centros/90": 0.241,
+      "Duelos atacantes/90": 0.631,
+      "Duelos atacantes ganados %": 0.509,
+      "xA/90": 0.913,
+      "Regates/90": 0.68,
+      "Pases progresivos/90": 0.564,
+      "Toques en el \u00e1rea de penalti/90": 0.62
+    }
+  },
+  {
+    "Jugador": "J. Contrera",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.944,
+      "Carreras en progresi\u00f3n/90": 0.428,
+      "Centros/90": 0.559,
+      "Duelos atacantes/90": 0.465,
+      "Duelos atacantes ganados %": 0.551,
+      "xA/90": 0.87,
+      "Regates/90": 0.428,
+      "Pases progresivos/90": 0.378,
+      "Toques en el \u00e1rea de penalti/90": 0.541
+    }
+  },
+  {
+    "Jugador": "E. Zeballos",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.444,
+      "Carreras en progresi\u00f3n/90": 0.467,
+      "Centros/90": 0.511,
+      "Duelos atacantes/90": 0.523,
+      "Duelos atacantes ganados %": 0.887,
+      "xA/90": 0.522,
+      "Regates/90": 0.753,
+      "Pases progresivos/90": 0.255,
+      "Toques en el \u00e1rea de penalti/90": 0.76
+    }
+  },
+  {
+    "Jugador": "D. Aquino",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.352,
+      "Carreras en progresi\u00f3n/90": 0.554,
+      "Centros/90": 0.465,
+      "Duelos atacantes/90": 0.541,
+      "Duelos atacantes ganados %": 0.742,
+      "xA/90": 0.783,
+      "Regates/90": 0.708,
+      "Pases progresivos/90": 0.436,
+      "Toques en el \u00e1rea de penalti/90": 0.524
+    }
+  },
+  {
+    "Jugador": "T. Ver\u00f3n Lupi",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.366,
+      "Centros/90": 0.805,
+      "Duelos atacantes/90": 0.447,
+      "Duelos atacantes ganados %": 0.768,
+      "xA/90": 0.696,
+      "Regates/90": 0.704,
+      "Pases progresivos/90": 0.426,
+      "Toques en el \u00e1rea de penalti/90": 0.469
+    }
+  },
+  {
+    "Jugador": "C. Echeverri",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.398,
+      "Carreras en progresi\u00f3n/90": 0.56,
+      "Centros/90": 0.309,
+      "Duelos atacantes/90": 0.579,
+      "Duelos atacantes ganados %": 0.759,
+      "xA/90": 0.565,
+      "Regates/90": 0.494,
+      "Pases progresivos/90": 0.596,
+      "Toques en el \u00e1rea de penalti/90": 0.517
+    }
+  },
+  {
+    "Jugador": "M. Abaldo",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.426,
+      "Carreras en progresi\u00f3n/90": 0.467,
+      "Centros/90": 0.603,
+      "Duelos atacantes/90": 0.321,
+      "Duelos atacantes ganados %": 0.589,
+      "xA/90": 0.565,
+      "Regates/90": 0.493,
+      "Pases progresivos/90": 0.583,
+      "Toques en el \u00e1rea de penalti/90": 0.688
+    }
+  },
+  {
+    "Jugador": "Julimar",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.713,
+      "Carreras en progresi\u00f3n/90": 0.601,
+      "Centros/90": 0.436,
+      "Duelos atacantes/90": 0.307,
+      "Duelos atacantes ganados %": 0.603,
+      "xA/90": 0.391,
+      "Regates/90": 0.472,
+      "Pases progresivos/90": 0.335,
+      "Toques en el \u00e1rea de penalti/90": 0.874
+    }
+  },
+  {
+    "Jugador": "G. Rodr\u00edguez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.404,
+      "Centros/90": 0.707,
+      "Duelos atacantes/90": 0.243,
+      "Duelos atacantes ganados %": 0.74,
+      "xA/90": 0.522,
+      "Regates/90": 0.437,
+      "Pases progresivos/90": 0.223,
+      "Toques en el \u00e1rea de penalti/90": 0.452
+    }
+  },
+  {
+    "Jugador": "D. Zalazar",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.361,
+      "Carreras en progresi\u00f3n/90": 0.223,
+      "Centros/90": 0.867,
+      "Duelos atacantes/90": 0.246,
+      "Duelos atacantes ganados %": 0.618,
+      "xA/90": 0.739,
+      "Regates/90": 0.477,
+      "Pases progresivos/90": 0.757,
+      "Toques en el \u00e1rea de penalti/90": 0.312
+    }
+  },
+  {
+    "Jugador": "L. Pastr\u00e1n",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.639,
+      "Carreras en progresi\u00f3n/90": 0.555,
+      "Centros/90": 0.309,
+      "Duelos atacantes/90": 0.488,
+      "Duelos atacantes ganados %": 0.698,
+      "xA/90": 0.739,
+      "Regates/90": 0.419,
+      "Pases progresivos/90": 0.264,
+      "Toques en el \u00e1rea de penalti/90": 0.464
+    }
+  },
+  {
+    "Jugador": "J. Ruiz",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.333,
+      "Carreras en progresi\u00f3n/90": 0.482,
+      "Centros/90": 0.256,
+      "Duelos atacantes/90": 1.0,
+      "Duelos atacantes ganados %": 0.677,
+      "xA/90": 0.522,
+      "Regates/90": 0.943,
+      "Pases progresivos/90": 0.2,
+      "Toques en el \u00e1rea de penalti/90": 0.138
+    }
+  },
+  {
+    "Jugador": "E. G\u00f3mez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.972,
+      "Carreras en progresi\u00f3n/90": 0.431,
+      "Centros/90": 0.339,
+      "Duelos atacantes/90": 0.488,
+      "Duelos atacantes ganados %": 0.431,
+      "xA/90": 0.391,
+      "Regates/90": 0.616,
+      "Pases progresivos/90": 0.247,
+      "Toques en el \u00e1rea de penalti/90": 0.562
+    }
+  },
+  {
+    "Jugador": "J. Tobio Burgos",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.843,
+      "Carreras en progresi\u00f3n/90": 0.16,
+      "Centros/90": 0.698,
+      "Duelos atacantes/90": 0.166,
+      "Duelos atacantes ganados %": 0.555,
+      "xA/90": 0.826,
+      "Regates/90": 0.246,
+      "Pases progresivos/90": 0.652,
+      "Toques en el \u00e1rea de penalti/90": 0.282
+    }
+  },
+  {
+    "Jugador": "M. Guerrero",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.556,
+      "Carreras en progresi\u00f3n/90": 0.521,
+      "Centros/90": 0.574,
+      "Duelos atacantes/90": 0.134,
+      "Duelos atacantes ganados %": 0.586,
+      "xA/90": 0.783,
+      "Regates/90": 0.28,
+      "Pases progresivos/90": 0.576,
+      "Toques en el \u00e1rea de penalti/90": 0.387
+    }
+  },
+  {
+    "Jugador": "C. Munder",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.639,
+      "Carreras en progresi\u00f3n/90": 0.402,
+      "Centros/90": 0.5,
+      "Duelos atacantes/90": 0.335,
+      "Duelos atacantes ganados %": 0.819,
+      "xA/90": 0.261,
+      "Regates/90": 0.433,
+      "Pases progresivos/90": 0.514,
+      "Toques en el \u00e1rea de penalti/90": 0.483
+    }
+  },
+  {
+    "Jugador": "N. Ferreira",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.38,
+      "Carreras en progresi\u00f3n/90": 0.407,
+      "Centros/90": 0.646,
+      "Duelos atacantes/90": 0.69,
+      "Duelos atacantes ganados %": 0.343,
+      "xA/90": 0.652,
+      "Regates/90": 0.511,
+      "Pases progresivos/90": 0.466,
+      "Toques en el \u00e1rea de penalti/90": 0.275
+    }
+  },
+  {
+    "Jugador": "E. da Silva",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.306,
+      "Carreras en progresi\u00f3n/90": 0.371,
+      "Centros/90": 0.371,
+      "Duelos atacantes/90": 0.318,
+      "Duelos atacantes ganados %": 0.638,
+      "xA/90": 0.739,
+      "Regates/90": 0.445,
+      "Pases progresivos/90": 0.456,
+      "Toques en el \u00e1rea de penalti/90": 0.639
+    }
+  },
+  {
+    "Jugador": "A. Duarte",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.389,
+      "Carreras en progresi\u00f3n/90": 0.312,
+      "Centros/90": 0.41,
+      "Duelos atacantes/90": 0.46,
+      "Duelos atacantes ganados %": 0.664,
+      "xA/90": 0.522,
+      "Regates/90": 0.485,
+      "Pases progresivos/90": 0.217,
+      "Toques en el \u00e1rea de penalti/90": 0.818
+    }
+  },
+  {
+    "Jugador": "J. Carbonero",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.417,
+      "Carreras en progresi\u00f3n/90": 0.4,
+      "Centros/90": 0.241,
+      "Duelos atacantes/90": 0.47,
+      "Duelos atacantes ganados %": 0.73,
+      "xA/90": 0.435,
+      "Regates/90": 0.58,
+      "Pases progresivos/90": 0.349,
+      "Toques en el \u00e1rea de penalti/90": 0.641
+    }
+  },
+  {
+    "Jugador": "E. Hoyos",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.491,
+      "Carreras en progresi\u00f3n/90": 0.317,
+      "Centros/90": 0.331,
+      "Duelos atacantes/90": 0.341,
+      "Duelos atacantes ganados %": 0.672,
+      "xA/90": 0.652,
+      "Regates/90": 0.212,
+      "Pases progresivos/90": 1.0,
+      "Toques en el \u00e1rea de penalti/90": 0.21
+    }
+  },
+  {
+    "Jugador": "Jhon Jhon",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.25,
+      "Carreras en progresi\u00f3n/90": 0.438,
+      "Centros/90": 0.251,
+      "Duelos atacantes/90": 0.273,
+      "Duelos atacantes ganados %": 0.815,
+      "xA/90": 0.826,
+      "Regates/90": 0.357,
+      "Pases progresivos/90": 0.616,
+      "Toques en el \u00e1rea de penalti/90": 0.368
+    }
+  },
+  {
+    "Jugador": "A. Luna",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.722,
+      "Carreras en progresi\u00f3n/90": 0.261,
+      "Centros/90": 0.449,
+      "Duelos atacantes/90": 0.61,
+      "Duelos atacantes ganados %": 0.608,
+      "xA/90": 0.478,
+      "Regates/90": 0.483,
+      "Pases progresivos/90": 0.324,
+      "Toques en el \u00e1rea de penalti/90": 0.24
+    }
+  },
+  {
+    "Jugador": "N. Villarreal",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.213,
+      "Carreras en progresi\u00f3n/90": 0.55,
+      "Centros/90": 0.175,
+      "Duelos atacantes/90": 0.395,
+      "Duelos atacantes ganados %": 0.816,
+      "xA/90": 0.652,
+      "Regates/90": 0.548,
+      "Pases progresivos/90": 0.21,
+      "Toques en el \u00e1rea de penalti/90": 0.58
+    }
+  },
+  {
+    "Jugador": "A. Alaniz",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.574,
+      "Carreras en progresi\u00f3n/90": 0.392,
+      "Centros/90": 0.375,
+      "Duelos atacantes/90": 0.333,
+      "Duelos atacantes ganados %": 0.435,
+      "xA/90": 0.652,
+      "Regates/90": 0.451,
+      "Pases progresivos/90": 0.315,
+      "Toques en el \u00e1rea de penalti/90": 0.571
+    }
+  },
+  {
+    "Jugador": "J. Herrera",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.519,
+      "Carreras en progresi\u00f3n/90": 0.404,
+      "Centros/90": 0.455,
+      "Duelos atacantes/90": 0.424,
+      "Duelos atacantes ganados %": 0.505,
+      "xA/90": 0.348,
+      "Regates/90": 0.516,
+      "Pases progresivos/90": 0.403,
+      "Toques en el \u00e1rea de penalti/90": 0.506
+    }
+  },
+  {
+    "Jugador": "B. Aguirre",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.306,
+      "Carreras en progresi\u00f3n/90": 0.453,
+      "Centros/90": 0.534,
+      "Duelos atacantes/90": 0.554,
+      "Duelos atacantes ganados %": 0.683,
+      "xA/90": 0.304,
+      "Regates/90": 0.526,
+      "Pases progresivos/90": 0.398,
+      "Toques en el \u00e1rea de penalti/90": 0.308
+    }
+  },
+  {
+    "Jugador": "J. Valiente",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.639,
+      "Carreras en progresi\u00f3n/90": 0.416,
+      "Centros/90": 0.323,
+      "Duelos atacantes/90": 0.249,
+      "Duelos atacantes ganados %": 0.634,
+      "xA/90": 0.739,
+      "Regates/90": 0.201,
+      "Pases progresivos/90": 0.547,
+      "Toques en el \u00e1rea de penalti/90": 0.305
+    }
+  },
+  {
+    "Jugador": "I. Schor",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.509,
+      "Carreras en progresi\u00f3n/90": 0.486,
+      "Centros/90": 0.542,
+      "Duelos atacantes/90": 0.378,
+      "Duelos atacantes ganados %": 0.522,
+      "xA/90": 0.174,
+      "Regates/90": 0.534,
+      "Pases progresivos/90": 0.358,
+      "Toques en el \u00e1rea de penalti/90": 0.548
+    }
+  },
+  {
+    "Jugador": "F. de Le\u00f3n",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.481,
+      "Carreras en progresi\u00f3n/90": 0.322,
+      "Centros/90": 0.68,
+      "Duelos atacantes/90": 0.28,
+      "Duelos atacantes ganados %": 0.616,
+      "xA/90": 0.522,
+      "Regates/90": 0.472,
+      "Pases progresivos/90": 0.164,
+      "Toques en el \u00e1rea de penalti/90": 0.459
+    }
+  },
+  {
+    "Jugador": "Helinho",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.343,
+      "Carreras en progresi\u00f3n/90": 0.382,
+      "Centros/90": 0.416,
+      "Duelos atacantes/90": 0.392,
+      "Duelos atacantes ganados %": 0.58,
+      "xA/90": 0.435,
+      "Regates/90": 0.554,
+      "Pases progresivos/90": 0.63,
+      "Toques en el \u00e1rea de penalti/90": 0.198
+    }
+  },
+  {
+    "Jugador": "R. Cabral",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.176,
+      "Carreras en progresi\u00f3n/90": 0.135,
+      "Centros/90": 0.686,
+      "Duelos atacantes/90": 0.37,
+      "Duelos atacantes ganados %": 0.926,
+      "xA/90": 0.348,
+      "Regates/90": 0.431,
+      "Pases progresivos/90": 0.429,
+      "Toques en el \u00e1rea de penalti/90": 0.371
+    }
+  },
+  {
+    "Jugador": "M. Silvetti",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.398,
+      "Carreras en progresi\u00f3n/90": 0.291,
+      "Centros/90": 0.625,
+      "Duelos atacantes/90": 0.351,
+      "Duelos atacantes ganados %": 0.597,
+      "xA/90": 0.478,
+      "Regates/90": 0.422,
+      "Pases progresivos/90": 0.337,
+      "Toques en el \u00e1rea de penalti/90": 0.333
+    }
+  },
+  {
+    "Jugador": "F. Ovelar",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.361,
+      "Carreras en progresi\u00f3n/90": 0.38,
+      "Centros/90": 0.277,
+      "Duelos atacantes/90": 0.465,
+      "Duelos atacantes ganados %": 0.398,
+      "xA/90": 0.609,
+      "Regates/90": 0.493,
+      "Pases progresivos/90": 0.476,
+      "Toques en el \u00e1rea de penalti/90": 0.366
+    }
+  },
+  {
+    "Jugador": "L. Sequeira",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.269,
+      "Carreras en progresi\u00f3n/90": 0.383,
+      "Centros/90": 0.191,
+      "Duelos atacantes/90": 0.484,
+      "Duelos atacantes ganados %": 0.766,
+      "xA/90": 0.522,
+      "Regates/90": 0.313,
+      "Pases progresivos/90": 0.89,
+      "Toques en el \u00e1rea de penalti/90": 0.0
+    }
+  },
+  {
+    "Jugador": "A. Galeano",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.685,
+      "Carreras en progresi\u00f3n/90": 0.194,
+      "Centros/90": 0.614,
+      "Duelos atacantes/90": 0.052,
+      "Duelos atacantes ganados %": 0.781,
+      "xA/90": 0.478,
+      "Regates/90": 0.155,
+      "Pases progresivos/90": 0.418,
+      "Toques en el \u00e1rea de penalti/90": 0.438
+    }
+  },
+  {
+    "Jugador": "M. Godoy",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.759,
+      "Carreras en progresi\u00f3n/90": 0.302,
+      "Centros/90": 0.235,
+      "Duelos atacantes/90": 0.349,
+      "Duelos atacantes ganados %": 0.436,
+      "xA/90": 0.609,
+      "Regates/90": 0.388,
+      "Pases progresivos/90": 0.273,
+      "Toques en el \u00e1rea de penalti/90": 0.371
+    }
+  },
+  {
+    "Jugador": "C. Palacios",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.241,
+      "Carreras en progresi\u00f3n/90": 0.497,
+      "Centros/90": 0.1,
+      "Duelos atacantes/90": 0.219,
+      "Duelos atacantes ganados %": 0.521,
+      "xA/90": 0.783,
+      "Regates/90": 0.246,
+      "Pases progresivos/90": 0.906,
+      "Toques en el \u00e1rea de penalti/90": 0.17
+    }
+  },
+  {
+    "Jugador": "F. Gonz\u00e1lez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.444,
+      "Carreras en progresi\u00f3n/90": 0.271,
+      "Centros/90": 0.543,
+      "Duelos atacantes/90": 0.23,
+      "Duelos atacantes ganados %": 0.507,
+      "xA/90": 0.609,
+      "Regates/90": 0.273,
+      "Pases progresivos/90": 0.419,
+      "Toques en el \u00e1rea de penalti/90": 0.366
+    }
+  },
+  {
+    "Jugador": "J. Guti\u00e9rrez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.546,
+      "Carreras en progresi\u00f3n/90": 0.356,
+      "Centros/90": 0.204,
+      "Duelos atacantes/90": 0.359,
+      "Duelos atacantes ganados %": 0.569,
+      "xA/90": 0.304,
+      "Regates/90": 0.509,
+      "Pases progresivos/90": 0.209,
+      "Toques en el \u00e1rea de penalti/90": 0.606
+    }
+  },
+  {
+    "Jugador": "J. Gonz\u00e1lez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.722,
+      "Carreras en progresi\u00f3n/90": 0.448,
+      "Centros/90": 0.305,
+      "Duelos atacantes/90": 0.314,
+      "Duelos atacantes ganados %": 0.52,
+      "xA/90": 0.348,
+      "Regates/90": 0.265,
+      "Pases progresivos/90": 0.223,
+      "Toques en el \u00e1rea de penalti/90": 0.506
+    }
+  },
+  {
+    "Jugador": "A. Anello",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.185,
+      "Carreras en progresi\u00f3n/90": 0.342,
+      "Centros/90": 0.376,
+      "Duelos atacantes/90": 0.376,
+      "Duelos atacantes ganados %": 0.489,
+      "xA/90": 0.609,
+      "Regates/90": 0.458,
+      "Pases progresivos/90": 0.472,
+      "Toques en el \u00e1rea de penalti/90": 0.322
+    }
+  },
+  {
+    "Jugador": "A. Castillo",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.231,
+      "Carreras en progresi\u00f3n/90": 0.445,
+      "Centros/90": 0.291,
+      "Duelos atacantes/90": 0.519,
+      "Duelos atacantes ganados %": 0.48,
+      "xA/90": 0.435,
+      "Regates/90": 0.397,
+      "Pases progresivos/90": 0.512,
+      "Toques en el \u00e1rea de penalti/90": 0.317
+    }
+  },
+  {
+    "Jugador": "B. Chand\u00eda",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.463,
+      "Carreras en progresi\u00f3n/90": 0.421,
+      "Centros/90": 0.672,
+      "Duelos atacantes/90": 0.114,
+      "Duelos atacantes ganados %": 0.751,
+      "xA/90": 0.174,
+      "Regates/90": 0.246,
+      "Pases progresivos/90": 0.441,
+      "Toques en el \u00e1rea de penalti/90": 0.317
+    }
+  },
+  {
+    "Jugador": "Lamine Yamal",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.337,
+      "Carreras en progresi\u00f3n/90": 0.953,
+      "Centros/90": 0.878,
+      "Duelos atacantes/90": 1.0,
+      "Duelos atacantes ganados %": 0.821,
+      "xA/90": 1.0,
+      "Regates/90": 1.0,
+      "Pases progresivos/90": 0.633,
+      "Toques en el \u00e1rea de penalti/90": 0.933
+    }
+  },
+  {
+    "Jugador": "D. Dou\u00e9",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.279,
+      "Carreras en progresi\u00f3n/90": 0.715,
+      "Centros/90": 0.695,
+      "Duelos atacantes/90": 0.927,
+      "Duelos atacantes ganados %": 0.778,
+      "xA/90": 0.9,
+      "Regates/90": 0.76,
+      "Pases progresivos/90": 0.673,
+      "Toques en el \u00e1rea de penalti/90": 0.879
+    }
+  },
+  {
+    "Jugador": "M. Fofana",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.413,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Centros/90": 1.0,
+      "Duelos atacantes/90": 0.467,
+      "Duelos atacantes ganados %": 0.964,
+      "xA/90": 0.4,
+      "Regates/90": 0.436,
+      "Pases progresivos/90": 0.296,
+      "Toques en el \u00e1rea de penalti/90": 0.669
+    }
+  },
+  {
+    "Jugador": "N. Wei\u00dfhaupt",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.576,
+      "Carreras en progresi\u00f3n/90": 0.576,
+      "Centros/90": 0.869,
+      "Duelos atacantes/90": 0.475,
+      "Duelos atacantes ganados %": 1.0,
+      "xA/90": 0.367,
+      "Regates/90": 0.443,
+      "Pases progresivos/90": 0.416,
+      "Toques en el \u00e1rea de penalti/90": 0.399
+    }
+  },
+  {
+    "Jugador": "R. Schmid",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.343,
+      "Carreras en progresi\u00f3n/90": 0.529,
+      "Centros/90": 0.699,
+      "Duelos atacantes/90": 0.421,
+      "Duelos atacantes ganados %": 0.752,
+      "xA/90": 0.633,
+      "Regates/90": 0.291,
+      "Pases progresivos/90": 1.0,
+      "Toques en el \u00e1rea de penalti/90": 0.378
+    }
+  },
+  {
+    "Jugador": "K. Adeyemi",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.308,
+      "Carreras en progresi\u00f3n/90": 0.723,
+      "Centros/90": 0.47,
+      "Duelos atacantes/90": 0.69,
+      "Duelos atacantes ganados %": 0.459,
+      "xA/90": 1.0,
+      "Regates/90": 0.542,
+      "Pases progresivos/90": 0.198,
+      "Toques en el \u00e1rea de penalti/90": 0.618
+    }
+  },
+  {
+    "Jugador": "M. Cho",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.657,
+      "Carreras en progresi\u00f3n/90": 0.711,
+      "Centros/90": 0.641,
+      "Duelos atacantes/90": 0.583,
+      "Duelos atacantes ganados %": 0.61,
+      "xA/90": 0.567,
+      "Regates/90": 0.445,
+      "Pases progresivos/90": 0.251,
+      "Toques en el \u00e1rea de penalti/90": 0.507
+    }
+  },
+  {
+    "Jugador": "B. Hollerbach",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.715,
+      "Carreras en progresi\u00f3n/90": 0.578,
+      "Centros/90": 0.673,
+      "Duelos atacantes/90": 0.762,
+      "Duelos atacantes ganados %": 0.664,
+      "xA/90": 0.267,
+      "Regates/90": 0.478,
+      "Pases progresivos/90": 0.227,
+      "Toques en el \u00e1rea de penalti/90": 0.579
+    }
+  },
+  {
+    "Jugador": "Dango Ouattara",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.209,
+      "Carreras en progresi\u00f3n/90": 0.411,
+      "Centros/90": 0.982,
+      "Duelos atacantes/90": 0.424,
+      "Duelos atacantes ganados %": 0.523,
+      "xA/90": 0.567,
+      "Regates/90": 0.409,
+      "Pases progresivos/90": 0.39,
+      "Toques en el \u00e1rea de penalti/90": 0.683
+    }
+  },
+  {
+    "Jugador": "O. Sahraoui",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.5,
+      "Carreras en progresi\u00f3n/90": 0.787,
+      "Centros/90": 0.261,
+      "Duelos atacantes/90": 0.574,
+      "Duelos atacantes ganados %": 0.476,
+      "xA/90": 0.6,
+      "Regates/90": 0.417,
+      "Pases progresivos/90": 0.496,
+      "Toques en el \u00e1rea de penalti/90": 0.487
+    }
+  },
+  {
+    "Jugador": "Zito Luvumbo",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.215,
+      "Carreras en progresi\u00f3n/90": 0.498,
+      "Centros/90": 0.895,
+      "Duelos atacantes/90": 0.766,
+      "Duelos atacantes ganados %": 0.692,
+      "xA/90": 0.367,
+      "Regates/90": 0.493,
+      "Pases progresivos/90": 0.209,
+      "Toques en el \u00e1rea de penalti/90": 0.421
+    }
+  },
+  {
+    "Jugador": "Y. Gboho",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.32,
+      "Carreras en progresi\u00f3n/90": 0.812,
+      "Centros/90": 0.374,
+      "Duelos atacantes/90": 0.72,
+      "Duelos atacantes ganados %": 0.584,
+      "xA/90": 0.433,
+      "Regates/90": 0.399,
+      "Pases progresivos/90": 0.29,
+      "Toques en el \u00e1rea de penalti/90": 0.571
+    }
+  },
+  {
+    "Jugador": "J. Enciso",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.39,
+      "Carreras en progresi\u00f3n/90": 0.64,
+      "Centros/90": 0.301,
+      "Duelos atacantes/90": 0.778,
+      "Duelos atacantes ganados %": 0.633,
+      "xA/90": 0.4,
+      "Regates/90": 0.529,
+      "Pases progresivos/90": 0.344,
+      "Toques en el \u00e1rea de penalti/90": 0.274
+    }
+  },
+  {
+    "Jugador": "O. Hutchinson",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.523,
+      "Carreras en progresi\u00f3n/90": 0.531,
+      "Centros/90": 0.619,
+      "Duelos atacantes/90": 0.661,
+      "Duelos atacantes ganados %": 0.549,
+      "xA/90": 0.267,
+      "Regates/90": 0.493,
+      "Pases progresivos/90": 0.294,
+      "Toques en el \u00e1rea de penalti/90": 0.315
+    }
+  },
+  {
+    "Jugador": "E. Nuamah",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.384,
+      "Carreras en progresi\u00f3n/90": 0.686,
+      "Centros/90": 0.43,
+      "Duelos atacantes/90": 0.502,
+      "Duelos atacantes ganados %": 0.563,
+      "xA/90": 0.267,
+      "Regates/90": 0.429,
+      "Pases progresivos/90": 0.32,
+      "Toques en el \u00e1rea de penalti/90": 0.644
+    }
+  },
+  {
+    "Jugador": "S. Babicka",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.157,
+      "Carreras en progresi\u00f3n/90": 0.401,
+      "Centros/90": 0.822,
+      "Duelos atacantes/90": 0.254,
+      "Duelos atacantes ganados %": 0.989,
+      "xA/90": 0.433,
+      "Regates/90": 0.31,
+      "Pases progresivos/90": 0.319,
+      "Toques en el \u00e1rea de penalti/90": 0.476
+    }
+  },
+  {
+    "Jugador": "H. Ekitik\u00e9",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.442,
+      "Carreras en progresi\u00f3n/90": 0.558,
+      "Centros/90": 0.205,
+      "Duelos atacantes/90": 0.622,
+      "Duelos atacantes ganados %": 0.322,
+      "xA/90": 0.6,
+      "Regates/90": 0.337,
+      "Pases progresivos/90": 0.121,
+      "Toques en el \u00e1rea de penalti/90": 0.894
+    }
+  },
+  {
+    "Jugador": "E. Guessand",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.203,
+      "Carreras en progresi\u00f3n/90": 0.479,
+      "Centros/90": 0.336,
+      "Duelos atacantes/90": 0.738,
+      "Duelos atacantes ganados %": 0.716,
+      "xA/90": 0.467,
+      "Regates/90": 0.369,
+      "Pases progresivos/90": 0.16,
+      "Toques en el \u00e1rea de penalti/90": 0.548
+    }
+  },
+  {
+    "Jugador": "G. Oristanio",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.407,
+      "Carreras en progresi\u00f3n/90": 0.471,
+      "Centros/90": 0.474,
+      "Duelos atacantes/90": 0.833,
+      "Duelos atacantes ganados %": 0.536,
+      "xA/90": 0.267,
+      "Regates/90": 0.397,
+      "Pases progresivos/90": 0.258,
+      "Toques en el \u00e1rea de penalti/90": 0.356
+    }
+  },
+  {
+    "Jugador": "B. Dom\u00ednguez",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.267,
+      "Carreras en progresi\u00f3n/90": 0.558,
+      "Centros/90": 0.263,
+      "Duelos atacantes/90": 0.756,
+      "Duelos atacantes ganados %": 0.658,
+      "xA/90": 0.3,
+      "Regates/90": 0.441,
+      "Pases progresivos/90": 0.238,
+      "Toques en el \u00e1rea de penalti/90": 0.438
+    }
+  },
+  {
+    "Jugador": "J. Casimir",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.285,
+      "Carreras en progresi\u00f3n/90": 0.341,
+      "Centros/90": 0.855,
+      "Duelos atacantes/90": 0.229,
+      "Duelos atacantes ganados %": 0.918,
+      "xA/90": 0.4,
+      "Regates/90": 0.216,
+      "Pases progresivos/90": 0.279,
+      "Toques en el \u00e1rea de penalti/90": 0.382
+    }
+  },
+  {
+    "Jugador": "J. Ponceau",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 1.0,
+      "Carreras en progresi\u00f3n/90": 0.605,
+      "Centros/90": 0.185,
+      "Duelos atacantes/90": 0.404,
+      "Duelos atacantes ganados %": 0.498,
+      "xA/90": 0.3,
+      "Regates/90": 0.248,
+      "Pases progresivos/90": 0.538,
+      "Toques en el \u00e1rea de penalti/90": 0.119
+    }
+  },
+  {
+    "Jugador": "J. Yeboah",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.116,
+      "Carreras en progresi\u00f3n/90": 0.562,
+      "Centros/90": 0.383,
+      "Duelos atacantes/90": 0.488,
+      "Duelos atacantes ganados %": 0.694,
+      "xA/90": 0.5,
+      "Regates/90": 0.408,
+      "Pases progresivos/90": 0.269,
+      "Toques en el \u00e1rea de penalti/90": 0.466
+    }
+  },
+  {
+    "Jugador": "P. Nebel",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.163,
+      "Carreras en progresi\u00f3n/90": 0.3,
+      "Centros/90": 0.822,
+      "Duelos atacantes/90": 0.395,
+      "Duelos atacantes ganados %": 0.572,
+      "xA/90": 0.5,
+      "Regates/90": 0.264,
+      "Pases progresivos/90": 0.455,
+      "Toques en el \u00e1rea de penalti/90": 0.36
+    }
+  },
+  {
+    "Jugador": "P. Almqvist",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.512,
+      "Carreras en progresi\u00f3n/90": 0.483,
+      "Centros/90": 0.374,
+      "Duelos atacantes/90": 0.418,
+      "Duelos atacantes ganados %": 0.732,
+      "xA/90": 0.233,
+      "Regates/90": 0.353,
+      "Pases progresivos/90": 0.199,
+      "Toques en el \u00e1rea de penalti/90": 0.493
+    }
+  },
+  {
+    "Jugador": "Y. Vertessen",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.419,
+      "Carreras en progresi\u00f3n/90": 0.393,
+      "Centros/90": 0.194,
+      "Duelos atacantes/90": 0.549,
+      "Duelos atacantes ganados %": 0.456,
+      "xA/90": 0.767,
+      "Regates/90": 0.388,
+      "Pases progresivos/90": 0.204,
+      "Toques en el \u00e1rea de penalti/90": 0.382
+    }
+  },
+  {
+    "Jugador": "Assane Diao",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.157,
+      "Carreras en progresi\u00f3n/90": 0.57,
+      "Centros/90": 0.276,
+      "Duelos atacantes/90": 0.745,
+      "Duelos atacantes ganados %": 0.495,
+      "xA/90": 0.367,
+      "Regates/90": 0.46,
+      "Pases progresivos/90": 0.189,
+      "Toques en el \u00e1rea de penalti/90": 0.476
+    }
+  },
+  {
+    "Jugador": "B. Bouanani",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.465,
+      "Carreras en progresi\u00f3n/90": 0.523,
+      "Centros/90": 0.454,
+      "Duelos atacantes/90": 0.303,
+      "Duelos atacantes ganados %": 0.664,
+      "xA/90": 0.333,
+      "Regates/90": 0.218,
+      "Pases progresivos/90": 0.222,
+      "Toques en el \u00e1rea de penalti/90": 0.431
+    }
+  },
+  {
+    "Jugador": "N. Woltemade",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.14,
+      "Carreras en progresi\u00f3n/90": 0.281,
+      "Centros/90": 0.129,
+      "Duelos atacantes/90": 0.957,
+      "Duelos atacantes ganados %": 0.217,
+      "xA/90": 0.433,
+      "Regates/90": 0.3,
+      "Pases progresivos/90": 0.188,
+      "Toques en el \u00e1rea de penalti/90": 0.951
+    }
+  },
+  {
+    "Jugador": "D. Maldini",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.151,
+      "Carreras en progresi\u00f3n/90": 0.463,
+      "Centros/90": 0.294,
+      "Duelos atacantes/90": 0.722,
+      "Duelos atacantes ganados %": 0.726,
+      "xA/90": 0.233,
+      "Regates/90": 0.444,
+      "Pases progresivos/90": 0.177,
+      "Toques en el \u00e1rea de penalti/90": 0.374
+    }
+  },
+  {
+    "Jugador": "B. El Khannouss",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.378,
+      "Carreras en progresi\u00f3n/90": 0.436,
+      "Centros/90": 0.483,
+      "Duelos atacantes/90": 0.224,
+      "Duelos atacantes ganados %": 0.763,
+      "xA/90": 0.4,
+      "Regates/90": 0.22,
+      "Pases progresivos/90": 0.622,
+      "Toques en el \u00e1rea de penalti/90": 0.041
+    }
+  },
+  {
+    "Jugador": "T. Dibling",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.552,
+      "Carreras en progresi\u00f3n/90": 0.601,
+      "Centros/90": 0.212,
+      "Duelos atacantes/90": 0.671,
+      "Duelos atacantes ganados %": 0.646,
+      "xA/90": 0.133,
+      "Regates/90": 0.395,
+      "Pases progresivos/90": 0.239,
+      "Toques en el \u00e1rea de penalti/90": 0.092
+    }
+  },
+  {
+    "Jugador": "T. Chong",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.744,
+      "Carreras en progresi\u00f3n/90": 0.353,
+      "Centros/90": 0.318,
+      "Duelos atacantes/90": 0.435,
+      "Duelos atacantes ganados %": 0.873,
+      "xA/90": 0.1,
+      "Regates/90": 0.332,
+      "Pases progresivos/90": 0.208,
+      "Toques en el \u00e1rea de penalti/90": 0.131
+    }
+  },
+  {
+    "Jugador": "Z. Davitashvili",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.512,
+      "Carreras en progresi\u00f3n/90": 0.517,
+      "Centros/90": 0.236,
+      "Duelos atacantes/90": 0.492,
+      "Duelos atacantes ganados %": 0.322,
+      "xA/90": 0.467,
+      "Regates/90": 0.328,
+      "Pases progresivos/90": 0.203,
+      "Toques en el \u00e1rea de penalti/90": 0.409
+    }
+  },
+  {
+    "Jugador": "I. Soumar\u00e9",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.198,
+      "Carreras en progresi\u00f3n/90": 0.345,
+      "Centros/90": 0.514,
+      "Duelos atacantes/90": 0.473,
+      "Duelos atacantes ganados %": 0.717,
+      "xA/90": 0.2,
+      "Regates/90": 0.297,
+      "Pases progresivos/90": 0.263,
+      "Toques en el \u00e1rea de penalti/90": 0.464
+    }
+  },
+  {
+    "Jugador": "K. Nakamura",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.488,
+      "Carreras en progresi\u00f3n/90": 0.415,
+      "Centros/90": 0.408,
+      "Duelos atacantes/90": 0.259,
+      "Duelos atacantes ganados %": 0.595,
+      "xA/90": 0.2,
+      "Regates/90": 0.302,
+      "Pases progresivos/90": 0.328,
+      "Toques en el \u00e1rea de penalti/90": 0.472
+    }
+  },
+  {
+    "Jugador": "L. Openda",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.262,
+      "Carreras en progresi\u00f3n/90": 0.262,
+      "Centros/90": 0.376,
+      "Duelos atacantes/90": 0.446,
+      "Duelos atacantes ganados %": 0.62,
+      "xA/90": 0.3,
+      "Regates/90": 0.308,
+      "Pases progresivos/90": 0.142,
+      "Toques en el \u00e1rea de penalti/90": 0.712
+    }
+  },
+  {
+    "Jugador": "M. Abline",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.424,
+      "Carreras en progresi\u00f3n/90": 0.382,
+      "Centros/90": 0.343,
+      "Duelos atacantes/90": 0.527,
+      "Duelos atacantes ganados %": 0.558,
+      "xA/90": 0.267,
+      "Regates/90": 0.269,
+      "Pases progresivos/90": 0.092,
+      "Toques en el \u00e1rea de penalti/90": 0.552
+    }
+  },
+  {
+    "Jugador": "J. Thielmann",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.535,
+      "Carreras en progresi\u00f3n/90": 0.386,
+      "Centros/90": 0.604,
+      "Duelos atacantes/90": 0.245,
+      "Duelos atacantes ganados %": 0.633,
+      "xA/90": 0.167,
+      "Regates/90": 0.164,
+      "Pases progresivos/90": 0.521,
+      "Toques en el \u00e1rea de penalti/90": 0.157
+    }
+  },
+  {
+    "Jugador": "Nico Paz",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.238,
+      "Carreras en progresi\u00f3n/90": 0.329,
+      "Centros/90": 0.18,
+      "Duelos atacantes/90": 0.554,
+      "Duelos atacantes ganados %": 0.464,
+      "xA/90": 0.433,
+      "Regates/90": 0.348,
+      "Pases progresivos/90": 0.497,
+      "Toques en el \u00e1rea de penalti/90": 0.315
+    }
+  },
+  {
+    "Jugador": "H. Abdelli",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.302,
+      "Carreras en progresi\u00f3n/90": 0.603,
+      "Centros/90": 0.272,
+      "Duelos atacantes/90": 0.336,
+      "Duelos atacantes ganados %": 0.557,
+      "xA/90": 0.267,
+      "Regates/90": 0.261,
+      "Pases progresivos/90": 0.734,
+      "Toques en el \u00e1rea de penalti/90": 0.0
+    }
+  },
+  {
+    "Jugador": "T. Coulibaly",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.326,
+      "Carreras en progresi\u00f3n/90": 0.442,
+      "Centros/90": 0.376,
+      "Duelos atacantes/90": 0.528,
+      "Duelos atacantes ganados %": 0.52,
+      "xA/90": 0.267,
+      "Regates/90": 0.298,
+      "Pases progresivos/90": 0.125,
+      "Toques en el \u00e1rea de penalti/90": 0.438
+    }
+  },
+  {
+    "Jugador": "W. Swedberg",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.331,
+      "Carreras en progresi\u00f3n/90": 0.374,
+      "Centros/90": 0.359,
+      "Duelos atacantes/90": 0.392,
+      "Duelos atacantes ganados %": 0.525,
+      "xA/90": 0.367,
+      "Regates/90": 0.265,
+      "Pases progresivos/90": 0.186,
+      "Toques en el \u00e1rea de penalti/90": 0.462
+    }
+  },
+  {
+    "Jugador": "J. Fazzini",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.215,
+      "Carreras en progresi\u00f3n/90": 0.446,
+      "Centros/90": 0.312,
+      "Duelos atacantes/90": 0.618,
+      "Duelos atacantes ganados %": 0.516,
+      "xA/90": 0.133,
+      "Regates/90": 0.369,
+      "Pases progresivos/90": 0.338,
+      "Toques en el \u00e1rea de penalti/90": 0.229
+    }
+  },
+  {
+    "Jugador": "M. Biereth",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.041,
+      "Carreras en progresi\u00f3n/90": 0.107,
+      "Centros/90": 0.292,
+      "Duelos atacantes/90": 0.257,
+      "Duelos atacantes ganados %": 0.416,
+      "xA/90": 0.833,
+      "Regates/90": 0.108,
+      "Pases progresivos/90": 0.098,
+      "Toques en el \u00e1rea de penalti/90": 1.0
+    }
+  },
+  {
+    "Jugador": "Jeong Woo-Yeong",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.14,
+      "Carreras en progresi\u00f3n/90": 0.388,
+      "Centros/90": 0.45,
+      "Duelos atacantes/90": 0.125,
+      "Duelos atacantes ganados %": 0.728,
+      "xA/90": 0.367,
+      "Regates/90": 0.156,
+      "Pases progresivos/90": 0.515,
+      "Toques en el \u00e1rea de penalti/90": 0.254
+    }
+  },
+  {
+    "Jugador": "M. Cancellieri",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.448,
+      "Carreras en progresi\u00f3n/90": 0.295,
+      "Centros/90": 0.276,
+      "Duelos atacantes/90": 0.467,
+      "Duelos atacantes ganados %": 0.581,
+      "xA/90": 0.133,
+      "Regates/90": 0.336,
+      "Pases progresivos/90": 0.221,
+      "Toques en el \u00e1rea de penalti/90": 0.276
+    }
+  },
+  {
+    "Jugador": "T. Suslov",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.384,
+      "Carreras en progresi\u00f3n/90": 0.205,
+      "Centros/90": 0.194,
+      "Duelos atacantes/90": 0.396,
+      "Duelos atacantes ganados %": 0.898,
+      "xA/90": 0.3,
+      "Regates/90": 0.253,
+      "Pases progresivos/90": 0.318,
+      "Toques en el \u00e1rea de penalti/90": 0.037
+    }
+  },
+  {
+    "Jugador": "L. Sinayoko",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.128,
+      "Carreras en progresi\u00f3n/90": 0.279,
+      "Centros/90": 0.265,
+      "Duelos atacantes/90": 0.523,
+      "Duelos atacantes ganados %": 0.38,
+      "xA/90": 0.333,
+      "Regates/90": 0.3,
+      "Pases progresivos/90": 0.203,
+      "Toques en el \u00e1rea de penalti/90": 0.564
+    }
+  },
+  {
+    "Jugador": "G. Gaetano",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.047,
+      "Carreras en progresi\u00f3n/90": 0.143,
+      "Centros/90": 0.285,
+      "Duelos atacantes/90": 0.297,
+      "Duelos atacantes ganados %": 0.612,
+      "xA/90": 0.567,
+      "Regates/90": 0.173,
+      "Pases progresivos/90": 0.366,
+      "Toques en el \u00e1rea de penalti/90": 0.411
+    }
+  },
+  {
+    "Jugador": "E. Mahmoud",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.642,
+      "Carreras en progresi\u00f3n/90": 1.0,
+      "Centros/90": 0.919,
+      "Duelos atacantes/90": 0.8,
+      "Duelos atacantes ganados %": 0.623,
+      "xA/90": 0.516,
+      "Regates/90": 0.952,
+      "Pases progresivos/90": 0.766,
+      "Toques en el \u00e1rea de penalti/90": 0.624
+    }
+  },
+  {
+    "Jugador": "F. Amuzu",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.533,
+      "Carreras en progresi\u00f3n/90": 0.919,
+      "Centros/90": 0.898,
+      "Duelos atacantes/90": 0.699,
+      "Duelos atacantes ganados %": 0.759,
+      "xA/90": 0.742,
+      "Regates/90": 0.95,
+      "Pases progresivos/90": 0.385,
+      "Toques en el \u00e1rea de penalti/90": 0.606
+    }
+  },
+  {
+    "Jugador": "R. Harakate",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.511,
+      "Carreras en progresi\u00f3n/90": 0.817,
+      "Centros/90": 0.925,
+      "Duelos atacantes/90": 0.815,
+      "Duelos atacantes ganados %": 0.675,
+      "xA/90": 0.742,
+      "Regates/90": 0.886,
+      "Pases progresivos/90": 0.492,
+      "Toques en el \u00e1rea de penalti/90": 0.591
+    }
+  },
+  {
+    "Jugador": "S. Sidibe",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.394,
+      "Carreras en progresi\u00f3n/90": 0.952,
+      "Centros/90": 0.705,
+      "Duelos atacantes/90": 0.651,
+      "Duelos atacantes ganados %": 0.799,
+      "xA/90": 0.581,
+      "Regates/90": 0.878,
+      "Pases progresivos/90": 0.632,
+      "Toques en el \u00e1rea de penalti/90": 0.663
+    }
+  },
+  {
+    "Jugador": "G. Guadagni",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.577,
+      "Carreras en progresi\u00f3n/90": 0.624,
+      "Centros/90": 0.634,
+      "Duelos atacantes/90": 0.843,
+      "Duelos atacantes ganados %": 0.913,
+      "xA/90": 0.613,
+      "Regates/90": 0.997,
+      "Pases progresivos/90": 0.49,
+      "Toques en el \u00e1rea de penalti/90": 0.441
+    }
+  },
+  {
+    "Jugador": "W. Alli",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.496,
+      "Carreras en progresi\u00f3n/90": 0.762,
+      "Centros/90": 0.536,
+      "Duelos atacantes/90": 0.736,
+      "Duelos atacantes ganados %": 0.734,
+      "xA/90": 0.806,
+      "Regates/90": 0.959,
+      "Pases progresivos/90": 0.292,
+      "Toques en el \u00e1rea de penalti/90": 0.798
+    }
+  },
+  {
+    "Jugador": "M. Silvestro",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.277,
+      "Carreras en progresi\u00f3n/90": 0.552,
+      "Centros/90": 0.872,
+      "Duelos atacantes/90": 0.909,
+      "Duelos atacantes ganados %": 0.673,
+      "xA/90": 0.613,
+      "Regates/90": 0.967,
+      "Pases progresivos/90": 0.799,
+      "Toques en el \u00e1rea de penalti/90": 0.418
+    }
+  },
+  {
+    "Jugador": "E. Owusu",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.496,
+      "Carreras en progresi\u00f3n/90": 0.71,
+      "Centros/90": 0.711,
+      "Duelos atacantes/90": 0.819,
+      "Duelos atacantes ganados %": 0.736,
+      "xA/90": 0.323,
+      "Regates/90": 0.872,
+      "Pases progresivos/90": 0.742,
+      "Toques en el \u00e1rea de penalti/90": 0.555
+    }
+  },
+  {
+    "Jugador": "J. Ideho",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.365,
+      "Carreras en progresi\u00f3n/90": 0.889,
+      "Centros/90": 0.484,
+      "Duelos atacantes/90": 0.903,
+      "Duelos atacantes ganados %": 0.592,
+      "xA/90": 0.581,
+      "Regates/90": 0.937,
+      "Pases progresivos/90": 0.638,
+      "Toques en el \u00e1rea de penalti/90": 0.574
+    }
+  },
+  {
+    "Jugador": "L. Burcu",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.628,
+      "Carreras en progresi\u00f3n/90": 0.963,
+      "Centros/90": 0.393,
+      "Duelos atacantes/90": 0.622,
+      "Duelos atacantes ganados %": 0.786,
+      "xA/90": 0.548,
+      "Regates/90": 0.812,
+      "Pases progresivos/90": 0.51,
+      "Toques en el \u00e1rea de penalti/90": 0.633
+    }
+  },
+  {
+    "Jugador": "L. Maina",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.613,
+      "Carreras en progresi\u00f3n/90": 0.766,
+      "Centros/90": 0.523,
+      "Duelos atacantes/90": 0.33,
+      "Duelos atacantes ganados %": 0.631,
+      "xA/90": 1.0,
+      "Regates/90": 0.554,
+      "Pases progresivos/90": 0.542,
+      "Toques en el \u00e1rea de penalti/90": 0.884
+    }
+  },
+  {
+    "Jugador": "L. Lepri",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.511,
+      "Carreras en progresi\u00f3n/90": 0.849,
+      "Centros/90": 0.529,
+      "Duelos atacantes/90": 0.773,
+      "Duelos atacantes ganados %": 0.553,
+      "xA/90": 0.548,
+      "Regates/90": 0.813,
+      "Pases progresivos/90": 0.798,
+      "Toques en el \u00e1rea de penalti/90": 0.462
+    }
+  },
+  {
+    "Jugador": "L. Mwandwe",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.27,
+      "Carreras en progresi\u00f3n/90": 0.67,
+      "Centros/90": 0.523,
+      "Duelos atacantes/90": 0.771,
+      "Duelos atacantes ganados %": 0.629,
+      "xA/90": 0.839,
+      "Regates/90": 0.844,
+      "Pases progresivos/90": 0.435,
+      "Toques en el \u00e1rea de penalti/90": 0.848
+    }
+  },
+  {
+    "Jugador": "Z. Jones",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.577,
+      "Carreras en progresi\u00f3n/90": 0.59,
+      "Centros/90": 0.539,
+      "Duelos atacantes/90": 0.833,
+      "Duelos atacantes ganados %": 0.655,
+      "xA/90": 0.419,
+      "Regates/90": 0.925,
+      "Pases progresivos/90": 0.431,
+      "Toques en el \u00e1rea de penalti/90": 0.825
+    }
+  },
+  {
+    "Jugador": "F. Pavone",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.657,
+      "Carreras en progresi\u00f3n/90": 0.587,
+      "Centros/90": 0.659,
+      "Duelos atacantes/90": 0.575,
+      "Duelos atacantes ganados %": 0.682,
+      "xA/90": 0.548,
+      "Regates/90": 0.77,
+      "Pases progresivos/90": 0.566,
+      "Toques en el \u00e1rea de penalti/90": 0.696
+    }
+  },
+  {
+    "Jugador": "A. Vergara",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.766,
+      "Carreras en progresi\u00f3n/90": 0.705,
+      "Centros/90": 0.475,
+      "Duelos atacantes/90": 0.672,
+      "Duelos atacantes ganados %": 0.519,
+      "xA/90": 0.613,
+      "Regates/90": 0.723,
+      "Pases progresivos/90": 0.671,
+      "Toques en el \u00e1rea de penalti/90": 0.517
+    }
+  },
+  {
+    "Jugador": "L. Sadulaev",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.27,
+      "Carreras en progresi\u00f3n/90": 0.819,
+      "Centros/90": 0.329,
+      "Duelos atacantes/90": 0.757,
+      "Duelos atacantes ganados %": 0.683,
+      "xA/90": 0.903,
+      "Regates/90": 0.939,
+      "Pases progresivos/90": 0.322,
+      "Toques en el \u00e1rea de penalti/90": 0.529
+    }
+  },
+  {
+    "Jugador": "Duk",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.365,
+      "Carreras en progresi\u00f3n/90": 0.788,
+      "Centros/90": 0.489,
+      "Duelos atacantes/90": 0.85,
+      "Duelos atacantes ganados %": 0.419,
+      "xA/90": 0.677,
+      "Regates/90": 0.795,
+      "Pases progresivos/90": 0.261,
+      "Toques en el \u00e1rea de penalti/90": 0.884
+    }
+  },
+  {
+    "Jugador": "A. Berkovich",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.796,
+      "Carreras en progresi\u00f3n/90": 0.788,
+      "Centros/90": 0.284,
+      "Duelos atacantes/90": 0.414,
+      "Duelos atacantes ganados %": 0.652,
+      "xA/90": 0.774,
+      "Regates/90": 0.553,
+      "Pases progresivos/90": 0.681,
+      "Toques en el \u00e1rea de penalti/90": 0.586
+    }
+  },
+  {
+    "Jugador": "F. Zulkifli",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.672,
+      "Carreras en progresi\u00f3n/90": 0.727,
+      "Centros/90": 0.527,
+      "Duelos atacantes/90": 0.632,
+      "Duelos atacantes ganados %": 0.544,
+      "xA/90": 0.645,
+      "Regates/90": 0.711,
+      "Pases progresivos/90": 0.415,
+      "Toques en el \u00e1rea de penalti/90": 0.654
+    }
+  },
+  {
+    "Jugador": "A. Oreli\u00e9n",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.336,
+      "Carreras en progresi\u00f3n/90": 0.504,
+      "Centros/90": 0.53,
+      "Duelos atacantes/90": 0.568,
+      "Duelos atacantes ganados %": 0.719,
+      "xA/90": 0.871,
+      "Regates/90": 0.854,
+      "Pases progresivos/90": 0.72,
+      "Toques en el \u00e1rea de penalti/90": 0.414
+    }
+  },
+  {
+    "Jugador": "V. Bichakhchyan",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.504,
+      "Carreras en progresi\u00f3n/90": 0.603,
+      "Centros/90": 0.529,
+      "Duelos atacantes/90": 0.518,
+      "Duelos atacantes ganados %": 0.601,
+      "xA/90": 0.806,
+      "Regates/90": 0.796,
+      "Pases progresivos/90": 0.491,
+      "Toques en el \u00e1rea de penalti/90": 0.644
+    }
+  },
+  {
+    "Jugador": "S. Fod\u00e9",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.409,
+      "Carreras en progresi\u00f3n/90": 0.557,
+      "Centros/90": 0.662,
+      "Duelos atacantes/90": 0.848,
+      "Duelos atacantes ganados %": 0.599,
+      "xA/90": 0.452,
+      "Regates/90": 0.987,
+      "Pases progresivos/90": 0.407,
+      "Toques en el \u00e1rea de penalti/90": 0.485
+    }
+  },
+  {
+    "Jugador": "C. Huerta",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.496,
+      "Carreras en progresi\u00f3n/90": 0.801,
+      "Centros/90": 0.496,
+      "Duelos atacantes/90": 0.68,
+      "Duelos atacantes ganados %": 0.562,
+      "xA/90": 0.548,
+      "Regates/90": 0.715,
+      "Pases progresivos/90": 0.39,
+      "Toques en el \u00e1rea de penalti/90": 0.7
+    }
+  },
+  {
+    "Jugador": "R. Assibey-Mensah",
+    "Perfil": "EX",
+    "Valores": {
+      "Aceleraciones/90": 0.584,
+      "Carreras en progresi\u00f3n/90": 0.808,
+      "Centros/90": 0.322,
+      "Duelos atacantes/90": 0.843,
+      "Duelos atacantes ganados %": 0.436,
+      "xA/90": 0.613,
+      "Regates/90": 0.835,
+      "Pases progresivos/90": 0.11,
+      "Toques en el \u00e1rea de penalti/90": 0.833
+    }
+  }
+]

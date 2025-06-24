@@ -1,0 +1,25 @@
+
+{
+  "perfil": "Delantero (A)",
+  "descripcion": "Delanteros con enfoque en finalización y creación de ocasiones de gol",
+  "jugadores": [
+    {
+      "nombre": "Ejemplo Delantero",
+      "edad": 25,
+      "valor_mercado": "50M€",
+      "club": "FC Ejemplo",
+      "competicion": "La Liga",
+      "posicion": "DC",
+      "pfi": 85.5,
+      "xG/90": 0.65,
+      "Tiros/90": 3.2,
+      "Toques en el área/90": 4.1,
+      "Goles/90": 0.55,
+      "Asistencias esperadas (xA)/90": 0.25,
+      "Pases clave/90": 1.8,
+      "Duelos ofensivos/90": 8.5,
+      "Pases progresivos/90": 3.1,
+      "Precisión tiros, %": 45.2
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+[
+  {
+    "Jugador": "B. Ant\u00fanez",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.792,
+      "Goles evitados/90": 0.957,
+      "Remates en contra/90": 0.771,
+      "Porter\u00edas imbatidas en los 90": 0.4,
+      "xG en contra/90": 0.691,
+      "Pases/90": 1.0,
+      "Precisi\u00f3n pases %": 0.751,
+      "Pases largos/90": 0.85,
+      "Precisi\u00f3n pases largos %": 0.723
+    }
+  },
+  {
+    "Jugador": "N. Su\u00e1rez",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.493,
+      "Goles evitados/90": 0.297,
+      "Remates en contra/90": 1.0,
+      "Porter\u00edas imbatidas en los 90": 0.2,
+      "xG en contra/90": 0.787,
+      "Pases/90": 0.338,
+      "Precisi\u00f3n pases %": 0.532,
+      "Pases largos/90": 0.774,
+      "Precisi\u00f3n pases largos %": 0.83
+    }
+  },
+  {
+    "Jugador": "F. Zenobio",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.649,
+      "Goles evitados/90": 0.611,
+      "Remates en contra/90": 0.145,
+      "Porter\u00edas imbatidas en los 90": 1.0,
+      "xG en contra/90": 0.266,
+      "Pases/90": 0.227,
+      "Precisi\u00f3n pases %": 0.906,
+      "Pases largos/90": 0.155,
+      "Precisi\u00f3n pases largos %": 0.896
+    }
+  },
+  {
+    "Jugador": "E. Beltran",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.622,
+      "Goles evitados/90": 0.605,
+      "Remates en contra/90": 0.519,
+      "Porter\u00edas imbatidas en los 90": 0.133,
+      "xG en contra/90": 0.511,
+      "Pases/90": 0.242,
+      "Precisi\u00f3n pases %": 0.856,
+      "Pases largos/90": 0.356,
+      "Precisi\u00f3n pases largos %": 1.0
+    }
+  },
+  {
+    "Jugador": "J. Pe\u00f1a",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.816,
+      "Goles evitados/90": 0.817,
+      "Remates en contra/90": 0.192,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.277,
+      "Pases/90": 0.713,
+      "Precisi\u00f3n pases %": 0.544,
+      "Pases largos/90": 0.652,
+      "Precisi\u00f3n pases largos %": 0.347
+    }
+  },
+  {
+    "Jugador": "Jordan Garcia",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 1.0,
+      "Goles evitados/90": 1.0,
+      "Remates en contra/90": 0.416,
+      "Porter\u00edas imbatidas en los 90": 0.267,
+      "xG en contra/90": 0.319,
+      "Pases/90": 0.613,
+      "Precisi\u00f3n pases %": 0.164,
+      "Pases largos/90": 0.85,
+      "Precisi\u00f3n pases largos %": 0.193
+    }
+  },
+  {
+    "Jugador": "Matheus Mendes",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.4,
+      "Goles evitados/90": 0.532,
+      "Remates en contra/90": 0.897,
+      "Porter\u00edas imbatidas en los 90": 0.0,
+      "xG en contra/90": 1.0,
+      "Pases/90": 0.349,
+      "Precisi\u00f3n pases %": 1.0,
+      "Pases largos/90": 0.0,
+      "Precisi\u00f3n pases largos %": 0.629
+    }
+  },
+  {
+    "Jugador": "M. Silveira",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.824,
+      "Goles evitados/90": 0.649,
+      "Remates en contra/90": 0.612,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.362,
+      "Pases/90": 0.175,
+      "Precisi\u00f3n pases %": 0.746,
+      "Pases largos/90": 0.016,
+      "Precisi\u00f3n pases largos %": 0.763
+    }
+  },
+  {
+    "Jugador": "J. Castillo",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.521,
+      "Goles evitados/90": 0.503,
+      "Remates en contra/90": 0.299,
+      "Porter\u00edas imbatidas en los 90": 0.4,
+      "xG en contra/90": 0.404,
+      "Pases/90": 0.406,
+      "Precisi\u00f3n pases %": 0.888,
+      "Pases largos/90": 0.271,
+      "Precisi\u00f3n pases largos %": 0.919
+    }
+  },
+  {
+    "Jugador": "V. Bernedo",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.566,
+      "Goles evitados/90": 0.634,
+      "Remates en contra/90": 0.164,
+      "Porter\u00edas imbatidas en los 90": 0.067,
+      "xG en contra/90": 0.362,
+      "Pases/90": 0.698,
+      "Precisi\u00f3n pases %": 0.842,
+      "Pases largos/90": 0.377,
+      "Precisi\u00f3n pases largos %": 0.692
+    }
+  },
+  {
+    "Jugador": "L\u00e9o Linck",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.438,
+      "Goles evitados/90": 0.473,
+      "Remates en contra/90": 0.645,
+      "Porter\u00edas imbatidas en los 90": 0.0,
+      "xG en contra/90": 0.723,
+      "Pases/90": 0.324,
+      "Precisi\u00f3n pases %": 0.636,
+      "Pases largos/90": 0.431,
+      "Precisi\u00f3n pases largos %": 0.669
+    }
+  },
+  {
+    "Jugador": "G. Santilli",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.703,
+      "Goles evitados/90": 0.759,
+      "Remates en contra/90": 0.107,
+      "Porter\u00edas imbatidas en los 90": 0.733,
+      "xG en contra/90": 0.287,
+      "Pases/90": 0.132,
+      "Precisi\u00f3n pases %": 0.443,
+      "Pases largos/90": 0.381,
+      "Precisi\u00f3n pases largos %": 0.716
+    }
+  },
+  {
+    "Jugador": "M. Roffo",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.408,
+      "Goles evitados/90": 0.431,
+      "Remates en contra/90": 0.224,
+      "Porter\u00edas imbatidas en los 90": 0.733,
+      "xG en contra/90": 0.415,
+      "Pases/90": 0.283,
+      "Precisi\u00f3n pases %": 0.52,
+      "Pases largos/90": 0.516,
+      "Precisi\u00f3n pases largos %": 0.723
+    }
+  },
+  {
+    "Jugador": "L. Ingolotti",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.42,
+      "Goles evitados/90": 0.503,
+      "Remates en contra/90": 0.472,
+      "Porter\u00edas imbatidas en los 90": 0.333,
+      "xG en contra/90": 0.638,
+      "Pases/90": 0.293,
+      "Precisi\u00f3n pases %": 0.43,
+      "Pases largos/90": 0.514,
+      "Precisi\u00f3n pases largos %": 0.645
+    }
+  },
+  {
+    "Jugador": "L. Amad\u00e9",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.967,
+      "Goles evitados/90": 0.747,
+      "Remates en contra/90": 0.0,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.0,
+      "Pases/90": 0.209,
+      "Precisi\u00f3n pases %": 0.374,
+      "Pases largos/90": 0.662,
+      "Precisi\u00f3n pases largos %": 0.795
+    }
+  },
+  {
+    "Jugador": "F. Sanguinetti",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.459,
+      "Goles evitados/90": 0.39,
+      "Remates en contra/90": 0.411,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.479,
+      "Pases/90": 0.225,
+      "Precisi\u00f3n pases %": 0.644,
+      "Pases largos/90": 0.327,
+      "Precisi\u00f3n pases largos %": 0.768
+    }
+  },
+  {
+    "Jugador": "Matheus Donelli",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.505,
+      "Goles evitados/90": 0.468,
+      "Remates en contra/90": 0.654,
+      "Porter\u00edas imbatidas en los 90": 0.0,
+      "xG en contra/90": 0.649,
+      "Pases/90": 0.302,
+      "Precisi\u00f3n pases %": 0.889,
+      "Pases largos/90": 0.013,
+      "Precisi\u00f3n pases largos %": 0.584
+    }
+  },
+  {
+    "Jugador": "T. Ahumada",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.674,
+      "Goles evitados/90": 0.773,
+      "Remates en contra/90": 0.444,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.532,
+      "Pases/90": 0.119,
+      "Precisi\u00f3n pases %": 0.314,
+      "Pases largos/90": 0.334,
+      "Precisi\u00f3n pases largos %": 0.408
+    }
+  },
+  {
+    "Jugador": "L. Giossa",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.484,
+      "Goles evitados/90": 0.373,
+      "Remates en contra/90": 0.388,
+      "Porter\u00edas imbatidas en los 90": 0.467,
+      "xG en contra/90": 0.415,
+      "Pases/90": 0.19,
+      "Precisi\u00f3n pases %": 0.388,
+      "Pases largos/90": 0.608,
+      "Precisi\u00f3n pases largos %": 0.749
+    }
+  },
+  {
+    "Jugador": "P. Gonz\u00e1lez",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.726,
+      "Goles evitados/90": 0.441,
+      "Remates en contra/90": 0.631,
+      "Porter\u00edas imbatidas en los 90": 0.2,
+      "xG en contra/90": 0.34,
+      "Pases/90": 0.253,
+      "Precisi\u00f3n pases %": 0.599,
+      "Pases largos/90": 0.269,
+      "Precisi\u00f3n pases largos %": 0.551
+    }
+  },
+  {
+    "Jugador": "O. Gill",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.865,
+      "Goles evitados/90": 0.735,
+      "Remates en contra/90": 0.047,
+      "Porter\u00edas imbatidas en los 90": 0.533,
+      "xG en contra/90": 0.096,
+      "Pases/90": 0.055,
+      "Precisi\u00f3n pases %": 0.409,
+      "Pases largos/90": 0.399,
+      "Precisi\u00f3n pases largos %": 0.799
+    }
+  },
+  {
+    "Jugador": "L. Brey",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 1.0,
+      "Goles evitados/90": 0.98,
+      "Remates en contra/90": 0.294,
+      "Porter\u00edas imbatidas en los 90": 0.4,
+      "xG en contra/90": 0.255,
+      "Pases/90": 0.255,
+      "Precisi\u00f3n pases %": 0.452,
+      "Pases largos/90": 0.173,
+      "Precisi\u00f3n pases largos %": 0.007
+    }
+  },
+  {
+    "Jugador": "Mycael",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.755,
+      "Goles evitados/90": 0.627,
+      "Remates en contra/90": 0.724,
+      "Porter\u00edas imbatidas en los 90": 0.2,
+      "xG en contra/90": 0.489,
+      "Pases/90": 0.037,
+      "Precisi\u00f3n pases %": 0.285,
+      "Pases largos/90": 0.197,
+      "Precisi\u00f3n pases largos %": 0.489
+    }
+  },
+  {
+    "Jugador": "F. Correa",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.472,
+      "Goles evitados/90": 0.401,
+      "Remates en contra/90": 0.505,
+      "Porter\u00edas imbatidas en los 90": 0.333,
+      "xG en contra/90": 0.532,
+      "Pases/90": 0.105,
+      "Precisi\u00f3n pases %": 0.392,
+      "Pases largos/90": 0.323,
+      "Precisi\u00f3n pases largos %": 0.663
+    }
+  },
+  {
+    "Jugador": "D. Carre\u00f1o",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.0,
+      "Goles evitados/90": 0.0,
+      "Remates en contra/90": 0.472,
+      "Porter\u00edas imbatidas en los 90": 0.0,
+      "xG en contra/90": 0.755,
+      "Pases/90": 0.224,
+      "Precisi\u00f3n pases %": 0.644,
+      "Pases largos/90": 0.468,
+      "Precisi\u00f3n pases largos %": 0.972
+    }
+  },
+  {
+    "Jugador": "T. Gillier",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.74,
+      "Goles evitados/90": 0.562,
+      "Remates en contra/90": 0.561,
+      "Porter\u00edas imbatidas en los 90": 0.2,
+      "xG en contra/90": 0.372,
+      "Pases/90": 0.363,
+      "Precisi\u00f3n pases %": 0.584,
+      "Pases largos/90": 0.081,
+      "Precisi\u00f3n pases largos %": 0.034
+    }
+  },
+  {
+    "Jugador": "E. M\u00e1rquez",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.4,
+      "Goles evitados/90": 0.367,
+      "Remates en contra/90": 0.383,
+      "Porter\u00edas imbatidas en los 90": 0.333,
+      "xG en contra/90": 0.5,
+      "Pases/90": 0.095,
+      "Precisi\u00f3n pases %": 0.593,
+      "Pases largos/90": 0.108,
+      "Precisi\u00f3n pases largos %": 0.641
+    }
+  },
+  {
+    "Jugador": "A. Rodr\u00edguez",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.676,
+      "Goles evitados/90": 0.535,
+      "Remates en contra/90": 0.322,
+      "Porter\u00edas imbatidas en los 90": 0.6,
+      "xG en contra/90": 0.287,
+      "Pases/90": 0.0,
+      "Precisi\u00f3n pases %": 0.458,
+      "Pases largos/90": 0.023,
+      "Precisi\u00f3n pases largos %": 0.354
+    }
+  },
+  {
+    "Jugador": "C. Varela",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.203,
+      "Goles evitados/90": 0.038,
+      "Remates en contra/90": 0.565,
+      "Porter\u00edas imbatidas en los 90": 0.133,
+      "xG en contra/90": 0.638,
+      "Pases/90": 0.588,
+      "Precisi\u00f3n pases %": 0.0,
+      "Pases largos/90": 1.0,
+      "Precisi\u00f3n pases largos %": 0.0
+    }
+  },
+  {
+    "Jugador": "Anthoni",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.132,
+      "Goles evitados/90": 0.111,
+      "Remates en contra/90": 0.009,
+      "Porter\u00edas imbatidas en los 90": 0.133,
+      "xG en contra/90": 0.255,
+      "Pases/90": 0.145,
+      "Precisi\u00f3n pases %": 0.467,
+      "Pases largos/90": 0.195,
+      "Precisi\u00f3n pases largos %": 0.329
+    }
+  },
+  {
+    "Jugador": "D. Petrovi\u0107",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.922,
+      "Goles evitados/90": 1.0,
+      "Remates en contra/90": 0.715,
+      "Porter\u00edas imbatidas en los 90": 0.625,
+      "xG en contra/90": 0.608,
+      "Pases/90": 1.0,
+      "Precisi\u00f3n pases %": 0.776,
+      "Pases largos/90": 0.675,
+      "Precisi\u00f3n pases largos %": 0.319
+    }
+  },
+  {
+    "Jugador": "N. Atubolu",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.748,
+      "Goles evitados/90": 0.514,
+      "Remates en contra/90": 0.7,
+      "Porter\u00edas imbatidas en los 90": 0.625,
+      "xG en contra/90": 0.458,
+      "Pases/90": 0.667,
+      "Precisi\u00f3n pases %": 0.705,
+      "Pases largos/90": 1.0,
+      "Precisi\u00f3n pases largos %": 0.77
+    }
+  },
+  {
+    "Jugador": "M. Svilar",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 1.0,
+      "Goles evitados/90": 0.823,
+      "Remates en contra/90": 0.52,
+      "Porter\u00edas imbatidas en los 90": 1.0,
+      "xG en contra/90": 0.275,
+      "Pases/90": 0.455,
+      "Precisi\u00f3n pases %": 1.0,
+      "Pases largos/90": 0.159,
+      "Precisi\u00f3n pases largos %": 0.578
+    }
+  },
+  {
+    "Jugador": "F. Stankovi\u0107",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.829,
+      "Goles evitados/90": 0.615,
+      "Remates en contra/90": 0.895,
+      "Porter\u00edas imbatidas en los 90": 0.0,
+      "xG en contra/90": 0.592,
+      "Pases/90": 0.321,
+      "Precisi\u00f3n pases %": 0.694,
+      "Pases largos/90": 0.641,
+      "Precisi\u00f3n pases largos %": 0.869
+    }
+  },
+  {
+    "Jugador": "S. Turati",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.624,
+      "Goles evitados/90": 0.444,
+      "Remates en contra/90": 0.808,
+      "Porter\u00edas imbatidas en los 90": 0.125,
+      "xG en contra/90": 0.658,
+      "Pases/90": 0.349,
+      "Precisi\u00f3n pases %": 0.613,
+      "Pases largos/90": 0.772,
+      "Precisi\u00f3n pases largos %": 0.83
+    }
+  },
+  {
+    "Jugador": "M. Bu\u0142ka",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.927,
+      "Goles evitados/90": 0.671,
+      "Remates en contra/90": 0.7,
+      "Porter\u00edas imbatidas en los 90": 0.5,
+      "xG en contra/90": 0.367,
+      "Pases/90": 0.244,
+      "Precisi\u00f3n pases %": 0.794,
+      "Pases largos/90": 0.27,
+      "Precisi\u00f3n pases largos %": 0.703
+    }
+  },
+  {
+    "Jugador": "E. Caprile",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.801,
+      "Goles evitados/90": 0.593,
+      "Remates en contra/90": 0.408,
+      "Porter\u00edas imbatidas en los 90": 0.438,
+      "xG en contra/90": 0.225,
+      "Pases/90": 0.257,
+      "Precisi\u00f3n pases %": 0.721,
+      "Pases largos/90": 0.724,
+      "Precisi\u00f3n pases largos %": 1.0
+    }
+  },
+  {
+    "Jugador": "M. Hermansen",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.551,
+      "Goles evitados/90": 0.527,
+      "Remates en contra/90": 1.0,
+      "Porter\u00edas imbatidas en los 90": 0.062,
+      "xG en contra/90": 1.0,
+      "Pases/90": 0.357,
+      "Precisi\u00f3n pases %": 0.22,
+      "Pases largos/90": 0.851,
+      "Precisi\u00f3n pases largos %": 0.507
+    }
+  },
+  {
+    "Jugador": "Y. Diouf",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.914,
+      "Goles evitados/90": 0.898,
+      "Remates en contra/90": 0.865,
+      "Porter\u00edas imbatidas en los 90": 0.438,
+      "xG en contra/90": 0.658,
+      "Pases/90": 0.258,
+      "Precisi\u00f3n pases %": 0.315,
+      "Pases largos/90": 0.477,
+      "Precisi\u00f3n pases largos %": 0.22
+    }
+  },
+  {
+    "Jugador": "M. Okoye",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.551,
+      "Goles evitados/90": 0.333,
+      "Remates en contra/90": 0.595,
+      "Porter\u00edas imbatidas en los 90": 0.25,
+      "xG en contra/90": 0.45,
+      "Pases/90": 0.379,
+      "Precisi\u00f3n pases %": 0.905,
+      "Pases largos/90": 0.494,
+      "Precisi\u00f3n pases largos %": 0.987
+    }
+  },
+  {
+    "Jugador": "L. Chevalier",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.841,
+      "Goles evitados/90": 0.881,
+      "Remates en contra/90": 0.423,
+      "Porter\u00edas imbatidas en los 90": 0.688,
+      "xG en contra/90": 0.4,
+      "Pases/90": 0.289,
+      "Precisi\u00f3n pases %": 0.674,
+      "Pases largos/90": 0.283,
+      "Precisi\u00f3n pases largos %": 0.414
+    }
+  },
+  {
+    "Jugador": "Z. Suzuki",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.653,
+      "Goles evitados/90": 0.694,
+      "Remates en contra/90": 0.58,
+      "Porter\u00edas imbatidas en los 90": 0.438,
+      "xG en contra/90": 0.583,
+      "Pases/90": 0.438,
+      "Precisi\u00f3n pases %": 0.343,
+      "Pases largos/90": 0.746,
+      "Precisi\u00f3n pases largos %": 0.377
+    }
+  },
+  {
+    "Jugador": "Joan Garc\u00eda",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.898,
+      "Goles evitados/90": 0.685,
+      "Remates en contra/90": 0.793,
+      "Porter\u00edas imbatidas en los 90": 0.5,
+      "xG en contra/90": 0.475,
+      "Pases/90": 0.092,
+      "Precisi\u00f3n pases %": 0.55,
+      "Pases largos/90": 0.273,
+      "Precisi\u00f3n pases largos %": 0.576
+    }
+  },
+  {
+    "Jugador": "Y. Fofana",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.854,
+      "Goles evitados/90": 0.862,
+      "Remates en contra/90": 0.928,
+      "Porter\u00edas imbatidas en los 90": 0.438,
+      "xG en contra/90": 0.758,
+      "Pases/90": 0.017,
+      "Precisi\u00f3n pases %": 0.277,
+      "Pases largos/90": 0.25,
+      "Precisi\u00f3n pases largos %": 0.325
+    }
+  },
+  {
+    "Jugador": "M. Carnesecchi",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.862,
+      "Goles evitados/90": 0.692,
+      "Remates en contra/90": 0.477,
+      "Porter\u00edas imbatidas en los 90": 0.812,
+      "xG en contra/90": 0.283,
+      "Pases/90": 0.204,
+      "Precisi\u00f3n pases %": 0.677,
+      "Pases largos/90": 0.162,
+      "Precisi\u00f3n pases largos %": 0.436
+    }
+  },
+  {
+    "Jugador": "Julen Agirrezabala",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.904,
+      "Goles evitados/90": 0.714,
+      "Remates en contra/90": 0.114,
+      "Porter\u00edas imbatidas en los 90": 0.312,
+      "xG en contra/90": 0.008,
+      "Pases/90": 0.157,
+      "Precisi\u00f3n pases %": 0.808,
+      "Pases largos/90": 0.401,
+      "Precisi\u00f3n pases largos %": 0.934
+    }
+  },
+  {
+    "Jugador": "B. Verbruggen",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.479,
+      "Goles evitados/90": 0.418,
+      "Remates en contra/90": 0.492,
+      "Porter\u00edas imbatidas en los 90": 0.438,
+      "xG en contra/90": 0.475,
+      "Pases/90": 0.397,
+      "Precisi\u00f3n pases %": 0.655,
+      "Pases largos/90": 0.375,
+      "Precisi\u00f3n pases largos %": 0.407
+    }
+  },
+  {
+    "Jugador": "K. Hein",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.422,
+      "Goles evitados/90": 0.171,
+      "Remates en contra/90": 0.856,
+      "Porter\u00edas imbatidas en los 90": 0.312,
+      "xG en contra/90": 0.767,
+      "Pases/90": 0.25,
+      "Precisi\u00f3n pases %": 0.57,
+      "Pases largos/90": 0.233,
+      "Precisi\u00f3n pases largos %": 0.278
+    }
+  },
+  {
+    "Jugador": "R. Sava",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.702,
+      "Goles evitados/90": 0.361,
+      "Remates en contra/90": 0.541,
+      "Porter\u00edas imbatidas en los 90": 0.25,
+      "xG en contra/90": 0.267,
+      "Pases/90": 0.248,
+      "Precisi\u00f3n pases %": 0.687,
+      "Pases largos/90": 0.315,
+      "Precisi\u00f3n pases largos %": 0.469
+    }
+  },
+  {
+    "Jugador": "N. Labrovi\u0107",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.395,
+      "Goles evitados/90": 0.0,
+      "Remates en contra/90": 0.799,
+      "Porter\u00edas imbatidas en los 90": 0.062,
+      "xG en contra/90": 0.617,
+      "Pases/90": 0.17,
+      "Precisi\u00f3n pases %": 0.577,
+      "Pases largos/90": 0.391,
+      "Precisi\u00f3n pases largos %": 0.599
+    }
+  },
+  {
+    "Jugador": "Luiz J\u00fanior",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.927,
+      "Goles evitados/90": 0.605,
+      "Remates en contra/90": 0.592,
+      "Porter\u00edas imbatidas en los 90": 0.312,
+      "xG en contra/90": 0.25,
+      "Pases/90": 0.008,
+      "Precisi\u00f3n pases %": 0.447,
+      "Pases largos/90": 0.0,
+      "Precisi\u00f3n pases largos %": 0.268
+    }
+  },
+  {
+    "Jugador": "F. Ravaglia",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.0,
+      "Goles evitados/90": 0.135,
+      "Remates en contra/90": 0.0,
+      "Porter\u00edas imbatidas en los 90": 0.25,
+      "xG en contra/90": 0.0,
+      "Pases/90": 0.569,
+      "Precisi\u00f3n pases %": 0.877,
+      "Pases largos/90": 0.507,
+      "Precisi\u00f3n pases largos %": 0.822
+    }
+  },
+  {
+    "Jugador": "G. Restes",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.525,
+      "Goles evitados/90": 0.178,
+      "Remates en contra/90": 0.363,
+      "Porter\u00edas imbatidas en los 90": 0.5,
+      "xG en contra/90": 0.133,
+      "Pases/90": 0.095,
+      "Precisi\u00f3n pases %": 0.695,
+      "Pases largos/90": 0.131,
+      "Precisi\u00f3n pases largos %": 0.528
+    }
+  },
+  {
+    "Jugador": "A. Bellaarouch",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.574,
+      "Goles evitados/90": 0.378,
+      "Remates en contra/90": 0.517,
+      "Porter\u00edas imbatidas en los 90": 0.125,
+      "xG en contra/90": 0.383,
+      "Pases/90": 0.34,
+      "Precisi\u00f3n pases %": 0.0,
+      "Pases largos/90": 0.691,
+      "Precisi\u00f3n pases largos %": 0.084
+    }
+  },
+  {
+    "Jugador": "R. Majecki",
+    "Perfil": "GK",
+    "Valores": {
+      "Paradas %": 0.675,
+      "Goles evitados/90": 0.508,
+      "Remates en contra/90": 0.601,
+      "Porter\u00edas imbatidas en los 90": 0.188,
+      "xG en contra/90": 0.45,
+      "Pases/90": 0.0,
+      "Precisi\u00f3n pases %": 0.389,
+      "Pases largos/90": 0.023,
+      "Precisi\u00f3n pases largos %": 0.0
+    }
+  }
+]

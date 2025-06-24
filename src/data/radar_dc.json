@@ -1,0 +1,1877 @@
+[
+  {
+    "Jugador": "E. Elizalde",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.797,
+      "Duelos defensivos/90": 0.544,
+      "Duelos defensivos ganados %": 0.748,
+      "Duelos a\u00e9reos en los 90": 0.844,
+      "Interceptaciones/90": 0.81,
+      "Tiros interceptados/90": 0.688,
+      "Pases progresivos/90": 0.884,
+      "Pases hacia adelante/90": 0.819,
+      "Precisi\u00f3n pases largos %": 0.493
+    }
+  },
+  {
+    "Jugador": "R. Giampaoli",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.732,
+      "Duelos defensivos/90": 0.398,
+      "Duelos defensivos ganados %": 0.795,
+      "Duelos a\u00e9reos en los 90": 0.935,
+      "Interceptaciones/90": 0.733,
+      "Tiros interceptados/90": 0.512,
+      "Pases progresivos/90": 0.949,
+      "Pases hacia adelante/90": 0.929,
+      "Precisi\u00f3n pases largos %": 0.592
+    }
+  },
+  {
+    "Jugador": "S. N\u00fa\u00f1ez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.716,
+      "Duelos defensivos/90": 0.339,
+      "Duelos defensivos ganados %": 0.642,
+      "Duelos a\u00e9reos en los 90": 0.911,
+      "Interceptaciones/90": 0.827,
+      "Tiros interceptados/90": 1.0,
+      "Pases progresivos/90": 0.533,
+      "Pases hacia adelante/90": 0.618,
+      "Precisi\u00f3n pases largos %": 0.793
+    }
+  },
+  {
+    "Jugador": "V. Gauthier",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.799,
+      "Duelos defensivos/90": 0.465,
+      "Duelos defensivos ganados %": 0.799,
+      "Duelos a\u00e9reos en los 90": 0.929,
+      "Interceptaciones/90": 0.878,
+      "Tiros interceptados/90": 0.656,
+      "Pases progresivos/90": 0.663,
+      "Pases hacia adelante/90": 0.713,
+      "Precisi\u00f3n pases largos %": 0.34
+    }
+  },
+  {
+    "Jugador": "L. Ferreira",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.822,
+      "Duelos defensivos/90": 0.531,
+      "Duelos defensivos ganados %": 0.516,
+      "Duelos a\u00e9reos en los 90": 0.902,
+      "Interceptaciones/90": 1.0,
+      "Tiros interceptados/90": 0.656,
+      "Pases progresivos/90": 0.548,
+      "Pases hacia adelante/90": 0.57,
+      "Precisi\u00f3n pases largos %": 0.539
+    }
+  },
+  {
+    "Jugador": "S. Boselli",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.684,
+      "Duelos defensivos/90": 0.448,
+      "Duelos defensivos ganados %": 0.494,
+      "Duelos a\u00e9reos en los 90": 0.848,
+      "Interceptaciones/90": 0.741,
+      "Tiros interceptados/90": 0.632,
+      "Pases progresivos/90": 0.711,
+      "Pases hacia adelante/90": 0.71,
+      "Precisi\u00f3n pases largos %": 0.589
+    }
+  },
+  {
+    "Jugador": "J. Guevara",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.712,
+      "Duelos defensivos/90": 0.454,
+      "Duelos defensivos ganados %": 0.859,
+      "Duelos a\u00e9reos en los 90": 0.908,
+      "Interceptaciones/90": 0.744,
+      "Tiros interceptados/90": 0.36,
+      "Pases progresivos/90": 0.487,
+      "Pases hacia adelante/90": 0.514,
+      "Precisi\u00f3n pases largos %": 0.725
+    }
+  },
+  {
+    "Jugador": "J. C\u00e1ceres",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.836,
+      "Duelos defensivos/90": 0.696,
+      "Duelos defensivos ganados %": 0.564,
+      "Duelos a\u00e9reos en los 90": 0.328,
+      "Interceptaciones/90": 0.797,
+      "Tiros interceptados/90": 0.192,
+      "Pases progresivos/90": 1.0,
+      "Pases hacia adelante/90": 0.724,
+      "Precisi\u00f3n pases largos %": 0.597
+    }
+  },
+  {
+    "Jugador": "M. Rodr\u00edguez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.605,
+      "Duelos defensivos/90": 0.309,
+      "Duelos defensivos ganados %": 0.729,
+      "Duelos a\u00e9reos en los 90": 0.757,
+      "Interceptaciones/90": 0.767,
+      "Tiros interceptados/90": 0.8,
+      "Pases progresivos/90": 0.442,
+      "Pases hacia adelante/90": 0.609,
+      "Precisi\u00f3n pases largos %": 0.575
+    }
+  },
+  {
+    "Jugador": "V. G\u00f3mez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.596,
+      "Duelos defensivos/90": 0.347,
+      "Duelos defensivos ganados %": 0.659,
+      "Duelos a\u00e9reos en los 90": 0.647,
+      "Interceptaciones/90": 0.671,
+      "Tiros interceptados/90": 0.704,
+      "Pases progresivos/90": 0.63,
+      "Pases hacia adelante/90": 0.713,
+      "Precisi\u00f3n pases largos %": 0.579
+    }
+  },
+  {
+    "Jugador": "R. Brazionis",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.508,
+      "Duelos defensivos/90": 0.192,
+      "Duelos defensivos ganados %": 0.879,
+      "Duelos a\u00e9reos en los 90": 0.661,
+      "Interceptaciones/90": 0.714,
+      "Tiros interceptados/90": 0.68,
+      "Pases progresivos/90": 0.638,
+      "Pases hacia adelante/90": 0.616,
+      "Precisi\u00f3n pases largos %": 0.572
+    }
+  },
+  {
+    "Jugador": "M. Gamarra",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.568,
+      "Duelos defensivos/90": 0.409,
+      "Duelos defensivos ganados %": 0.524,
+      "Duelos a\u00e9reos en los 90": 0.556,
+      "Interceptaciones/90": 0.562,
+      "Tiros interceptados/90": 0.704,
+      "Pases progresivos/90": 0.7,
+      "Pases hacia adelante/90": 0.778,
+      "Precisi\u00f3n pases largos %": 0.61
+    }
+  },
+  {
+    "Jugador": "N. Romero",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.609,
+      "Duelos defensivos/90": 0.311,
+      "Duelos defensivos ganados %": 0.535,
+      "Duelos a\u00e9reos en los 90": 0.632,
+      "Interceptaciones/90": 0.744,
+      "Tiros interceptados/90": 0.8,
+      "Pases progresivos/90": 0.647,
+      "Pases hacia adelante/90": 0.577,
+      "Precisi\u00f3n pases largos %": 0.542
+    }
+  },
+  {
+    "Jugador": "A. Saldivia",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.506,
+      "Duelos defensivos/90": 0.366,
+      "Duelos defensivos ganados %": 0.873,
+      "Duelos a\u00e9reos en los 90": 0.694,
+      "Interceptaciones/90": 0.374,
+      "Tiros interceptados/90": 0.208,
+      "Pases progresivos/90": 0.684,
+      "Pases hacia adelante/90": 0.981,
+      "Precisi\u00f3n pases largos %": 0.697
+    }
+  },
+  {
+    "Jugador": "A. Di Pippa",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.725,
+      "Duelos defensivos/90": 0.527,
+      "Duelos defensivos ganados %": 0.731,
+      "Duelos a\u00e9reos en los 90": 0.647,
+      "Interceptaciones/90": 0.677,
+      "Tiros interceptados/90": 0.384,
+      "Pases progresivos/90": 0.573,
+      "Pases hacia adelante/90": 0.532,
+      "Precisi\u00f3n pases largos %": 0.548
+    }
+  },
+  {
+    "Jugador": "F. \u00c1lvarez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.537,
+      "Duelos defensivos/90": 0.35,
+      "Duelos defensivos ganados %": 0.871,
+      "Duelos a\u00e9reos en los 90": 0.743,
+      "Interceptaciones/90": 0.481,
+      "Tiros interceptados/90": 0.256,
+      "Pases progresivos/90": 0.648,
+      "Pases hacia adelante/90": 0.889,
+      "Precisi\u00f3n pases largos %": 0.567
+    }
+  },
+  {
+    "Jugador": "E. Castillo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.742,
+      "Duelos defensivos/90": 0.628,
+      "Duelos defensivos ganados %": 0.717,
+      "Duelos a\u00e9reos en los 90": 0.658,
+      "Interceptaciones/90": 0.579,
+      "Tiros interceptados/90": 0.176,
+      "Pases progresivos/90": 0.646,
+      "Pases hacia adelante/90": 0.644,
+      "Precisi\u00f3n pases largos %": 0.547
+    }
+  },
+  {
+    "Jugador": "N. Brunet",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.662,
+      "Duelos defensivos/90": 0.445,
+      "Duelos defensivos ganados %": 0.687,
+      "Duelos a\u00e9reos en los 90": 0.263,
+      "Interceptaciones/90": 0.748,
+      "Tiros interceptados/90": 0.488,
+      "Pases progresivos/90": 0.725,
+      "Pases hacia adelante/90": 0.71,
+      "Precisi\u00f3n pases largos %": 0.585
+    }
+  },
+  {
+    "Jugador": "Gabriel Xavier",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.513,
+      "Duelos defensivos/90": 0.172,
+      "Duelos defensivos ganados %": 0.576,
+      "Duelos a\u00e9reos en los 90": 0.784,
+      "Interceptaciones/90": 0.771,
+      "Tiros interceptados/90": 0.568,
+      "Pases progresivos/90": 0.434,
+      "Pases hacia adelante/90": 0.768,
+      "Precisi\u00f3n pases largos %": 0.703
+    }
+  },
+  {
+    "Jugador": "L. Alarc\u00f3n",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.558,
+      "Duelos defensivos/90": 0.144,
+      "Duelos defensivos ganados %": 0.839,
+      "Duelos a\u00e9reos en los 90": 0.469,
+      "Interceptaciones/90": 0.897,
+      "Tiros interceptados/90": 0.664,
+      "Pases progresivos/90": 0.436,
+      "Pases hacia adelante/90": 0.645,
+      "Precisi\u00f3n pases largos %": 0.627
+    }
+  },
+  {
+    "Jugador": "L. Di Lollo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.765,
+      "Duelos defensivos/90": 0.583,
+      "Duelos defensivos ganados %": 0.774,
+      "Duelos a\u00e9reos en los 90": 0.551,
+      "Interceptaciones/90": 0.65,
+      "Tiros interceptados/90": 0.416,
+      "Pases progresivos/90": 0.528,
+      "Pases hacia adelante/90": 0.734,
+      "Precisi\u00f3n pases largos %": 0.278
+    }
+  },
+  {
+    "Jugador": "J. Portillo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.697,
+      "Duelos defensivos/90": 0.574,
+      "Duelos defensivos ganados %": 0.773,
+      "Duelos a\u00e9reos en los 90": 0.525,
+      "Interceptaciones/90": 0.513,
+      "Tiros interceptados/90": 0.472,
+      "Pases progresivos/90": 0.493,
+      "Pases hacia adelante/90": 0.703,
+      "Precisi\u00f3n pases largos %": 0.489
+    }
+  },
+  {
+    "Jugador": "Gustavo Martins",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.642,
+      "Duelos defensivos/90": 0.39,
+      "Duelos defensivos ganados %": 0.624,
+      "Duelos a\u00e9reos en los 90": 0.522,
+      "Interceptaciones/90": 0.729,
+      "Tiros interceptados/90": 0.624,
+      "Pases progresivos/90": 0.498,
+      "Pases hacia adelante/90": 0.638,
+      "Precisi\u00f3n pases largos %": 0.54
+    }
+  },
+  {
+    "Jugador": "S. Ramos Mingo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.498,
+      "Duelos defensivos/90": 0.156,
+      "Duelos defensivos ganados %": 0.778,
+      "Duelos a\u00e9reos en los 90": 0.851,
+      "Interceptaciones/90": 0.692,
+      "Tiros interceptados/90": 0.52,
+      "Pases progresivos/90": 0.539,
+      "Pases hacia adelante/90": 0.671,
+      "Precisi\u00f3n pases largos %": 0.482
+    }
+  },
+  {
+    "Jugador": "P. L\u00f3pez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.858,
+      "Duelos defensivos/90": 0.767,
+      "Duelos defensivos ganados %": 0.68,
+      "Duelos a\u00e9reos en los 90": 0.473,
+      "Interceptaciones/90": 0.609,
+      "Tiros interceptados/90": 0.2,
+      "Pases progresivos/90": 0.503,
+      "Pases hacia adelante/90": 0.398,
+      "Precisi\u00f3n pases largos %": 0.571
+    }
+  },
+  {
+    "Jugador": "Alix Vinicius",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.578,
+      "Duelos defensivos/90": 0.228,
+      "Duelos defensivos ganados %": 0.307,
+      "Duelos a\u00e9reos en los 90": 0.591,
+      "Interceptaciones/90": 0.951,
+      "Tiros interceptados/90": 0.72,
+      "Pases progresivos/90": 0.351,
+      "Pases hacia adelante/90": 0.442,
+      "Precisi\u00f3n pases largos %": 0.885
+    }
+  },
+  {
+    "Jugador": "Alvaro Brand\u00e1n",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.919,
+      "Duelos defensivos/90": 0.718,
+      "Duelos defensivos ganados %": 0.463,
+      "Duelos a\u00e9reos en los 90": 0.466,
+      "Interceptaciones/90": 0.972,
+      "Tiros interceptados/90": 0.368,
+      "Pases progresivos/90": 0.418,
+      "Pases hacia adelante/90": 0.409,
+      "Precisi\u00f3n pases largos %": 0.301
+    }
+  },
+  {
+    "Jugador": "T. Silva",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Duelos defensivos/90": 0.807,
+      "Duelos defensivos ganados %": 0.686,
+      "Duelos a\u00e9reos en los 90": 0.274,
+      "Interceptaciones/90": 0.705,
+      "Tiros interceptados/90": 0.184,
+      "Pases progresivos/90": 0.564,
+      "Pases hacia adelante/90": 0.504,
+      "Precisi\u00f3n pases largos %": 0.305
+    }
+  },
+  {
+    "Jugador": "T. Ram\u00edrez Cardozo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.476,
+      "Duelos defensivos/90": 0.275,
+      "Duelos defensivos ganados %": 0.799,
+      "Duelos a\u00e9reos en los 90": 0.375,
+      "Interceptaciones/90": 0.406,
+      "Tiros interceptados/90": 0.552,
+      "Pases progresivos/90": 0.685,
+      "Pases hacia adelante/90": 1.0,
+      "Precisi\u00f3n pases largos %": 0.46
+    }
+  },
+  {
+    "Jugador": "R. Gonz\u00e1lez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.911,
+      "Duelos defensivos/90": 0.714,
+      "Duelos defensivos ganados %": 0.735,
+      "Duelos a\u00e9reos en los 90": 0.232,
+      "Interceptaciones/90": 0.724,
+      "Tiros interceptados/90": 0.064,
+      "Pases progresivos/90": 0.768,
+      "Pases hacia adelante/90": 0.499,
+      "Precisi\u00f3n pases largos %": 0.369
+    }
+  },
+  {
+    "Jugador": "J. Gim\u00e9nez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.754,
+      "Duelos defensivos/90": 0.6,
+      "Duelos defensivos ganados %": 0.919,
+      "Duelos a\u00e9reos en los 90": 0.446,
+      "Interceptaciones/90": 0.496,
+      "Tiros interceptados/90": 0.44,
+      "Pases progresivos/90": 0.381,
+      "Pases hacia adelante/90": 0.538,
+      "Precisi\u00f3n pases largos %": 0.411
+    }
+  },
+  {
+    "Jugador": "R. Malanca",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.586,
+      "Duelos defensivos/90": 0.264,
+      "Duelos defensivos ganados %": 0.631,
+      "Duelos a\u00e9reos en los 90": 0.636,
+      "Interceptaciones/90": 0.767,
+      "Tiros interceptados/90": 0.352,
+      "Pases progresivos/90": 0.555,
+      "Pases hacia adelante/90": 0.58,
+      "Precisi\u00f3n pases largos %": 0.603
+    }
+  },
+  {
+    "Jugador": "Bruno Gomes",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.744,
+      "Duelos defensivos/90": 0.626,
+      "Duelos defensivos ganados %": 0.602,
+      "Duelos a\u00e9reos en los 90": 0.174,
+      "Interceptaciones/90": 0.611,
+      "Tiros interceptados/90": 0.264,
+      "Pases progresivos/90": 0.658,
+      "Pases hacia adelante/90": 0.778,
+      "Precisi\u00f3n pases largos %": 0.511
+    }
+  },
+  {
+    "Jugador": "M. Acosta Fern\u00e1ndez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.589,
+      "Duelos defensivos/90": 0.397,
+      "Duelos defensivos ganados %": 0.496,
+      "Duelos a\u00e9reos en los 90": 0.589,
+      "Interceptaciones/90": 0.673,
+      "Tiros interceptados/90": 0.8,
+      "Pases progresivos/90": 0.492,
+      "Pases hacia adelante/90": 0.597,
+      "Precisi\u00f3n pases largos %": 0.334
+    }
+  },
+  {
+    "Jugador": "I. Rom\u00e1n",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.674,
+      "Duelos defensivos/90": 0.633,
+      "Duelos defensivos ganados %": 0.781,
+      "Duelos a\u00e9reos en los 90": 0.732,
+      "Interceptaciones/90": 0.417,
+      "Tiros interceptados/90": 0.16,
+      "Pases progresivos/90": 0.454,
+      "Pases hacia adelante/90": 0.546,
+      "Precisi\u00f3n pases largos %": 0.514
+    }
+  },
+  {
+    "Jugador": "N. Demartini",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.788,
+      "Duelos defensivos/90": 0.619,
+      "Duelos defensivos ganados %": 0.552,
+      "Duelos a\u00e9reos en los 90": 0.25,
+      "Interceptaciones/90": 0.791,
+      "Tiros interceptados/90": 0.488,
+      "Pases progresivos/90": 0.443,
+      "Pases hacia adelante/90": 0.467,
+      "Precisi\u00f3n pases largos %": 0.505
+    }
+  },
+  {
+    "Jugador": "N. Paz",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.604,
+      "Duelos defensivos/90": 0.465,
+      "Duelos defensivos ganados %": 0.582,
+      "Duelos a\u00e9reos en los 90": 0.176,
+      "Interceptaciones/90": 0.453,
+      "Tiros interceptados/90": 0.456,
+      "Pases progresivos/90": 0.799,
+      "Pases hacia adelante/90": 0.629,
+      "Precisi\u00f3n pases largos %": 0.708
+    }
+  },
+  {
+    "Jugador": "M. Di Cesare",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.44,
+      "Duelos defensivos/90": 0.264,
+      "Duelos defensivos ganados %": 0.569,
+      "Duelos a\u00e9reos en los 90": 0.851,
+      "Interceptaciones/90": 0.481,
+      "Tiros interceptados/90": 0.664,
+      "Pases progresivos/90": 0.574,
+      "Pases hacia adelante/90": 0.619,
+      "Precisi\u00f3n pases largos %": 0.408
+    }
+  },
+  {
+    "Jugador": "D. Hern\u00e1ndez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.524,
+      "Duelos defensivos/90": 0.311,
+      "Duelos defensivos ganados %": 0.832,
+      "Duelos a\u00e9reos en los 90": 0.384,
+      "Interceptaciones/90": 0.519,
+      "Tiros interceptados/90": 0.56,
+      "Pases progresivos/90": 0.481,
+      "Pases hacia adelante/90": 0.589,
+      "Precisi\u00f3n pases largos %": 0.665
+    }
+  },
+  {
+    "Jugador": "T. Jacob",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.736,
+      "Duelos defensivos/90": 0.468,
+      "Duelos defensivos ganados %": 0.658,
+      "Duelos a\u00e9reos en los 90": 0.279,
+      "Interceptaciones/90": 0.81,
+      "Tiros interceptados/90": 0.616,
+      "Pases progresivos/90": 0.35,
+      "Pases hacia adelante/90": 0.232,
+      "Precisi\u00f3n pases largos %": 0.716
+    }
+  },
+  {
+    "Jugador": "G. Pereira",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.467,
+      "Duelos defensivos/90": 0.37,
+      "Duelos defensivos ganados %": 0.606,
+      "Duelos a\u00e9reos en los 90": 0.774,
+      "Interceptaciones/90": 0.451,
+      "Tiros interceptados/90": 0.424,
+      "Pases progresivos/90": 0.576,
+      "Pases hacia adelante/90": 0.565,
+      "Precisi\u00f3n pases largos %": 0.619
+    }
+  },
+  {
+    "Jugador": "L. Rivero",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.512,
+      "Duelos defensivos/90": 0.347,
+      "Duelos defensivos ganados %": 0.636,
+      "Duelos a\u00e9reos en los 90": 0.726,
+      "Interceptaciones/90": 0.53,
+      "Tiros interceptados/90": 0.176,
+      "Pases progresivos/90": 0.592,
+      "Pases hacia adelante/90": 0.605,
+      "Precisi\u00f3n pases largos %": 0.723
+    }
+  },
+  {
+    "Jugador": "A. Garc\u00eda",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.79,
+      "Duelos defensivos/90": 0.624,
+      "Duelos defensivos ganados %": 0.598,
+      "Duelos a\u00e9reos en los 90": 0.424,
+      "Interceptaciones/90": 0.703,
+      "Tiros interceptados/90": 0.352,
+      "Pases progresivos/90": 0.543,
+      "Pases hacia adelante/90": 0.394,
+      "Precisi\u00f3n pases largos %": 0.41
+    }
+  },
+  {
+    "Jugador": "M. Lorenzi G\u00f3mez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.541,
+      "Duelos defensivos/90": 0.221,
+      "Duelos defensivos ganados %": 0.818,
+      "Duelos a\u00e9reos en los 90": 0.707,
+      "Interceptaciones/90": 0.686,
+      "Tiros interceptados/90": 0.552,
+      "Pases progresivos/90": 0.486,
+      "Pases hacia adelante/90": 0.405,
+      "Precisi\u00f3n pases largos %": 0.415
+    }
+  },
+  {
+    "Jugador": "V. Vidal",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.522,
+      "Duelos defensivos/90": 0.333,
+      "Duelos defensivos ganados %": 0.949,
+      "Duelos a\u00e9reos en los 90": 0.25,
+      "Interceptaciones/90": 0.434,
+      "Tiros interceptados/90": 0.472,
+      "Pases progresivos/90": 0.483,
+      "Pases hacia adelante/90": 0.565,
+      "Precisi\u00f3n pases largos %": 0.79
+    }
+  },
+  {
+    "Jugador": "R. De Jes\u00fas",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.473,
+      "Duelos defensivos/90": 0.073,
+      "Duelos defensivos ganados %": 0.611,
+      "Duelos a\u00e9reos en los 90": 0.922,
+      "Interceptaciones/90": 0.872,
+      "Tiros interceptados/90": 0.184,
+      "Pases progresivos/90": 0.645,
+      "Pases hacia adelante/90": 0.806,
+      "Precisi\u00f3n pases largos %": 0.212
+    }
+  },
+  {
+    "Jugador": "J. Angulo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.544,
+      "Duelos defensivos/90": 0.325,
+      "Duelos defensivos ganados %": 1.0,
+      "Duelos a\u00e9reos en los 90": 0.364,
+      "Interceptaciones/90": 0.511,
+      "Tiros interceptados/90": 0.456,
+      "Pases progresivos/90": 0.476,
+      "Pases hacia adelante/90": 0.573,
+      "Precisi\u00f3n pases largos %": 0.54
+    }
+  },
+  {
+    "Jugador": "S. Studer",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.567,
+      "Duelos defensivos/90": 0.222,
+      "Duelos defensivos ganados %": 0.945,
+      "Duelos a\u00e9reos en los 90": 0.87,
+      "Interceptaciones/90": 0.705,
+      "Tiros interceptados/90": 0.64,
+      "Pases progresivos/90": 0.257,
+      "Pases hacia adelante/90": 0.351,
+      "Precisi\u00f3n pases largos %": 0.218
+    }
+  },
+  {
+    "Jugador": "K. Lom\u00f3naco",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.509,
+      "Duelos defensivos/90": 0.297,
+      "Duelos defensivos ganados %": 0.86,
+      "Duelos a\u00e9reos en los 90": 0.438,
+      "Interceptaciones/90": 0.534,
+      "Tiros interceptados/90": 0.256,
+      "Pases progresivos/90": 0.583,
+      "Pases hacia adelante/90": 0.651,
+      "Precisi\u00f3n pases largos %": 0.642
+    }
+  },
+  {
+    "Jugador": "J. Rodr\u00edguez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.559,
+      "Duelos defensivos/90": 0.43,
+      "Duelos defensivos ganados %": 0.689,
+      "Duelos a\u00e9reos en los 90": 0.676,
+      "Interceptaciones/90": 0.517,
+      "Tiros interceptados/90": 0.392,
+      "Pases progresivos/90": 0.663,
+      "Pases hacia adelante/90": 0.719,
+      "Precisi\u00f3n pases largos %": 0.123
+    }
+  },
+  {
+    "Jugador": "N. Valentini",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.99,
+      "Duelos defensivos/90": 0.62,
+      "Duelos defensivos ganados %": 0.466,
+      "Duelos a\u00e9reos en los 90": 0.754,
+      "Interceptaciones/90": 0.937,
+      "Tiros interceptados/90": 0.339,
+      "Pases progresivos/90": 0.814,
+      "Pases hacia adelante/90": 0.703,
+      "Precisi\u00f3n pases largos %": 0.582
+    }
+  },
+  {
+    "Jugador": "T. Siersleben",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.898,
+      "Duelos defensivos/90": 0.809,
+      "Duelos defensivos ganados %": 0.697,
+      "Duelos a\u00e9reos en los 90": 0.35,
+      "Interceptaciones/90": 0.588,
+      "Tiros interceptados/90": 0.372,
+      "Pases progresivos/90": 0.784,
+      "Pases hacia adelante/90": 0.852,
+      "Precisi\u00f3n pases largos %": 0.826
+    }
+  },
+  {
+    "Jugador": "Dean Huijsen",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.673,
+      "Duelos defensivos/90": 0.341,
+      "Duelos defensivos ganados %": 0.826,
+      "Duelos a\u00e9reos en los 90": 0.596,
+      "Interceptaciones/90": 0.627,
+      "Tiros interceptados/90": 0.488,
+      "Pases progresivos/90": 0.721,
+      "Pases hacia adelante/90": 0.822,
+      "Precisi\u00f3n pases largos %": 0.796
+    }
+  },
+  {
+    "Jugador": "C. Okoli",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.882,
+      "Duelos defensivos/90": 0.505,
+      "Duelos defensivos ganados %": 0.743,
+      "Duelos a\u00e9reos en los 90": 0.635,
+      "Interceptaciones/90": 0.822,
+      "Tiros interceptados/90": 0.851,
+      "Pases progresivos/90": 0.339,
+      "Pases hacia adelante/90": 0.503,
+      "Precisi\u00f3n pases largos %": 0.585
+    }
+  },
+  {
+    "Jugador": "Arthur Chaves",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.858,
+      "Duelos defensivos/90": 0.808,
+      "Duelos defensivos ganados %": 0.565,
+      "Duelos a\u00e9reos en los 90": 0.904,
+      "Interceptaciones/90": 0.542,
+      "Tiros interceptados/90": 0.57,
+      "Pases progresivos/90": 0.39,
+      "Pases hacia adelante/90": 0.555,
+      "Precisi\u00f3n pases largos %": 0.568
+    }
+  },
+  {
+    "Jugador": "A. Khusanov",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.772,
+      "Duelos defensivos/90": 0.525,
+      "Duelos defensivos ganados %": 0.929,
+      "Duelos a\u00e9reos en los 90": 0.363,
+      "Interceptaciones/90": 0.513,
+      "Tiros interceptados/90": 0.661,
+      "Pases progresivos/90": 0.62,
+      "Pases hacia adelante/90": 0.696,
+      "Precisi\u00f3n pases largos %": 0.671
+    }
+  },
+  {
+    "Jugador": "D. Zec",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.829,
+      "Duelos defensivos/90": 0.484,
+      "Duelos defensivos ganados %": 0.711,
+      "Duelos a\u00e9reos en los 90": 0.748,
+      "Interceptaciones/90": 0.761,
+      "Tiros interceptados/90": 0.587,
+      "Pases progresivos/90": 0.249,
+      "Pases hacia adelante/90": 0.541,
+      "Precisi\u00f3n pases largos %": 0.84
+    }
+  },
+  {
+    "Jugador": "L. Pirola",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.73,
+      "Duelos defensivos/90": 0.578,
+      "Duelos defensivos ganados %": 0.466,
+      "Duelos a\u00e9reos en los 90": 0.691,
+      "Interceptaciones/90": 0.649,
+      "Tiros interceptados/90": 1.0,
+      "Pases progresivos/90": 0.242,
+      "Pases hacia adelante/90": 0.523,
+      "Precisi\u00f3n pases largos %": 0.847
+    }
+  },
+  {
+    "Jugador": "L. \u00d8stig\u00e5rd",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.591,
+      "Duelos defensivos/90": 0.278,
+      "Duelos defensivos ganados %": 0.52,
+      "Duelos a\u00e9reos en los 90": 1.0,
+      "Interceptaciones/90": 0.712,
+      "Tiros interceptados/90": 0.595,
+      "Pases progresivos/90": 0.511,
+      "Pases hacia adelante/90": 0.649,
+      "Precisi\u00f3n pases largos %": 0.834
+    }
+  },
+  {
+    "Jugador": "D. Coppola",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.938,
+      "Duelos defensivos/90": 0.738,
+      "Duelos defensivos ganados %": 0.935,
+      "Duelos a\u00e9reos en los 90": 0.883,
+      "Interceptaciones/90": 0.521,
+      "Tiros interceptados/90": 0.537,
+      "Pases progresivos/90": 0.177,
+      "Pases hacia adelante/90": 0.309,
+      "Precisi\u00f3n pases largos %": 0.578
+    }
+  },
+  {
+    "Jugador": "A. N'Diaye",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.834,
+      "Duelos defensivos/90": 0.411,
+      "Duelos defensivos ganados %": 0.773,
+      "Duelos a\u00e9reos en los 90": 0.651,
+      "Interceptaciones/90": 0.771,
+      "Tiros interceptados/90": 0.554,
+      "Pases progresivos/90": 0.211,
+      "Pases hacia adelante/90": 0.564,
+      "Precisi\u00f3n pases largos %": 0.741
+    }
+  },
+  {
+    "Jugador": "M. Jenz",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.773,
+      "Duelos defensivos/90": 0.568,
+      "Duelos defensivos ganados %": 0.745,
+      "Duelos a\u00e9reos en los 90": 0.974,
+      "Interceptaciones/90": 0.568,
+      "Tiros interceptados/90": 0.512,
+      "Pases progresivos/90": 0.204,
+      "Pases hacia adelante/90": 0.521,
+      "Precisi\u00f3n pases largos %": 0.61
+    }
+  },
+  {
+    "Jugador": "A. Rouault",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.594,
+      "Duelos defensivos/90": 0.408,
+      "Duelos defensivos ganados %": 0.694,
+      "Duelos a\u00e9reos en los 90": 0.573,
+      "Interceptaciones/90": 0.525,
+      "Tiros interceptados/90": 0.595,
+      "Pases progresivos/90": 0.631,
+      "Pases hacia adelante/90": 0.712,
+      "Precisi\u00f3n pases largos %": 0.717
+    }
+  },
+  {
+    "Jugador": "Alejandro Franc\u00e9s",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.851,
+      "Duelos defensivos/90": 0.801,
+      "Duelos defensivos ganados %": 0.448,
+      "Duelos a\u00e9reos en los 90": 0.221,
+      "Interceptaciones/90": 0.596,
+      "Tiros interceptados/90": 0.372,
+      "Pases progresivos/90": 0.683,
+      "Pases hacia adelante/90": 0.675,
+      "Precisi\u00f3n pases largos %": 0.696
+    }
+  },
+  {
+    "Jugador": "Murillo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.71,
+      "Duelos defensivos/90": 0.185,
+      "Duelos defensivos ganados %": 0.549,
+      "Duelos a\u00e9reos en los 90": 0.256,
+      "Interceptaciones/90": 0.949,
+      "Tiros interceptados/90": 0.769,
+      "Pases progresivos/90": 0.525,
+      "Pases hacia adelante/90": 0.593,
+      "Precisi\u00f3n pases largos %": 0.706
+    }
+  },
+  {
+    "Jugador": "G. Jean",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.552,
+      "Duelos defensivos/90": 0.374,
+      "Duelos defensivos ganados %": 0.728,
+      "Duelos a\u00e9reos en los 90": 0.603,
+      "Interceptaciones/90": 0.521,
+      "Tiros interceptados/90": 0.463,
+      "Pases progresivos/90": 0.516,
+      "Pases hacia adelante/90": 0.74,
+      "Precisi\u00f3n pases largos %": 0.738
+    }
+  },
+  {
+    "Jugador": "Jon Aramburu",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.994,
+      "Duelos defensivos/90": 0.969,
+      "Duelos defensivos ganados %": 0.531,
+      "Duelos a\u00e9reos en los 90": 0.419,
+      "Interceptaciones/90": 0.572,
+      "Tiros interceptados/90": 0.215,
+      "Pases progresivos/90": 0.476,
+      "Pases hacia adelante/90": 0.645,
+      "Precisi\u00f3n pases largos %": 0.386
+    }
+  },
+  {
+    "Jugador": "M. Bombito",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.655,
+      "Duelos defensivos/90": 0.582,
+      "Duelos defensivos ganados %": 0.69,
+      "Duelos a\u00e9reos en los 90": 0.516,
+      "Interceptaciones/90": 0.458,
+      "Tiros interceptados/90": 0.554,
+      "Pases progresivos/90": 0.392,
+      "Pases hacia adelante/90": 0.577,
+      "Precisi\u00f3n pases largos %": 0.763
+    }
+  },
+  {
+    "Jugador": "A. Sangant\u00e9",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.89,
+      "Duelos defensivos/90": 0.687,
+      "Duelos defensivos ganados %": 0.819,
+      "Duelos a\u00e9reos en los 90": 0.489,
+      "Interceptaciones/90": 0.562,
+      "Tiros interceptados/90": 0.132,
+      "Pases progresivos/90": 0.407,
+      "Pases hacia adelante/90": 0.606,
+      "Precisi\u00f3n pases largos %": 0.56
+    }
+  },
+  {
+    "Jugador": "C. Matsima",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.722,
+      "Duelos defensivos/90": 0.168,
+      "Duelos defensivos ganados %": 0.632,
+      "Duelos a\u00e9reos en los 90": 0.492,
+      "Interceptaciones/90": 0.972,
+      "Tiros interceptados/90": 0.669,
+      "Pases progresivos/90": 0.358,
+      "Pases hacia adelante/90": 0.542,
+      "Precisi\u00f3n pases largos %": 0.584
+    }
+  },
+  {
+    "Jugador": "Jos\u00e9 Copete",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.743,
+      "Duelos defensivos/90": 0.508,
+      "Duelos defensivos ganados %": 0.891,
+      "Duelos a\u00e9reos en los 90": 0.306,
+      "Interceptaciones/90": 0.572,
+      "Tiros interceptados/90": 0.488,
+      "Pases progresivos/90": 0.327,
+      "Pases hacia adelante/90": 0.566,
+      "Precisi\u00f3n pases largos %": 0.726
+    }
+  },
+  {
+    "Jugador": "P. Joly",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.974,
+      "Duelos defensivos/90": 0.816,
+      "Duelos defensivos ganados %": 0.534,
+      "Duelos a\u00e9reos en los 90": 0.182,
+      "Interceptaciones/90": 0.696,
+      "Tiros interceptados/90": 0.033,
+      "Pases progresivos/90": 0.788,
+      "Pases hacia adelante/90": 0.5,
+      "Precisi\u00f3n pases largos %": 0.587
+    }
+  },
+  {
+    "Jugador": "M. Est\u00e8ve",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.857,
+      "Duelos defensivos/90": 0.842,
+      "Duelos defensivos ganados %": 0.551,
+      "Duelos a\u00e9reos en los 90": 0.507,
+      "Interceptaciones/90": 0.542,
+      "Tiros interceptados/90": 0.496,
+      "Pases progresivos/90": 0.256,
+      "Pases hacia adelante/90": 0.467,
+      "Precisi\u00f3n pases largos %": 0.585
+    }
+  },
+  {
+    "Jugador": "Juma Bah",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.817,
+      "Duelos defensivos/90": 0.401,
+      "Duelos defensivos ganados %": 0.876,
+      "Duelos a\u00e9reos en los 90": 0.51,
+      "Interceptaciones/90": 0.834,
+      "Tiros interceptados/90": 0.579,
+      "Pases progresivos/90": 0.159,
+      "Pases hacia adelante/90": 0.327,
+      "Precisi\u00f3n pases largos %": 0.595
+    }
+  },
+  {
+    "Jugador": "A. Obert",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Duelos defensivos/90": 1.0,
+      "Duelos defensivos ganados %": 0.345,
+      "Duelos a\u00e9reos en los 90": 0.539,
+      "Interceptaciones/90": 0.615,
+      "Tiros interceptados/90": 0.347,
+      "Pases progresivos/90": 0.453,
+      "Pases hacia adelante/90": 0.421,
+      "Precisi\u00f3n pases largos %": 0.375
+    }
+  },
+  {
+    "Jugador": "A. Gallo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.902,
+      "Duelos defensivos/90": 0.659,
+      "Duelos defensivos ganados %": 0.658,
+      "Duelos a\u00e9reos en los 90": 0.305,
+      "Interceptaciones/90": 0.732,
+      "Tiros interceptados/90": 0.149,
+      "Pases progresivos/90": 0.679,
+      "Pases hacia adelante/90": 0.453,
+      "Precisi\u00f3n pases largos %": 0.541
+    }
+  },
+  {
+    "Jugador": "L. Marianucci",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.622,
+      "Duelos defensivos/90": 0.612,
+      "Duelos defensivos ganados %": 0.993,
+      "Duelos a\u00e9reos en los 90": 0.759,
+      "Interceptaciones/90": 0.185,
+      "Tiros interceptados/90": 0.289,
+      "Pases progresivos/90": 0.382,
+      "Pases hacia adelante/90": 0.424,
+      "Precisi\u00f3n pases largos %": 0.8
+    }
+  },
+  {
+    "Jugador": "J. Cabal",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.799,
+      "Duelos defensivos/90": 0.679,
+      "Duelos defensivos ganados %": 0.382,
+      "Duelos a\u00e9reos en los 90": 0.616,
+      "Interceptaciones/90": 0.663,
+      "Tiros interceptados/90": 0.198,
+      "Pases progresivos/90": 0.62,
+      "Pases hacia adelante/90": 0.453,
+      "Precisi\u00f3n pases largos %": 0.605
+    }
+  },
+  {
+    "Jugador": "S. Sow",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.653,
+      "Duelos defensivos/90": 0.47,
+      "Duelos defensivos ganados %": 0.859,
+      "Duelos a\u00e9reos en los 90": 0.436,
+      "Interceptaciones/90": 0.509,
+      "Tiros interceptados/90": 0.711,
+      "Pases progresivos/90": 0.263,
+      "Pases hacia adelante/90": 0.452,
+      "Precisi\u00f3n pases largos %": 0.649
+    }
+  },
+  {
+    "Jugador": "Carlos Dom\u00ednguez",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.435,
+      "Duelos defensivos/90": 0.202,
+      "Duelos defensivos ganados %": 1.0,
+      "Duelos a\u00e9reos en los 90": 0.502,
+      "Interceptaciones/90": 0.452,
+      "Tiros interceptados/90": 0.504,
+      "Pases progresivos/90": 0.533,
+      "Pases hacia adelante/90": 0.77,
+      "Precisi\u00f3n pases largos %": 0.575
+    }
+  },
+  {
+    "Jugador": "M. Ivezi\u0107",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.845,
+      "Duelos defensivos/90": 0.637,
+      "Duelos defensivos ganados %": 0.387,
+      "Duelos a\u00e9reos en los 90": 0.489,
+      "Interceptaciones/90": 0.728,
+      "Tiros interceptados/90": 0.413,
+      "Pases progresivos/90": 0.389,
+      "Pases hacia adelante/90": 0.5,
+      "Precisi\u00f3n pases largos %": 0.576
+    }
+  },
+  {
+    "Jugador": "J. Idzes",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.785,
+      "Duelos defensivos/90": 0.614,
+      "Duelos defensivos ganados %": 0.609,
+      "Duelos a\u00e9reos en los 90": 0.541,
+      "Interceptaciones/90": 0.653,
+      "Tiros interceptados/90": 0.628,
+      "Pases progresivos/90": 0.21,
+      "Pases hacia adelante/90": 0.409,
+      "Precisi\u00f3n pases largos %": 0.504
+    }
+  },
+  {
+    "Jugador": "K. Koulierakis",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.553,
+      "Duelos defensivos/90": 0.252,
+      "Duelos defensivos ganados %": 0.695,
+      "Duelos a\u00e9reos en los 90": 0.607,
+      "Interceptaciones/90": 0.6,
+      "Tiros interceptados/90": 0.273,
+      "Pases progresivos/90": 0.677,
+      "Pases hacia adelante/90": 0.624,
+      "Precisi\u00f3n pases largos %": 0.669
+    }
+  },
+  {
+    "Jugador": "P. Comuzzo",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.686,
+      "Duelos defensivos/90": 0.513,
+      "Duelos defensivos ganados %": 0.723,
+      "Duelos a\u00e9reos en los 90": 0.604,
+      "Interceptaciones/90": 0.54,
+      "Tiros interceptados/90": 0.554,
+      "Pases progresivos/90": 0.326,
+      "Pases hacia adelante/90": 0.44,
+      "Precisi\u00f3n pases largos %": 0.558
+    }
+  },
+  {
+    "Jugador": "G. Dou\u00e9",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.714,
+      "Duelos defensivos/90": 0.547,
+      "Duelos defensivos ganados %": 0.43,
+      "Duelos a\u00e9reos en los 90": 0.443,
+      "Interceptaciones/90": 0.68,
+      "Tiros interceptados/90": 0.091,
+      "Pases progresivos/90": 0.67,
+      "Pases hacia adelante/90": 0.922,
+      "Precisi\u00f3n pases largos %": 0.427
+    }
+  },
+  {
+    "Jugador": "A. Carboni",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.763,
+      "Duelos defensivos/90": 0.718,
+      "Duelos defensivos ganados %": 0.687,
+      "Duelos a\u00e9reos en los 90": 0.531,
+      "Interceptaciones/90": 0.365,
+      "Tiros interceptados/90": 0.38,
+      "Pases progresivos/90": 0.3,
+      "Pases hacia adelante/90": 0.457,
+      "Precisi\u00f3n pases largos %": 0.72
+    }
+  },
+  {
+    "Jugador": "Alexsandro",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.399,
+      "Duelos defensivos/90": 0.213,
+      "Duelos defensivos ganados %": 0.696,
+      "Duelos a\u00e9reos en los 90": 0.428,
+      "Interceptaciones/90": 0.45,
+      "Tiros interceptados/90": 0.372,
+      "Pases progresivos/90": 0.698,
+      "Pases hacia adelante/90": 0.923,
+      "Precisi\u00f3n pases largos %": 0.739
+    }
+  },
+  {
+    "Jugador": "C. Cresswell",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.557,
+      "Duelos defensivos/90": 0.17,
+      "Duelos defensivos ganados %": 0.499,
+      "Duelos a\u00e9reos en los 90": 0.811,
+      "Interceptaciones/90": 0.732,
+      "Tiros interceptados/90": 0.62,
+      "Pases progresivos/90": 0.381,
+      "Pases hacia adelante/90": 0.517,
+      "Precisi\u00f3n pases largos %": 0.593
+    }
+  },
+  {
+    "Jugador": "Pau Cubars\u00ed",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.327,
+      "Duelos defensivos/90": 0.244,
+      "Duelos defensivos ganados %": 0.745,
+      "Duelos a\u00e9reos en los 90": 0.513,
+      "Interceptaciones/90": 0.254,
+      "Tiros interceptados/90": 0.223,
+      "Pases progresivos/90": 0.691,
+      "Pases hacia adelante/90": 1.0,
+      "Precisi\u00f3n pases largos %": 0.854
+    }
+  },
+  {
+    "Jugador": "Kike Salas",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.552,
+      "Duelos defensivos/90": 0.318,
+      "Duelos defensivos ganados %": 0.613,
+      "Duelos a\u00e9reos en los 90": 0.669,
+      "Interceptaciones/90": 0.602,
+      "Tiros interceptados/90": 0.355,
+      "Pases progresivos/90": 0.574,
+      "Pases hacia adelante/90": 0.676,
+      "Precisi\u00f3n pases largos %": 0.484
+    }
+  },
+  {
+    "Jugador": "B. Balogh",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.834,
+      "Duelos defensivos/90": 0.403,
+      "Duelos defensivos ganados %": 0.372,
+      "Duelos a\u00e9reos en los 90": 0.41,
+      "Interceptaciones/90": 1.0,
+      "Tiros interceptados/90": 0.835,
+      "Pases progresivos/90": 0.098,
+      "Pases hacia adelante/90": 0.279,
+      "Precisi\u00f3n pases largos %": 0.612
+    }
+  },
+  {
+    "Jugador": "M. Viti",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.732,
+      "Duelos defensivos/90": 0.705,
+      "Duelos defensivos ganados %": 0.628,
+      "Duelos a\u00e9reos en los 90": 0.598,
+      "Interceptaciones/90": 0.434,
+      "Tiros interceptados/90": 0.397,
+      "Pases progresivos/90": 0.278,
+      "Pases hacia adelante/90": 0.407,
+      "Precisi\u00f3n pases largos %": 0.651
+    }
+  },
+  {
+    "Jugador": "L. Querfeld",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.587,
+      "Duelos defensivos/90": 0.273,
+      "Duelos defensivos ganados %": 0.561,
+      "Duelos a\u00e9reos en los 90": 0.928,
+      "Interceptaciones/90": 0.706,
+      "Tiros interceptados/90": 0.273,
+      "Pases progresivos/90": 0.342,
+      "Pases hacia adelante/90": 0.392,
+      "Precisi\u00f3n pases largos %": 0.763
+    }
+  },
+  {
+    "Jugador": "O. Solet",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.583,
+      "Duelos defensivos/90": 0.325,
+      "Duelos defensivos ganados %": 0.661,
+      "Duelos a\u00e9reos en los 90": 0.378,
+      "Interceptaciones/90": 0.639,
+      "Tiros interceptados/90": 0.669,
+      "Pases progresivos/90": 0.36,
+      "Pases hacia adelante/90": 0.594,
+      "Precisi\u00f3n pases largos %": 0.589
+    }
+  },
+  {
+    "Jugador": "D. Ghilardi",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.695,
+      "Duelos defensivos/90": 0.614,
+      "Duelos defensivos ganados %": 0.728,
+      "Duelos a\u00e9reos en los 90": 0.559,
+      "Interceptaciones/90": 0.473,
+      "Tiros interceptados/90": 0.446,
+      "Pases progresivos/90": 0.283,
+      "Pases hacia adelante/90": 0.423,
+      "Precisi\u00f3n pases largos %": 0.568
+    }
+  },
+  {
+    "Jugador": "M. Geschwill",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.531,
+      "Duelos defensivos/90": 0.268,
+      "Duelos defensivos ganados %": 0.712,
+      "Duelos a\u00e9reos en los 90": 0.319,
+      "Interceptaciones/90": 0.562,
+      "Tiros interceptados/90": 0.339,
+      "Pases progresivos/90": 0.711,
+      "Pases hacia adelante/90": 0.639,
+      "Precisi\u00f3n pases largos %": 0.687
+    }
+  },
+  {
+    "Jugador": "S. Walukiewicz",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.635,
+      "Duelos defensivos/90": 0.676,
+      "Duelos defensivos ganados %": 0.39,
+      "Duelos a\u00e9reos en los 90": 0.459,
+      "Interceptaciones/90": 0.394,
+      "Tiros interceptados/90": 0.421,
+      "Pases progresivos/90": 0.478,
+      "Pases hacia adelante/90": 0.579,
+      "Precisi\u00f3n pases largos %": 0.712
+    }
+  },
+  {
+    "Jugador": "M. Kumbulla",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.539,
+      "Duelos defensivos/90": 0.4,
+      "Duelos defensivos ganados %": 0.741,
+      "Duelos a\u00e9reos en los 90": 0.559,
+      "Interceptaciones/90": 0.46,
+      "Tiros interceptados/90": 0.694,
+      "Pases progresivos/90": 0.254,
+      "Pases hacia adelante/90": 0.427,
+      "Precisi\u00f3n pases largos %": 0.657
+    }
+  },
+  {
+    "Jugador": "Y. Mosquera",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.768,
+      "Duelos defensivos/90": 0.439,
+      "Duelos defensivos ganados %": 0.698,
+      "Duelos a\u00e9reos en los 90": 0.401,
+      "Interceptaciones/90": 0.773,
+      "Tiros interceptados/90": 0.504,
+      "Pases progresivos/90": 0.291,
+      "Pases hacia adelante/90": 0.476,
+      "Precisi\u00f3n pases largos %": 0.373
+    }
+  },
+  {
+    "Jugador": "M. Rosenfelder",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.652,
+      "Duelos defensivos/90": 0.47,
+      "Duelos defensivos ganados %": 0.821,
+      "Duelos a\u00e9reos en los 90": 0.417,
+      "Interceptaciones/90": 0.535,
+      "Tiros interceptados/90": 0.455,
+      "Pases progresivos/90": 0.213,
+      "Pases hacia adelante/90": 0.409,
+      "Precisi\u00f3n pases largos %": 0.732
+    }
+  },
+  {
+    "Jugador": "L. Lurvink",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.892,
+      "Duelos defensivos/90": 0.693,
+      "Duelos defensivos ganados %": 0.9,
+      "Duelos a\u00e9reos en los 90": 0.541,
+      "Interceptaciones/90": 0.732,
+      "Tiros interceptados/90": 0.705,
+      "Pases progresivos/90": 0.361,
+      "Pases hacia adelante/90": 0.538,
+      "Precisi\u00f3n pases largos %": 0.568
+    }
+  },
+  {
+    "Jugador": "V. Popov",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.938,
+      "Duelos defensivos/90": 0.912,
+      "Duelos defensivos ganados %": 0.461,
+      "Duelos a\u00e9reos en los 90": 0.167,
+      "Interceptaciones/90": 0.776,
+      "Tiros interceptados/90": 0.194,
+      "Pases progresivos/90": 1.0,
+      "Pases hacia adelante/90": 0.94,
+      "Precisi\u00f3n pases largos %": 0.476
+    }
+  },
+  {
+    "Jugador": "Llu\u00eds Recasens",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.956,
+      "Duelos defensivos/90": 0.602,
+      "Duelos defensivos ganados %": 0.742,
+      "Duelos a\u00e9reos en los 90": 0.195,
+      "Interceptaciones/90": 1.0,
+      "Tiros interceptados/90": 0.426,
+      "Pases progresivos/90": 0.678,
+      "Pases hacia adelante/90": 0.691,
+      "Precisi\u00f3n pases largos %": 0.5
+    }
+  },
+  {
+    "Jugador": "D. Redondi",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.694,
+      "Duelos defensivos/90": 0.537,
+      "Duelos defensivos ganados %": 0.643,
+      "Duelos a\u00e9reos en los 90": 0.39,
+      "Interceptaciones/90": 0.675,
+      "Tiros interceptados/90": 0.891,
+      "Pases progresivos/90": 0.66,
+      "Pases hacia adelante/90": 0.669,
+      "Precisi\u00f3n pases largos %": 0.534
+    }
+  },
+  {
+    "Jugador": "B. Varju",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.773,
+      "Duelos defensivos/90": 0.545,
+      "Duelos defensivos ganados %": 0.602,
+      "Duelos a\u00e9reos en los 90": 0.273,
+      "Interceptaciones/90": 0.755,
+      "Tiros interceptados/90": 0.395,
+      "Pases progresivos/90": 0.645,
+      "Pases hacia adelante/90": 0.751,
+      "Precisi\u00f3n pases largos %": 0.879
+    }
+  },
+  {
+    "Jugador": "M. Dijakovi\u0107",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.773,
+      "Duelos defensivos/90": 0.533,
+      "Duelos defensivos ganados %": 0.495,
+      "Duelos a\u00e9reos en los 90": 0.295,
+      "Interceptaciones/90": 0.855,
+      "Tiros interceptados/90": 0.721,
+      "Pases progresivos/90": 0.558,
+      "Pases hacia adelante/90": 0.857,
+      "Precisi\u00f3n pases largos %": 0.531
+    }
+  },
+  {
+    "Jugador": "T. Dzotsenidze",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.69,
+      "Duelos defensivos/90": 0.421,
+      "Duelos defensivos ganados %": 0.755,
+      "Duelos a\u00e9reos en los 90": 0.287,
+      "Interceptaciones/90": 0.752,
+      "Tiros interceptados/90": 0.643,
+      "Pases progresivos/90": 0.521,
+      "Pases hacia adelante/90": 0.761,
+      "Precisi\u00f3n pases largos %": 0.729
+    }
+  },
+  {
+    "Jugador": "D. Riegler",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.645,
+      "Duelos defensivos/90": 0.577,
+      "Duelos defensivos ganados %": 0.735,
+      "Duelos a\u00e9reos en los 90": 0.477,
+      "Interceptaciones/90": 0.513,
+      "Tiros interceptados/90": 0.481,
+      "Pases progresivos/90": 0.695,
+      "Pases hacia adelante/90": 0.827,
+      "Precisi\u00f3n pases largos %": 0.597
+    }
+  },
+  {
+    "Jugador": "J. Boller",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.655,
+      "Duelos defensivos/90": 0.325,
+      "Duelos defensivos ganados %": 0.663,
+      "Duelos a\u00e9reos en los 90": 0.537,
+      "Interceptaciones/90": 0.819,
+      "Tiros interceptados/90": 0.566,
+      "Pases progresivos/90": 0.564,
+      "Pases hacia adelante/90": 0.707,
+      "Precisi\u00f3n pases largos %": 0.653
+    }
+  },
+  {
+    "Jugador": "I. Strohbach",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.759,
+      "Duelos defensivos/90": 0.564,
+      "Duelos defensivos ganados %": 0.739,
+      "Duelos a\u00e9reos en los 90": 0.405,
+      "Interceptaciones/90": 0.706,
+      "Tiros interceptados/90": 0.868,
+      "Pases progresivos/90": 0.442,
+      "Pases hacia adelante/90": 0.46,
+      "Precisi\u00f3n pases largos %": 0.541
+    }
+  },
+  {
+    "Jugador": "L. Kramer",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.52,
+      "Duelos defensivos/90": 0.291,
+      "Duelos defensivos ganados %": 0.694,
+      "Duelos a\u00e9reos en los 90": 0.454,
+      "Interceptaciones/90": 0.605,
+      "Tiros interceptados/90": 0.698,
+      "Pases progresivos/90": 0.65,
+      "Pases hacia adelante/90": 0.926,
+      "Precisi\u00f3n pases largos %": 0.6
+    }
+  },
+  {
+    "Jugador": "David Morante",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.655,
+      "Duelos defensivos/90": 0.542,
+      "Duelos defensivos ganados %": 0.822,
+      "Duelos a\u00e9reos en los 90": 0.529,
+      "Interceptaciones/90": 0.525,
+      "Tiros interceptados/90": 0.512,
+      "Pases progresivos/90": 0.566,
+      "Pases hacia adelante/90": 0.705,
+      "Precisi\u00f3n pases largos %": 0.574
+    }
+  },
+  {
+    "Jugador": "X. Mbuyamba",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.593,
+      "Duelos defensivos/90": 0.44,
+      "Duelos defensivos ganados %": 0.65,
+      "Duelos a\u00e9reos en los 90": 0.562,
+      "Interceptaciones/90": 0.613,
+      "Tiros interceptados/90": 0.605,
+      "Pases progresivos/90": 0.671,
+      "Pases hacia adelante/90": 0.771,
+      "Precisi\u00f3n pases largos %": 0.523
+    }
+  },
+  {
+    "Jugador": "R. Frosinini",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 1.0,
+      "Duelos defensivos/90": 0.95,
+      "Duelos defensivos ganados %": 0.608,
+      "Duelos a\u00e9reos en los 90": 0.162,
+      "Interceptaciones/90": 0.773,
+      "Tiros interceptados/90": 0.256,
+      "Pases progresivos/90": 0.575,
+      "Pases hacia adelante/90": 0.601,
+      "Precisi\u00f3n pases largos %": 0.422
+    }
+  },
+  {
+    "Jugador": "O. Kuku\u010dka",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.748,
+      "Duelos defensivos/90": 0.477,
+      "Duelos defensivos ganados %": 0.839,
+      "Duelos a\u00e9reos en los 90": 0.382,
+      "Interceptaciones/90": 0.716,
+      "Tiros interceptados/90": 0.581,
+      "Pases progresivos/90": 0.46,
+      "Pases hacia adelante/90": 0.516,
+      "Precisi\u00f3n pases largos %": 0.579
+    }
+  },
+  {
+    "Jugador": "A. Konstantopoulos",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.857,
+      "Duelos defensivos/90": 0.686,
+      "Duelos defensivos ganados %": 0.602,
+      "Duelos a\u00e9reos en los 90": 0.213,
+      "Interceptaciones/90": 0.771,
+      "Tiros interceptados/90": 0.636,
+      "Pases progresivos/90": 0.458,
+      "Pases hacia adelante/90": 0.54,
+      "Precisi\u00f3n pases largos %": 0.534
+    }
+  },
+  {
+    "Jugador": "\u0160. Gabriel",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.595,
+      "Duelos defensivos/90": 0.281,
+      "Duelos defensivos ganados %": 0.581,
+      "Duelos a\u00e9reos en los 90": 0.405,
+      "Interceptaciones/90": 0.753,
+      "Tiros interceptados/90": 0.651,
+      "Pases progresivos/90": 0.661,
+      "Pases hacia adelante/90": 0.636,
+      "Precisi\u00f3n pases largos %": 0.705
+    }
+  },
+  {
+    "Jugador": "L. Malicsek",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.639,
+      "Duelos defensivos/90": 0.433,
+      "Duelos defensivos ganados %": 0.531,
+      "Duelos a\u00e9reos en los 90": 0.361,
+      "Interceptaciones/90": 0.683,
+      "Tiros interceptados/90": 0.326,
+      "Pases progresivos/90": 0.792,
+      "Pases hacia adelante/90": 0.882,
+      "Precisi\u00f3n pases largos %": 0.609
+    }
+  },
+  {
+    "Jugador": "A. Vovkun",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.799,
+      "Duelos defensivos/90": 0.549,
+      "Duelos defensivos ganados %": 0.826,
+      "Duelos a\u00e9reos en los 90": 0.469,
+      "Interceptaciones/90": 0.685,
+      "Tiros interceptados/90": 0.721,
+      "Pases progresivos/90": 0.342,
+      "Pases hacia adelante/90": 0.324,
+      "Precisi\u00f3n pases largos %": 0.534
+    }
+  },
+  {
+    "Jugador": "A. Ya\u015far",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.656,
+      "Duelos defensivos/90": 0.326,
+      "Duelos defensivos ganados %": 0.696,
+      "Duelos a\u00e9reos en los 90": 0.453,
+      "Interceptaciones/90": 0.766,
+      "Tiros interceptados/90": 0.752,
+      "Pases progresivos/90": 0.346,
+      "Pases hacia adelante/90": 0.529,
+      "Precisi\u00f3n pases largos %": 0.672
+    }
+  },
+  {
+    "Jugador": "Guilherme Soares",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.819,
+      "Duelos defensivos/90": 0.673,
+      "Duelos defensivos ganados %": 0.567,
+      "Duelos a\u00e9reos en los 90": 0.384,
+      "Interceptaciones/90": 0.775,
+      "Tiros interceptados/90": 0.527,
+      "Pases progresivos/90": 0.395,
+      "Pases hacia adelante/90": 0.447,
+      "Precisi\u00f3n pases largos %": 0.607
+    }
+  },
+  {
+    "Jugador": "E. Baggott",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.619,
+      "Duelos defensivos/90": 0.194,
+      "Duelos defensivos ganados %": 0.63,
+      "Duelos a\u00e9reos en los 90": 0.71,
+      "Interceptaciones/90": 0.838,
+      "Tiros interceptados/90": 0.713,
+      "Pases progresivos/90": 0.38,
+      "Pases hacia adelante/90": 0.562,
+      "Precisi\u00f3n pases largos %": 0.541
+    }
+  },
+  {
+    "Jugador": "M. Dickenmann",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.902,
+      "Duelos defensivos/90": 1.0,
+      "Duelos defensivos ganados %": 0.423,
+      "Duelos a\u00e9reos en los 90": 0.12,
+      "Interceptaciones/90": 0.704,
+      "Tiros interceptados/90": 0.496,
+      "Pases progresivos/90": 0.573,
+      "Pases hacia adelante/90": 0.553,
+      "Precisi\u00f3n pases largos %": 0.397
+    }
+  },
+  {
+    "Jugador": "B. Esselink",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.55,
+      "Duelos defensivos/90": 0.339,
+      "Duelos defensivos ganados %": 0.63,
+      "Duelos a\u00e9reos en los 90": 0.445,
+      "Interceptaciones/90": 0.654,
+      "Tiros interceptados/90": 0.674,
+      "Pases progresivos/90": 0.465,
+      "Pases hacia adelante/90": 0.655,
+      "Precisi\u00f3n pases largos %": 0.75
+    }
+  },
+  {
+    "Jugador": "V. Screciu",
+    "Perfil": "DC",
+    "Valores": {
+      "Acciones defensivas realizadas/90": 0.774,
+      "Duelos defensivos/90": 0.481,
+      "Duelos defensivos ganados %": 0.577,
+      "Duelos a\u00e9reos en los 90": 0.561,
+      "Interceptaciones/90": 0.815,
+      "Tiros interceptados/90": 0.535,
+      "Pases progresivos/90": 0.34,
+      "Pases hacia adelante/90": 0.54,
+      "Precisi\u00f3n pases largos %": 0.517
+    }
+  }
+]
